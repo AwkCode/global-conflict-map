@@ -2297,5 +2297,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — Israeli Bombardment",
+    "lat": 33.294,
+    "lng": 35.383,
+    "attacker": "Israel",
+    "date": "Apr 21, 2026",
+    "details": "Near-daily bombardments by Israel",
+    "casualties": "Killed and injured civilians",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Occupied West Bank village — Israeli Army Raids",
+    "lat": 32.104,
+    "lng": 35.255,
+    "attacker": "Israel",
+    "date": "Apr 21, 2026",
+    "details": "Israeli army raids across the occupied West Bank",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Al-Aqsa Mosque — Israeli Storming",
+    "lat": 31.778,
+    "lng": 35.235,
+    "attacker": "Israel",
+    "date": "Apr 21, 2026",
+    "details": "Israel's far-right security minister storms mosque compound",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

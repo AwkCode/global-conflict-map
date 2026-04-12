@@ -2374,5 +2374,27 @@
     "casualties": "Civilians killed and injured",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Attacks",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Apr 24, 2026",
+    "details": "Israel launches new attacks in Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Occupied West Bank village — Israeli settler attack",
+    "lat": 32,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Apr 24, 2026",
+    "details": "Palestinian shot dead during Israeli settler attack",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

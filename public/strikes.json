@@ -2264,5 +2264,16 @@
     "casualties": "Killed and injured civilians",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — Israeli Bombardment",
+    "lat": 33.2942,
+    "lng": 35.2083,
+    "attacker": "Israel",
+    "date": "Apr 19, 2026",
+    "details": "Near-daily bombardments by Israel",
+    "casualties": "Killed and injured civilians",
+    "killed": 0,
+    "injured": 0
   }
 ]

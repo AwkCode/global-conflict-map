@@ -2473,5 +2473,27 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Apr 29, 2026",
+    "details": "At least six killed",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Forces Attack",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Apr 29, 2026",
+    "details": "Three Palestinians killed",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

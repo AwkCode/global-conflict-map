@@ -2517,5 +2517,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Southern Gaza — Israeli Strikes",
+    "lat": 31.3,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "May 1, 2026",
+    "details": "Two Palestinians killed",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

@@ -2495,5 +2495,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Apr 29, 2026",
+    "details": "More than 160 people killed",
+    "casualties": "160+ killed",
+    "killed": 160,
+    "injured": 0
   }
 ]

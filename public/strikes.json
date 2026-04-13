@@ -2506,5 +2506,16 @@
     "casualties": "160+ killed",
     "killed": 160,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Strikes",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 30, 2026",
+    "details": "Israel kills three Palestinians",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

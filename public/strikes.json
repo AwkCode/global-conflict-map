@@ -2407,5 +2407,27 @@
     "casualties": "Killed and injured civilians",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Attacks",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Apr 26, 2026",
+    "details": "New attacks in Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — Israeli Bombardment",
+    "lat": 33.29,
+    "lng": 35.22,
+    "attacker": "Israel",
+    "date": "Apr 26, 2026",
+    "details": "Near-daily bombardments",
+    "casualties": "Civilians killed and injured",
+    "killed": 0,
+    "injured": 0
   }
 ]

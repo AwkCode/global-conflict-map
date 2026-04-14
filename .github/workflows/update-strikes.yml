@@ -35,14 +35,17 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
 
+      - name: Update commodity prices
+        run: node scripts/update-commodities.js
+
       - name: Commit & push changes
         run: |
           git config user.name "ww3-bot"
           git config user.email "bot@ww3-visualized.local"
-          git add public/strikes.json public/totals.json
+          git add public/strikes.json public/totals.json public/commodities.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-update strike data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+            git commit -m "chore: auto-update strike & commodity data [$(date -u +%Y-%m-%dT%H:%MZ)]"
             git push
           fi

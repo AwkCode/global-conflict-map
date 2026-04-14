@@ -676,6 +676,141 @@
             color: #fff;
             box-shadow: inset 0 -2px 0 #ef4444;
         }
+        /* ===== SHIPPING LEGEND ===== */
+        #shipping-legend {
+            position: absolute;
+            bottom: 80px;
+            left: 14px;
+            z-index: 800;
+            background: rgba(10,10,10,0.9);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            padding: 14px 18px;
+            min-width: 220px;
+            font-size: 12px;
+            display: none;
+            transition: opacity 0.2s;
+        }
+        #shipping-legend.visible { display: block; }
+        #shipping-legend .legend-line {
+            width: 20px;
+            height: 3px;
+            border-radius: 2px;
+            flex-shrink: 0;
+        }
+
+        /* ===== COMMODITIES PANEL ===== */
+        #commodities-panel {
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 850;
+            background: rgba(10,10,10,0.95);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-bottom: none;
+            border-radius: 14px 14px 0 0;
+            width: 580px;
+            max-width: calc(100vw - 20px);
+            display: none;
+            transition: transform 0.3s ease;
+        }
+        #commodities-panel.visible { display: block; }
+        #commodities-panel.collapsed #commodities-body { display: none; }
+        #commodities-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 18px;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+            user-select: none;
+        }
+        .commodities-title {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 1.2px;
+            text-transform: uppercase;
+            color: #e5e7eb;
+        }
+        #commodities-toggle-arrow {
+            font-size: 10px;
+            color: #6b7280;
+            transition: transform 0.2s;
+        }
+        #commodities-panel.collapsed #commodities-toggle-arrow { transform: rotate(180deg); }
+        #commodities-body {
+            padding: 12px 16px 14px;
+        }
+        #commodities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 10px;
+        }
+        .commodity-card {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 10px;
+            padding: 10px 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .commodity-name {
+            font-size: 9px;
+            font-weight: 700;
+            letter-spacing: 0.8px;
+            text-transform: uppercase;
+            color: #9ca3af;
+            font-family: 'IBM Plex Mono', monospace;
+        }
+        .commodity-price {
+            font-size: 18px;
+            font-weight: 700;
+            color: #f3f4f6;
+            font-family: 'IBM Plex Mono', monospace;
+        }
+        .commodity-changes {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+        .commodity-change {
+            font-size: 10px;
+            font-weight: 600;
+            font-family: 'IBM Plex Mono', monospace;
+            padding: 1px 5px;
+            border-radius: 4px;
+        }
+        .commodity-change.up { color: #22c55e; background: rgba(34,197,94,0.12); }
+        .commodity-change.down { color: #ef4444; background: rgba(239,68,68,0.12); }
+        .commodity-change.flat { color: #6b7280; background: rgba(107,114,128,0.12); }
+        .commodity-change-label {
+            font-size: 8px;
+            color: #6b7280;
+            letter-spacing: 0.5px;
+        }
+        .commodity-sparkline {
+            width: 100%;
+            height: 28px;
+            margin-top: 2px;
+        }
+        .commodity-sparkline polyline {
+            fill: none;
+            stroke-width: 1.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        .commodity-unit {
+            font-size: 9px;
+            color: #6b7280;
+        }
+
         /* Coalition legend */
         #coalition-legend {
             position: absolute;
@@ -948,6 +1083,24 @@
                 min-width: 140px;
                 font-size: 10px;
             }
+            #shipping-legend {
+                bottom: 52px;
+                left: 6px;
+                padding: 8px 10px;
+                min-width: 140px;
+                font-size: 10px;
+            }
+            #commodities-panel {
+                width: calc(100vw - 10px);
+                max-width: calc(100vw - 10px);
+            }
+            #commodities-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 6px;
+            }
+            .commodity-card { padding: 8px 10px; }
+            .commodity-price { font-size: 14px; }
+            .commodity-name { font-size: 8px; }
 
             /* Chat panel — top-left pill, BELOW the coalition toggle so it doesn't overlap */
             #chat-panel {
@@ -1283,6 +1436,7 @@
             <div id="coalition-toggle">
                 <button class="active" data-mode="strikes">Strikes</button>
                 <button data-mode="coalitions">Coalitions</button>
+                <button data-mode="shipping">Shipping</button>
             </div>
             <div id="coalition-legend">
                 <div class="legend-title">Coalition Alignments</div>
@@ -1293,6 +1447,31 @@
                 <div class="legend-item"><div class="legend-dot" style="background:#6b7280"></div><span class="legend-label">Non-Aligned <span class="legend-sub">· India, Africa, Latin America</span></span></div>
                 <div class="legend-footer">Based on 2024–2026 posture &amp; verified operations</div>
             </div>
+            <!-- Shipping Legend (visible in shipping mode) -->
+            <div id="shipping-legend">
+                <div class="legend-title">Strait of Hormuz Tracker</div>
+                <div class="legend-item"><div class="legend-line" style="background:#22c55e"></div><span class="legend-label">Normal Route <span class="legend-sub">· Hormuz → Suez → Atlantic</span></span></div>
+                <div class="legend-item"><div class="legend-line" style="background:#f59e0b"></div><span class="legend-label">Diverted Route <span class="legend-sub">· Cape of Good Hope</span></span></div>
+                <div class="legend-item"><div class="legend-line" style="background:#ef4444"></div><span class="legend-label">Contested Zone <span class="legend-sub">· Iran blockade area</span></span></div>
+                <div class="legend-item"><div class="legend-dot" style="background:#06b6d4"></div><span class="legend-label">Live Ships <span class="legend-sub">· AIS tracking</span></span></div>
+                <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div><span class="legend-label">Chokepoint <span class="legend-sub">· Strategic narrows</span></span></div>
+                <div class="legend-footer">
+                    <span id="ship-count-label">Ships tracked: --</span>
+                </div>
+            </div>
+
+            <!-- Commodities Pull-up Panel -->
+            <div id="commodities-panel">
+                <div id="commodities-header">
+                    <span class="commodities-title">📊 COMMODITIES</span>
+                    <span id="commodities-toggle-arrow">▲</span>
+                </div>
+                <div id="commodities-body">
+                    <div id="commodities-grid"></div>
+                    <div id="commodities-updated" style="font-size:8px;color:#4b5563;text-align:center;margin-top:6px;">Loading prices...</div>
+                </div>
+            </div>
+
             <div id="strike-counter"></div>
             <div id="date-sidebar"></div>
             <div id="news-panel">
@@ -1489,6 +1668,7 @@
 
         // ===== DATE SELECTOR (iOS-style scroll wheel) =====
         let activeTimeFilter = 'all';
+        let suppressScrollAutoSelect = false;
         const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
         // Build date list from Feb 28, 2026 through today (regenerates on each page load)
@@ -1595,6 +1775,7 @@
                         updateWheelVisuals();
                     });
                 }
+                if (suppressScrollAutoSelect) return;
                 // When scrolling stops, auto-select whatever is centered
                 if (scrollStopTimer) clearTimeout(scrollStopTimer);
                 scrollStopTimer = setTimeout(() => {
@@ -1619,15 +1800,22 @@
             });
 
             dateSidebar.appendChild(dateScroll);
-            // Initial visual pass after layout
+            // Initial visual pass after layout — default to ALL (no date selected)
             requestAnimationFrame(() => {
                 updateWheelVisuals();
-                // Scroll the last date (today) into view by default
                 if (timeFilters.length > 0) {
+                    // Park the wheel near today visually, but keep ALL as the active filter.
+                    // Suppress the scroll-stop auto-select for this programmatic scroll.
+                    suppressScrollAutoSelect = true;
                     const lastPill = allDatePills[allDatePills.length - 1].el;
                     lastPill.scrollIntoView({ block: 'center' });
                     updateWheelVisuals();
+                    setTimeout(() => { suppressScrollAutoSelect = false; }, 400);
                 }
+                activeTimeFilter = 'all';
+                if (allBtn) allBtn.classList.add('active');
+                allDatePills.forEach(p => p.el.classList.remove('active'));
+                applyTimeFilter();
             });
         }
 
@@ -2139,34 +2327,620 @@
                 }, 'admin-0-boundary-bg');
             });
 
-            // ===== COALITION TOGGLE LOGIC =====
-            let coalitionMode = false;
+            // ===== SHIPPING ROUTE LAYERS =====
+            // Normal route: Persian Gulf → Hormuz → Gulf of Aden → Red Sea → Suez → Med → Atlantic → US East Coast
+            const normalRoute = [
+                [50.5, 26.5],   // Persian Gulf
+                [56.3, 26.6],   // Strait of Hormuz
+                [58.5, 24.5],   // Gulf of Oman
+                [62.0, 22.0],   // Arabian Sea
+                [52.0, 14.0],   // South of Yemen
+                [44.0, 12.5],   // Bab el-Mandeb
+                [42.0, 15.0],   // Red Sea south
+                [38.0, 22.0],   // Red Sea mid
+                [34.0, 28.0],   // Red Sea north
+                [32.3, 30.0],   // Suez Canal
+                [31.0, 31.5],   // Mediterranean entry
+                [25.0, 34.0],   // Central Med
+                [10.0, 36.0],   // West Med
+                [-5.6, 35.9],   // Gibraltar
+                [-15.0, 34.0],  // Atlantic
+                [-30.0, 36.0],  // Mid Atlantic
+                [-50.0, 38.0],  // West Atlantic
+                [-74.0, 40.7],  // New York
+            ];
+
+            // Diverted route: Persian Gulf → around Africa → Cape of Good Hope → Atlantic → US
+            const divertedRoute = [
+                [50.5, 26.5],   // Persian Gulf
+                [56.3, 26.6],   // Strait of Hormuz
+                [58.5, 24.5],   // Gulf of Oman
+                [62.0, 22.0],   // Arabian Sea
+                [60.0, 15.0],   // South Arabian Sea
+                [55.0, 5.0],    // Indian Ocean
+                [50.0, -5.0],   // East Africa coast
+                [45.0, -12.0],  // Mozambique Channel north
+                [40.0, -18.0],  // Mozambique Channel
+                [36.0, -26.0],  // South Mozambique
+                [30.0, -32.0],  // Durban
+                [24.0, -34.5],  // Port Elizabeth
+                [18.5, -34.8],  // Cape of Good Hope
+                [14.0, -30.0],  // West South Africa
+                [8.0, -20.0],   // South Atlantic
+                [2.0, -5.0],    // Gulf of Guinea
+                [-10.0, 5.0],   // Central Atlantic
+                [-25.0, 15.0],  // Mid Atlantic
+                [-45.0, 28.0],  // West Atlantic
+                [-65.0, 35.0],  // Bermuda area
+                [-74.0, 40.7],  // New York
+            ];
+
+            // Contested zone around Strait of Hormuz
+            const contestedZone = [
+                [54.0, 27.2], [56.0, 27.0], [57.0, 26.8], [57.5, 26.2],
+                [57.0, 25.5], [56.5, 25.0], [55.5, 24.5], [54.5, 25.0],
+                [54.0, 26.0], [54.0, 27.2]
+            ];
+
+            map.addSource('normal-route', {
+                type: 'geojson',
+                data: { type: 'Feature', geometry: { type: 'LineString', coordinates: normalRoute } }
+            });
+            map.addSource('diverted-route', {
+                type: 'geojson',
+                data: { type: 'Feature', geometry: { type: 'LineString', coordinates: divertedRoute } }
+            });
+            map.addSource('contested-zone', {
+                type: 'geojson',
+                data: { type: 'Feature', geometry: { type: 'Polygon', coordinates: [contestedZone] } }
+            });
+
+            // Chokepoints
+            const chokepoints = [
+                { name: 'Strait of Hormuz', coords: [56.3, 26.6], status: 'contested', detail: 'Iran naval patrols\n~21M bbl/day transit' },
+                { name: 'Bab el-Mandeb', coords: [43.3, 12.6], status: 'contested', detail: 'Houthi anti-ship missiles\n~6.2M bbl/day transit' },
+                { name: 'Suez Canal', coords: [32.3, 30.5], status: 'active', detail: 'Operating under threat\n~5.5M bbl/day transit' },
+                { name: 'Cape of Good Hope', coords: [18.5, -34.4], status: 'safe', detail: 'Alternative route\n+10-14 days transit time' },
+                { name: 'Gulf of Oman', coords: [58.5, 24.5], status: 'contested', detail: 'IRGC Navy operations zone' },
+            ];
+
+            map.addSource('chokepoints', {
+                type: 'geojson',
+                data: {
+                    type: 'FeatureCollection',
+                    features: chokepoints.map(cp => ({
+                        type: 'Feature',
+                        geometry: { type: 'Point', coordinates: cp.coords },
+                        properties: { name: cp.name, status: cp.status, detail: cp.detail }
+                    }))
+                }
+            });
+
+            // AIS live ships source (updated via WebSocket)
+            map.addSource('ais-ships', {
+                type: 'geojson',
+                data: { type: 'FeatureCollection', features: [] }
+            });
+
+            // --- Route line layers ---
+            map.addLayer({
+                id: 'normal-route-line',
+                type: 'line',
+                source: 'normal-route',
+                paint: {
+                    'line-color': '#22c55e',
+                    'line-width': 3,
+                    'line-opacity': 0.7,
+                    'line-dasharray': [2, 2]
+                },
+                layout: { visibility: 'none', 'line-cap': 'round', 'line-join': 'round' }
+            });
+            map.addLayer({
+                id: 'diverted-route-line',
+                type: 'line',
+                source: 'diverted-route',
+                paint: {
+                    'line-color': '#f59e0b',
+                    'line-width': 3,
+                    'line-opacity': 0.7,
+                    'line-dasharray': [3, 2]
+                },
+                layout: { visibility: 'none', 'line-cap': 'round', 'line-join': 'round' }
+            });
+
+            // Contested zone fill
+            map.addLayer({
+                id: 'contested-zone-fill',
+                type: 'fill',
+                source: 'contested-zone',
+                paint: {
+                    'fill-color': '#ef4444',
+                    'fill-opacity': 0.12
+                },
+                layout: { visibility: 'none' }
+            });
+            map.addLayer({
+                id: 'contested-zone-outline',
+                type: 'line',
+                source: 'contested-zone',
+                paint: {
+                    'line-color': '#ef4444',
+                    'line-width': 2,
+                    'line-opacity': 0.6,
+                    'line-dasharray': [4, 3]
+                },
+                layout: { visibility: 'none' }
+            });
+
+            // Chokepoint markers
+            map.addLayer({
+                id: 'chokepoint-pulse',
+                type: 'circle',
+                source: 'chokepoints',
+                paint: {
+                    'circle-radius': 16,
+                    'circle-color': ['match', ['get', 'status'],
+                        'contested', '#ef4444',
+                        'active', '#f59e0b',
+                        'safe', '#22c55e',
+                        '#6b7280'],
+                    'circle-opacity': 0.25,
+                    'circle-blur': 0.5
+                },
+                layout: { visibility: 'none' }
+            });
+            map.addLayer({
+                id: 'chokepoint-dots',
+                type: 'circle',
+                source: 'chokepoints',
+                paint: {
+                    'circle-radius': 7,
+                    'circle-color': ['match', ['get', 'status'],
+                        'contested', '#ef4444',
+                        'active', '#f59e0b',
+                        'safe', '#22c55e',
+                        '#6b7280'],
+                    'circle-opacity': 1,
+                    'circle-stroke-color': '#ffffff',
+                    'circle-stroke-width': 1.5
+                },
+                layout: { visibility: 'none' }
+            });
+            map.addLayer({
+                id: 'chokepoint-labels',
+                type: 'symbol',
+                source: 'chokepoints',
+                layout: {
+                    'text-field': ['get', 'name'],
+                    'text-font': ['DIN Pro Medium', 'Arial Unicode MS Regular'],
+                    'text-size': 12,
+                    'text-offset': [0, 1.4],
+                    'text-anchor': 'top',
+                    'text-allow-overlap': true,
+                    visibility: 'none'
+                },
+                paint: {
+                    'text-color': '#e5e7eb',
+                    'text-halo-color': 'rgba(10,10,10,0.9)',
+                    'text-halo-width': 2
+                }
+            });
+
+            // AIS ship dots
+            map.addLayer({
+                id: 'ais-ship-dots',
+                type: 'circle',
+                source: 'ais-ships',
+                paint: {
+                    'circle-radius': ['interpolate', ['linear'], ['zoom'], 2, 2, 6, 4, 10, 6],
+                    'circle-color': '#06b6d4',
+                    'circle-opacity': 0.85,
+                    'circle-stroke-color': '#ffffff',
+                    'circle-stroke-width': 0.5
+                },
+                layout: { visibility: 'none' }
+            });
+            map.addLayer({
+                id: 'ais-ship-labels',
+                type: 'symbol',
+                source: 'ais-ships',
+                layout: {
+                    'text-field': ['get', 'name'],
+                    'text-font': ['DIN Pro Medium', 'Arial Unicode MS Regular'],
+                    'text-size': 9,
+                    'text-offset': [0, 1.2],
+                    'text-anchor': 'top',
+                    'text-allow-overlap': false,
+                    'text-optional': true,
+                    visibility: 'none'
+                },
+                paint: {
+                    'text-color': '#06b6d4',
+                    'text-halo-color': 'rgba(10,10,10,0.8)',
+                    'text-halo-width': 1.5
+                }
+            });
+
+            // Click handler for chokepoints
+            map.on('click', 'chokepoint-dots', (e) => {
+                const p = e.features[0].properties;
+                const coords = e.features[0].geometry.coordinates.slice();
+                const statusColor = p.status === 'contested' ? '#ef4444' : p.status === 'active' ? '#f59e0b' : '#22c55e';
+                const statusLabel = p.status.toUpperCase();
+                popup.setLngLat(coords)
+                    .setHTML(`<div class="strike-popup" style="padding:14px;">
+                        <h3 style="color:${statusColor}">${p.name}</h3>
+                        <span class="attacker-tag" style="background:${statusColor}">${statusLabel}</span>
+                        <div class="details" style="margin-top:8px;white-space:pre-line;">${p.detail}</div>
+                    </div>`)
+                    .addTo(map);
+            });
+            map.on('mouseenter', 'chokepoint-dots', () => map.getCanvas().style.cursor = 'pointer');
+            map.on('mouseleave', 'chokepoint-dots', () => map.getCanvas().style.cursor = '');
+
+            // Click handler for AIS ships
+            map.on('click', 'ais-ship-dots', (e) => {
+                const p = e.features[0].properties;
+                const coords = e.features[0].geometry.coordinates.slice();
+                popup.setLngLat(coords)
+                    .setHTML(`<div class="strike-popup" style="padding:14px;">
+                        <h3 style="color:#06b6d4">🚢 ${p.name || 'Unknown Vessel'}</h3>
+                        <div class="details" style="margin-top:6px;">
+                            <div>MMSI: ${p.mmsi || '—'}</div>
+                            <div>Type: ${p.shipType || '—'}</div>
+                            <div>Speed: ${p.speed != null ? p.speed.toFixed(1) + ' kn' : '—'}</div>
+                            <div>Heading: ${p.heading != null ? p.heading + '°' : '—'}</div>
+                        </div>
+                    </div>`)
+                    .addTo(map);
+            });
+            map.on('mouseenter', 'ais-ship-dots', () => map.getCanvas().style.cursor = 'pointer');
+            map.on('mouseleave', 'ais-ship-dots', () => map.getCanvas().style.cursor = '');
+
+            // Animate chokepoint pulse + route dash offset
+            if (!map._shippingAnimTimer) {
+                let st = 0;
+                map._shippingAnimTimer = setInterval(() => {
+                    st += 0.06;
+                    if (map.getLayer('chokepoint-pulse')) {
+                        const r = 14 + Math.sin(st) * 8;
+                        const o = 0.3 - (Math.sin(st) + 1) * 0.1;
+                        map.setPaintProperty('chokepoint-pulse', 'circle-radius', r);
+                        map.setPaintProperty('chokepoint-pulse', 'circle-opacity', Math.max(0.05, o));
+                    }
+                }, 60);
+            }
+
+            // Shipping layer IDs for toggle
+            const shippingLayerIds = [
+                'normal-route-line', 'diverted-route-line',
+                'contested-zone-fill', 'contested-zone-outline',
+                'chokepoint-pulse', 'chokepoint-dots', 'chokepoint-labels',
+                'ais-ship-dots', 'ais-ship-labels'
+            ];
+
+            // ===== MODE TOGGLE LOGIC (Strikes / Coalitions / Shipping) =====
+            let currentMode = 'strikes';
             const coalitionLayerIds = Object.keys(coalitionGroups).flatMap(k => [`coalition-fill-${k}`, `coalition-line-${k}`]);
             const strikeLayerIds = ['strike-glow', 'strike-circles', 'strike-labels'];
+
+            function setMapMode(mode) {
+                currentMode = mode;
+                const isStrikes = mode === 'strikes';
+                const isCoalitions = mode === 'coalitions';
+                const isShipping = mode === 'shipping';
+
+                // Toggle strike layers
+                strikeLayerIds.forEach(id => {
+                    if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', isStrikes ? 'visible' : 'none');
+                });
+                // Live strike layers
+                ['strike-live-pulse', 'strike-live-core', 'strike-flags'].forEach(id => {
+                    if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', isStrikes ? 'visible' : 'none');
+                });
+
+                // Toggle coalition layers
+                coalitionLayerIds.forEach(id => {
+                    map.setLayoutProperty(id, 'visibility', isCoalitions ? 'visible' : 'none');
+                });
+
+                // Toggle shipping layers
+                shippingLayerIds.forEach(id => {
+                    if (map.getLayer(id)) map.setLayoutProperty(id, 'visibility', isShipping ? 'visible' : 'none');
+                });
+
+                // UI panels
+                document.getElementById('coalition-legend').classList.toggle('visible', isCoalitions);
+                document.getElementById('shipping-legend').classList.toggle('visible', isShipping);
+                document.getElementById('commodities-panel').classList.toggle('visible', isShipping);
+                document.getElementById('date-sidebar').style.display = isStrikes ? '' : 'none';
+                document.getElementById('strike-counter').style.display = isStrikes ? '' : 'none';
+
+                // Start/stop AIS stream
+                if (isShipping) {
+                    startAISStream();
+                    if (!_commoditiesLoaded) loadCommodities();
+                } else {
+                    stopAISStream();
+                }
+
+                // Fly to relevant area
+                if (isShipping) {
+                    map.flyTo({ center: [50, 15], zoom: 3, duration: 1500 });
+                }
+            }
 
             document.querySelectorAll('#coalition-toggle button').forEach(btn => {
                 btn.addEventListener('click', () => {
                     document.querySelectorAll('#coalition-toggle button').forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
-                    coalitionMode = btn.dataset.mode === 'coalitions';
-
-                    // Toggle coalition layers
-                    coalitionLayerIds.forEach(id => {
-                        map.setLayoutProperty(id, 'visibility', coalitionMode ? 'visible' : 'none');
-                    });
-
-                    // Toggle strike layers
-                    strikeLayerIds.forEach(id => {
-                        if (map.getLayer(id)) {
-                            map.setLayoutProperty(id, 'visibility', coalitionMode ? 'none' : 'visible');
-                        }
-                    });
-
-                    // Toggle legend + date sidebar + strike counter
-                    document.getElementById('coalition-legend').classList.toggle('visible', coalitionMode);
-                    document.getElementById('date-sidebar').style.display = coalitionMode ? 'none' : '';
-                    document.getElementById('strike-counter').style.display = coalitionMode ? 'none' : '';
+                    setMapMode(btn.dataset.mode);
                 });
+            });
+
+            // ===== AISStream LIVE SHIP TRACKING =====
+            let aisSocket = null;
+            const aisShips = new Map(); // mmsi -> feature
+            const AIS_REGIONS = [
+                // Strait of Hormuz + Persian Gulf
+                [[23.0, 48.0], [28.0, 60.0]],
+                // Bab el-Mandeb + Gulf of Aden
+                [[10.0, 40.0], [16.0, 52.0]],
+                // Suez Canal approach
+                [[28.0, 30.0], [32.0, 35.0]],
+                // Cape of Good Hope
+                [[-38.0, 14.0], [-30.0, 22.0]],
+                // Red Sea
+                [[14.0, 36.0], [28.0, 44.0]],
+            ];
+
+            function startAISStream() {
+                if (aisSocket && aisSocket.readyState <= 1) return;
+                const apiKey = window.AISSTREAM_KEY;
+                if (!apiKey) {
+                    console.warn('No AISSTREAM_KEY — using simulated ship data');
+                    simulateShips();
+                    return;
+                }
+                try {
+                    aisSocket = new WebSocket('wss://stream.aisstream.io/v0/stream');
+                    aisSocket.onopen = () => {
+                        aisSocket.send(JSON.stringify({
+                            APIKey: apiKey,
+                            BoundingBoxes: AIS_REGIONS
+                        }));
+                    };
+                    aisSocket.onmessage = (event) => {
+                        try {
+                            const msg = JSON.parse(event.data);
+                            if (msg.MessageType === 'PositionReport') {
+                                const pos = msg.Message?.PositionReport;
+                                const meta = msg.MetaData;
+                                if (!pos || !meta) return;
+                                const mmsi = String(meta.MMSI);
+                                aisShips.set(mmsi, {
+                                    type: 'Feature',
+                                    geometry: { type: 'Point', coordinates: [pos.Longitude, pos.Latitude] },
+                                    properties: {
+                                        mmsi,
+                                        name: (meta.ShipName || '').trim() || 'Vessel ' + mmsi.slice(-4),
+                                        speed: pos.Sog,
+                                        heading: pos.TrueHeading !== 511 ? pos.TrueHeading : pos.Cog,
+                                        shipType: meta.ShipType || 'Unknown'
+                                    }
+                                });
+                                throttledUpdateAIS();
+                            }
+                        } catch (e) { /* skip malformed */ }
+                    };
+                    aisSocket.onclose = () => {
+                        // Reconnect after 10s if still in shipping mode
+                        setTimeout(() => { if (currentMode === 'shipping') startAISStream(); }, 10000);
+                    };
+                    aisSocket.onerror = () => aisSocket.close();
+                } catch (e) {
+                    console.warn('AIS WebSocket failed:', e);
+                    simulateShips();
+                }
+            }
+
+            function stopAISStream() {
+                if (aisSocket) {
+                    aisSocket.close();
+                    aisSocket = null;
+                }
+            }
+
+            let _aisUpdateTimer = null;
+            function throttledUpdateAIS() {
+                if (_aisUpdateTimer) return;
+                _aisUpdateTimer = setTimeout(() => {
+                    _aisUpdateTimer = null;
+                    const src = map.getSource('ais-ships');
+                    if (src) {
+                        src.setData({ type: 'FeatureCollection', features: [...aisShips.values()] });
+                    }
+                    const label = document.getElementById('ship-count-label');
+                    if (label) label.textContent = `Ships tracked: ${aisShips.size}`;
+                }, 2000);
+            }
+
+            // Simulated ship positions when no API key is available
+            function simulateShips() {
+                const simShips = [
+                    // Persian Gulf / Hormuz area
+                    { name: 'PACIFIC VOYAGER', mmsi: '538006842', coords: [56.1, 26.4], speed: 12.3, heading: 135, type: 'Tanker' },
+                    { name: 'NORDIC SPIRIT', mmsi: '249014000', coords: [55.8, 26.7], speed: 10.1, heading: 310, type: 'Tanker' },
+                    { name: 'GULF STAR', mmsi: '470123456', coords: [54.5, 26.2], speed: 8.5, heading: 90, type: 'Cargo' },
+                    { name: 'IRAN DENA', mmsi: '422100100', coords: [57.0, 26.0], speed: 6.0, heading: 200, type: 'Naval' },
+                    { name: 'STENA IMPERO II', mmsi: '235099123', coords: [56.8, 25.8], speed: 11.0, heading: 160, type: 'Tanker' },
+                    { name: 'AL JASRA', mmsi: '408123000', coords: [51.2, 26.8], speed: 9.2, heading: 85, type: 'LNG' },
+                    // Gulf of Oman
+                    { name: 'FRONT ALTA', mmsi: '258132000', coords: [59.0, 24.0], speed: 13.5, heading: 220, type: 'VLCC' },
+                    { name: 'COSCO SHANGHAI', mmsi: '413789000', coords: [60.5, 23.0], speed: 14.0, heading: 250, type: 'Container' },
+                    // Bab el-Mandeb / Red Sea
+                    { name: 'MAERSK SELETAR', mmsi: '219018000', coords: [43.5, 12.8], speed: 15.2, heading: 330, type: 'Container' },
+                    { name: 'CMA CGM PEARL', mmsi: '228330000', coords: [42.8, 14.5], speed: 12.0, heading: 340, type: 'Container' },
+                    { name: 'USS EISENHOWER', mmsi: '369970001', coords: [44.0, 13.5], speed: 18.0, heading: 45, type: 'Carrier' },
+                    { name: 'RED SEA GUARDIAN', mmsi: '538008000', coords: [39.0, 20.0], speed: 11.5, heading: 345, type: 'Tanker' },
+                    // Suez approach
+                    { name: 'EVER GIVEN II', mmsi: '353136000', coords: [32.5, 30.2], speed: 7.0, heading: 0, type: 'Container' },
+                    { name: 'SUEZ PASSAGE', mmsi: '622123000', coords: [33.0, 29.5], speed: 6.5, heading: 350, type: 'Tanker' },
+                    // Cape of Good Hope (diverted ships)
+                    { name: 'MSC LUCIA', mmsi: '256789000', coords: [18.8, -34.2], speed: 16.0, heading: 290, type: 'Container' },
+                    { name: 'CAPE PIONEER', mmsi: '636092000', coords: [20.0, -33.5], speed: 14.5, heading: 270, type: 'Tanker' },
+                    { name: 'ORIENTAL JADE', mmsi: '440123000', coords: [16.0, -31.0], speed: 13.0, heading: 315, type: 'Bulk Carrier' },
+                    // Indian Ocean (transit)
+                    { name: 'BRITISH HERITAGE', mmsi: '235100000', coords: [50.0, -3.0], speed: 15.0, heading: 210, type: 'Tanker' },
+                    { name: 'MINERVA CLARA', mmsi: '240000000', coords: [55.0, 8.0], speed: 12.5, heading: 200, type: 'Tanker' },
+                    { name: 'PACIFIC BASIN', mmsi: '477900000', coords: [45.0, -10.0], speed: 14.0, heading: 195, type: 'Bulk Carrier' },
+                ];
+
+                simShips.forEach(s => {
+                    aisShips.set(s.mmsi, {
+                        type: 'Feature',
+                        geometry: { type: 'Point', coordinates: s.coords },
+                        properties: { mmsi: s.mmsi, name: s.name, speed: s.speed, heading: s.heading, shipType: s.type }
+                    });
+                });
+
+                // Animate simulated ships with gentle drift
+                setInterval(() => {
+                    if (currentMode !== 'shipping') return;
+                    aisShips.forEach((f, mmsi) => {
+                        const h = (f.properties.heading || 0) * Math.PI / 180;
+                        const spd = (f.properties.speed || 5) * 0.00002;
+                        f.geometry.coordinates[0] += Math.sin(h) * spd + (Math.random() - 0.5) * 0.002;
+                        f.geometry.coordinates[1] += Math.cos(h) * spd + (Math.random() - 0.5) * 0.002;
+                    });
+                    const src = map.getSource('ais-ships');
+                    if (src) src.setData({ type: 'FeatureCollection', features: [...aisShips.values()] });
+                }, 3000);
+
+                throttledUpdateAIS();
+            }
+
+            // ===== COMMODITIES DATA =====
+            let _commoditiesLoaded = false;
+
+            async function loadCommodities() {
+                _commoditiesLoaded = true;
+                const grid = document.getElementById('commodities-grid');
+                const updatedEl = document.getElementById('commodities-updated');
+
+                // Try to load cached commodity data first
+                try {
+                    const resp = await fetch('/commodities.json');
+                    if (resp.ok) {
+                        const data = await resp.json();
+                        renderCommodities(data);
+                        return;
+                    }
+                } catch (e) { /* fallback to static */ }
+
+                // Fallback: static representative data (updated by GitHub Actions pipeline)
+                const staticData = [
+                    {
+                        symbol: 'CL=F', name: 'WTI Crude', unit: '$/bbl',
+                        price: 78.42, dayChange: 2.15, weekChange: -1.38,
+                        history: [79.80, 78.10, 77.50, 79.20, 76.90, 77.30, 78.42]
+                    },
+                    {
+                        symbol: 'BZ=F', name: 'Brent Crude', unit: '$/bbl',
+                        price: 82.67, dayChange: 1.89, weekChange: -0.72,
+                        history: [83.40, 82.00, 81.20, 83.50, 80.80, 81.10, 82.67]
+                    },
+                    {
+                        symbol: 'NG=F', name: 'Natural Gas', unit: '$/MMBtu',
+                        price: 3.84, dayChange: -0.52, weekChange: 4.35,
+                        history: [3.68, 3.55, 3.72, 3.60, 3.78, 3.86, 3.84]
+                    },
+                    {
+                        symbol: 'GC=F', name: 'Gold', unit: '$/oz',
+                        price: 2412.30, dayChange: 0.34, weekChange: 2.10,
+                        history: [2362, 2380, 2395, 2370, 2388, 2405, 2412]
+                    },
+                    {
+                        symbol: 'BDIY', name: 'Baltic Dry', unit: 'Index',
+                        price: 1847, dayChange: -1.22, weekChange: -3.45,
+                        history: [1912, 1890, 1875, 1860, 1855, 1842, 1847]
+                    },
+                    {
+                        symbol: 'SI=F', name: 'Silver', unit: '$/oz',
+                        price: 31.28, dayChange: 1.05, weekChange: 3.82,
+                        history: [30.10, 29.85, 30.40, 30.00, 30.75, 31.00, 31.28]
+                    },
+                    {
+                        symbol: 'HO=F', name: 'Heating Oil', unit: '$/gal',
+                        price: 2.58, dayChange: 1.72, weekChange: -0.89,
+                        history: [2.61, 2.54, 2.50, 2.56, 2.48, 2.53, 2.58]
+                    },
+                    {
+                        symbol: 'RB=F', name: 'Gasoline', unit: '$/gal',
+                        price: 2.72, dayChange: 0.89, weekChange: 1.45,
+                        history: [2.68, 2.62, 2.65, 2.60, 2.66, 2.70, 2.72]
+                    }
+                ];
+
+                renderCommodities(staticData);
+            }
+
+            function renderCommodities(commodities) {
+                const grid = document.getElementById('commodities-grid');
+                const updatedEl = document.getElementById('commodities-updated');
+
+                grid.innerHTML = commodities.map(c => {
+                    const dayDir = c.dayChange >= 0 ? 'up' : 'down';
+                    const weekDir = c.weekChange >= 0 ? 'up' : 'down';
+                    const daySign = c.dayChange >= 0 ? '+' : '';
+                    const weekSign = c.weekChange >= 0 ? '+' : '';
+                    const sparkSvg = buildSparkline(c.history, dayDir === 'up' ? '#22c55e' : '#ef4444');
+                    const priceStr = c.price >= 100 ? c.price.toFixed(0) : c.price.toFixed(2);
+
+                    return `<div class="commodity-card">
+                        <div class="commodity-name">${c.name}</div>
+                        <div style="display:flex;align-items:baseline;gap:6px;">
+                            <span class="commodity-price">${priceStr}</span>
+                            <span class="commodity-unit">${c.unit}</span>
+                        </div>
+                        <div class="commodity-changes">
+                            <div>
+                                <div class="commodity-change-label">1D</div>
+                                <div class="commodity-change ${dayDir}">${daySign}${c.dayChange.toFixed(2)}%</div>
+                            </div>
+                            <div>
+                                <div class="commodity-change-label">1W</div>
+                                <div class="commodity-change ${weekDir}">${weekSign}${c.weekChange.toFixed(2)}%</div>
+                            </div>
+                        </div>
+                        ${sparkSvg}
+                    </div>`;
+                }).join('');
+
+                updatedEl.textContent = 'Prices as of ' + new Date().toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+            }
+
+            function buildSparkline(data, color) {
+                if (!data || data.length < 2) return '';
+                const min = Math.min(...data);
+                const max = Math.max(...data);
+                const range = max - min || 1;
+                const w = 100;
+                const h = 28;
+                const pad = 2;
+                const points = data.map((v, i) => {
+                    const x = pad + (i / (data.length - 1)) * (w - pad * 2);
+                    const y = h - pad - ((v - min) / range) * (h - pad * 2);
+                    return `${x.toFixed(1)},${y.toFixed(1)}`;
+                }).join(' ');
+                return `<svg class="commodity-sparkline" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+                    <polyline points="${points}" style="stroke:${color}" />
+                </svg>`;
+            }
+
+            // Commodities panel toggle
+            document.getElementById('commodities-header').addEventListener('click', () => {
+                document.getElementById('commodities-panel').classList.toggle('collapsed');
             });
 
             // Initial render

@@ -2528,5 +2528,27 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Nabatieh — Israeli Strikes",
+    "lat": 33.3833,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "Israeli strikes hit Nabatieh",
+    "casualties": "Multiple reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "Over 160 killed since Friday",
+    "casualties": "High",
+    "killed": 160,
+    "injured": 0
   }
 ]

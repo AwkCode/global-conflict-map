@@ -2583,5 +2583,27 @@
     "casualties": "Over 160 killed",
     "killed": 160,
     "injured": 0
+  },
+  {
+    "name": "Nabatieh — Israeli Strikes",
+    "lat": 33.3619,
+    "lng": 35.4983,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Paramedics speak to BBC after strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.8547,
+    "lng": 35.8623,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Over 160 people killed since Friday",
+    "casualties": "160+ killed",
+    "killed": 160,
+    "injured": 0
   }
 ]

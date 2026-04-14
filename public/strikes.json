@@ -2605,5 +2605,16 @@
     "casualties": "160+ killed",
     "killed": 160,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Attack",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 14, 2026",
+    "details": "Israeli strike on Shati refugee camp",
+    "casualties": "Several people killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

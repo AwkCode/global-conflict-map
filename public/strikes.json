@@ -2550,5 +2550,16 @@
     "casualties": "High",
     "killed": 160,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 5, 2026",
+    "details": "More than 160 people killed",
+    "casualties": "Multiple casualties reported",
+    "killed": 160,
+    "injured": 0
   }
 ]

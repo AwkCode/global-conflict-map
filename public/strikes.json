@@ -2704,5 +2704,16 @@
     "casualties": "3 paramedics killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.1833,
+    "lng": 35.3833,
+    "attacker": "Israel",
+    "date": "May 17, 2026",
+    "details": "Israel bombs homes in Bint Jbeil district",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

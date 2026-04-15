@@ -2638,5 +2638,16 @@
     "casualties": "11 killed, including 2 children",
     "killed": 11,
     "injured": 0
+  },
+  {
+    "name": "Nabatieh — Israeli Strikes",
+    "lat": 33.3833,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 14, 2026",
+    "details": "Israeli strikes on Nabatieh",
+    "casualties": "Multiple casualties reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

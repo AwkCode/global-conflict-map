@@ -2627,5 +2627,16 @@
     "casualties": "Several killed",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Strikes",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 14, 2026",
+    "details": "Israeli attacks on Gaza",
+    "casualties": "11 killed, including 2 children",
+    "killed": 11,
+    "injured": 0
   }
 ]

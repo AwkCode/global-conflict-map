@@ -2660,5 +2660,16 @@
     "casualties": "At least 4 dead",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "May 15, 2026",
+    "details": "Israel strikes hit southern Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

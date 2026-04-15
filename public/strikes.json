@@ -2693,5 +2693,16 @@
     "casualties": "3 paramedics killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Triple-Tap Strike",
+    "lat": 33.85,
+    "lng": 35.88,
+    "attacker": "Israel",
+    "date": "May 16, 2026",
+    "details": "Israeli triple-tap strike kills three paramedics",
+    "casualties": "3 paramedics killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

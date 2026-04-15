@@ -317,7 +317,7 @@
             right: 16px;
         }
         #main:not(.news-collapsed) #date-sidebar {
-            right: 336px;
+            right: 372px;
         }
         .news-header {
             padding: 10px 14px;
@@ -961,19 +961,18 @@
             position: fixed;
             top: 64px;
             left: 18px;
-            width: 320px;
+            width: 300px;
             max-height: 420px;
             z-index: 1100;
-            background: rgba(10,10,10,0.92);
-            backdrop-filter: blur(14px);
-            -webkit-backdrop-filter: blur(14px);
-            border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 12px;
+            background: transparent;
+            border: none;
+            border-radius: 0;
             overflow: hidden;
             display: flex;
             flex-direction: column;
-            box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+            box-shadow: none;
             transition: all 0.25s ease;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.6);
         }
         #chat-panel.collapsed {
             max-height: 42px;
@@ -981,9 +980,9 @@
         #chat-header {
             display: flex;
             align-items: center;
-            padding: 10px 14px;
-            background: linear-gradient(135deg, #0d0d1a, #111827);
-            border-bottom: 1px solid rgba(255,255,255,0.06);
+            padding: 6px 4px 8px;
+            background: transparent;
+            border-bottom: none;
             cursor: pointer;
             user-select: none;
             flex-shrink: 0;
@@ -1097,15 +1096,17 @@
         }
         #chat-input-wrap {
             display: flex;
-            padding: 10px 12px;
-            border-top: 1px solid rgba(255,255,255,0.06);
+            padding: 8px 4px 4px;
+            border-top: none;
             gap: 6px;
             flex-shrink: 0;
         }
         #chat-input {
             flex: 1;
-            background: rgba(255,255,255,0.04);
-            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(10,10,10,0.55);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255,255,255,0.12);
             border-radius: 6px;
             padding: 7px 10px;
             color: #fff;

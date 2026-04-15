@@ -2649,5 +2649,16 @@
     "casualties": "Multiple casualties reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 14, 2026",
+    "details": "Deadly strikes despite diplomatic drive",
+    "casualties": "At least 4 dead",
+    "killed": 4,
+    "injured": 0
   }
 ]

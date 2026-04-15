@@ -2671,5 +2671,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "May 16, 2026",
+    "details": "Israel strikes hit southern Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Israeli Strikes",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 16, 2026",
+    "details": "Three paramedics killed in successive Israeli strikes",
+    "casualties": "3 paramedics killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

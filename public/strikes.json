@@ -2748,5 +2748,16 @@
     "casualties": "4 paramedics killed, several injured",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Air Attack",
+    "lat": 33.33,
+    "lng": 35.33,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israeli air attack destroys buildings around south Lebanon hospital",
+    "casualties": "Several emergency vehicles destroyed, no reported fatalities",
+    "killed": 0,
+    "injured": 0
   }
 ]

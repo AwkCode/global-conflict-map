@@ -2715,5 +2715,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.2333,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israel bombs homes in Bint Jbeil district",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

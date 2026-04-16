@@ -3684,10 +3684,18 @@
             return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false });
         }
 
-        // Render a single message (dedupe by id)
+        // Render a single message (dedupe by id, hide messages older than 24h)
         const chatMessagesEl = document.getElementById('chat-messages');
         const renderedMsgIds = new Set();
+        const CHAT_TTL_MS = 24 * 60 * 60 * 1000; // 24 hours
+        function isMsgExpired(createdAt) {
+            if (!createdAt) return false;
+            const t = new Date(createdAt).getTime();
+            if (isNaN(t)) return false;
+            return (Date.now() - t) > CHAT_TTL_MS;
+        }
         function renderMsg(msg) {
+            if (isMsgExpired(msg.created_at)) return;
             if (msg.id != null) {
                 if (renderedMsgIds.has(msg.id)) return;
                 renderedMsgIds.add(msg.id);
@@ -3695,6 +3703,7 @@
             const div = document.createElement('div');
             div.className = 'chat-msg';
             if (msg.id != null) div.dataset.msgId = msg.id;
+            if (msg.created_at) div.dataset.createdAt = msg.created_at;
 
             const isSelf = msg.username === chatUsername;
             const timeSpan = document.createElement('span');
@@ -3716,11 +3725,13 @@
             chatMessagesEl.scrollTop = chatMessagesEl.scrollHeight;
         }
 
-        // Load recent messages
+        // Load recent messages (last 24h only)
         async function loadChatHistory() {
+            const since = new Date(Date.now() - CHAT_TTL_MS).toISOString();
             const { data, error } = await sb
                 .from('messages')
                 .select('*')
+                .gte('created_at', since)
                 .order('created_at', { ascending: false })
                 .limit(100);
             if (error) {
@@ -3733,6 +3744,18 @@
             }
             data.reverse().forEach(renderMsg);
         }
+
+        // Sweep expired messages out of the DOM every minute
+        function sweepExpiredChat() {
+            const nodes = chatMessagesEl.querySelectorAll('.chat-msg[data-created-at]');
+            nodes.forEach(n => {
+                if (isMsgExpired(n.dataset.createdAt)) {
+                    if (n.dataset.msgId) renderedMsgIds.delete(Number(n.dataset.msgId));
+                    n.remove();
+                }
+            });
+        }
+        setInterval(sweepExpiredChat, 60 * 1000);
 
         // ===== TYPING INDICATOR STATE =====
         const chatTypingEl = document.getElementById('chat-typing');

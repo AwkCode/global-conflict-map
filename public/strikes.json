@@ -2803,5 +2803,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strikes",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 22, 2026",
+    "details": "Israeli strikes hit southern Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tibnin Hospital — Israeli Strikes",
+    "lat": 33.2,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "May 22, 2026",
+    "details": "Tibnin Hospital damaged by Israeli strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Triple-Tap Strike",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 22, 2026",
+    "details": "Israeli triple-tap strike kills three paramedics",
+    "casualties": "3 paramedics killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

@@ -2759,5 +2759,16 @@
     "casualties": "Several emergency vehicles destroyed, no reported fatalities",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Attack",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israeli attacks kill several in Gaza",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

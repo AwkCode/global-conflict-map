@@ -2990,5 +2990,38 @@
     "casualties": "Three paramedics killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian Gunboat Attack",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jun 1, 2026",
+    "details": "Iranian gunboats fired on a tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Shelling",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "Israeli shelling violates ceasefire",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strike",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "Israel carried out strikes on terrorists",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

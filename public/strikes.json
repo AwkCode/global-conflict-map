@@ -2891,5 +2891,16 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Triple-Tap Strike",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 25, 2026",
+    "details": "Killed 3 paramedics",
+    "casualties": "3 paramedics killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

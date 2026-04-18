@@ -3067,5 +3067,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — French Peacekeeper Killed",
+    "lat": 33.35,
+    "lng": 35.58,
+    "attacker": "Hezbollah",
+    "date": "Jun 5, 2026",
+    "details": "French peacekeeper killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ship Attack",
+    "lat": 26.63,
+    "lng": 56.25,
+    "attacker": "Iran",
+    "date": "Jun 5, 2026",
+    "details": "Ships attacked",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

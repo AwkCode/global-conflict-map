@@ -2946,5 +2946,49 @@
     "casualties": "3 paramedics killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Attack on Water Truck Drivers",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 29, 2026",
+    "details": "Israeli forces kill water truck drivers",
+    "casualties": "Drivers killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian Gunboat Attack",
+    "lat": 26.57,
+    "lng": 56.07,
+    "attacker": "Iran",
+    "date": "May 29, 2026",
+    "details": "Iranian gunboats open fire on tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Shelling",
+    "lat": 33.12,
+    "lng": 35.23,
+    "attacker": "Israel",
+    "date": "May 29, 2026",
+    "details": "Israeli shelling violates ceasefire",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Triple-Tap Strike",
+    "lat": 33.12,
+    "lng": 35.23,
+    "attacker": "Israel",
+    "date": "May 29, 2026",
+    "details": "Israeli triple-tap strike kills paramedics",
+    "casualties": "Three paramedics killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

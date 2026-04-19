@@ -3166,5 +3166,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Israeli Strike",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 12, 2026",
+    "details": "Strike on terrorists approaching forces",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ship Attack",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Jun 12, 2026",
+    "details": "Ships attacked after Iran declared strict control",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

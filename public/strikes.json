@@ -3111,5 +3111,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ship Attack",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jun 9, 2026",
+    "details": "Iranian military attacked ships",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

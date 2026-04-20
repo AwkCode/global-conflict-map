@@ -3331,5 +3331,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian Ship Touska",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 20, 2026",
+    "details": "US seizes Iranian ship Touska",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

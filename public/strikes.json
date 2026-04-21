@@ -3474,5 +3474,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Al Mughayir",
+    "lat": 32.0333,
+    "lng": 35.2667,
+    "attacker": "Israel",
+    "date": "Jul 3, 2026",
+    "details": "Israeli settler attack",
+    "casualties": "2 Palestinians killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — French Peacekeeper",
+    "lat": 33.35,
+    "lng": 35.5833,
+    "attacker": "Hezbollah",
+    "date": "Jul 2, 2026",
+    "details": "French peacekeeper killed",
+    "casualties": "1 French peacekeeper killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian-flagged cargo ship",
+    "lat": 26.6167,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jul 2, 2026",
+    "details": "US intercepts and seizes Iranian ship",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

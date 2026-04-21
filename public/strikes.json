@@ -3375,5 +3375,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Seizes Iranian Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 27, 2026",
+    "details": "US intercepts and seizes Iranian-flagged cargo ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — French Peacekeeper Killed",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Hezbollah",
+    "date": "Jun 26, 2026",
+    "details": "French peacekeeper killed in southern Lebanon",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

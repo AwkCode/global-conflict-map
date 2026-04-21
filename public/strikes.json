@@ -3430,5 +3430,49 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Al Mughayir",
+    "lat": 32,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 1, 2026",
+    "details": "Israeli settler attack",
+    "casualties": "2 Palestinians killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — French Peacekeeper",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Hezbollah",
+    "date": "Jun 30, 2026",
+    "details": "French peacekeeper killed",
+    "casualties": "1 peacekeeper killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Asia Pacific — Sanctioned Tanker",
+    "lat": 10,
+    "lng": 130,
+    "attacker": "US/Israel",
+    "date": "Jun 30, 2026",
+    "details": "US forces board sanctioned tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — M/T Tifani Tanker",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "US/Israel",
+    "date": "Jun 30, 2026",
+    "details": "US Navy boards Iranian tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

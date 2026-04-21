@@ -3397,5 +3397,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Arabian Sea — M/T Tifani Tanker",
+    "lat": 25,
+    "lng": 60,
+    "attacker": "US/Israel",
+    "date": "Jun 29, 2026",
+    "details": "US stops and boards tanker carrying Iranian oil",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Israeli Forces",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli soldiers kill 11 Palestinians",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — French Peacekeeper",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Hezbollah",
+    "date": "Jun 29, 2026",
+    "details": "French peacekeeper killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

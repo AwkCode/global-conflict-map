@@ -3793,5 +3793,16 @@
     "casualties": "2 Palestinians killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 16, 2026",
+    "details": "Iran seized two ships",
+    "casualties": "One ship heavily damaged",
+    "killed": 0,
+    "injured": 0
   }
 ]

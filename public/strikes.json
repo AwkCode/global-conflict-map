@@ -3606,5 +3606,49 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 11, 2026",
+    "details": "One cargo ship heavily damaged",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Al Mughayyir",
+    "lat": 32,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 11, 2026",
+    "details": "Settler attack on village",
+    "casualties": "2 Palestinians killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Oman coast — Container Ship",
+    "lat": 24,
+    "lng": 58,
+    "attacker": "Iran",
+    "date": "Jul 11, 2026",
+    "details": "Iranian gunboat fired on ship",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Mosque",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 11, 2026",
+    "details": "Israeli attack on mosque",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

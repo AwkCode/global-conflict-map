@@ -3969,5 +3969,49 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 2, 2026",
+    "details": "Israeli strike kills 8 Palestinians",
+    "casualties": "3 children, 2 adults, and 3 others killed",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Near the border",
+    "lat": 33.12,
+    "lng": 35.21,
+    "attacker": "Israel",
+    "date": "Aug 2, 2026",
+    "details": "Israeli strike kills journalist Amal Khalil",
+    "casualties": "1 journalist killed, 1 photojournalist injured",
+    "killed": 1,
+    "injured": 1
+  },
+  {
+    "name": "Strait of Hormuz — Two cargo ships",
+    "lat": 26.63,
+    "lng": 56.25,
+    "attacker": "Iran",
+    "date": "Aug 2, 2026",
+    "details": "Iran seizes two ships, one heavily damaged",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Occupied West Bank",
+    "lat": 32.13,
+    "lng": 35.27,
+    "attacker": "Israel",
+    "date": "Aug 2, 2026",
+    "details": "Israeli forces kill Palestinian teenager",
+    "casualties": "1 teenager killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

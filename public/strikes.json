@@ -3804,5 +3804,38 @@
     "casualties": "One ship heavily damaged",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 17, 2026",
+    "details": "Iran seized two ships",
+    "casualties": "One ship heavily damaged",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Al Mughayyir",
+    "lat": 32,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 17, 2026",
+    "details": "Settler attack on village",
+    "casualties": "2 Palestinians killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jul 17, 2026",
+    "details": "Israeli attacks on Lebanon",
+    "casualties": "At least 5 people killed, including a journalist",
+    "killed": 5,
+    "injured": 1
   }
 ]

@@ -3837,5 +3837,27 @@
     "casualties": "At least 5 people killed, including a journalist",
     "killed": 5,
     "injured": 1
+  },
+  {
+    "name": "Strait of Hormuz — Cargo Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 18, 2026",
+    "details": "Iran seized two ships",
+    "casualties": "One ship heavily damaged",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Journalist",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 19, 2026",
+    "details": "Journalist Amal Khalil killed",
+    "casualties": "1 killed, 1 injured",
+    "killed": 1,
+    "injured": 1
   }
 ]

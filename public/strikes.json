@@ -4233,5 +4233,16 @@
     "casualties": "1 journalist killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.4833,
+    "attacker": "Israel",
+    "date": "Aug 31, 2026",
+    "details": "Israeli strike killed 8 Palestinians",
+    "casualties": "3 children, 2 adults, and 3 others killed",
+    "killed": 8,
+    "injured": 0
   }
 ]

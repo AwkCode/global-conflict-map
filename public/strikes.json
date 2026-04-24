@@ -4244,5 +4244,27 @@
     "casualties": "3 children, 2 adults, and 3 others killed",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 1, 2026",
+    "details": "Israeli strike killed 8 Palestinians",
+    "casualties": "8 killed, unknown injured",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Bint Jbeil",
+    "lat": 33.12,
+    "lng": 35.43,
+    "attacker": "Israel",
+    "date": "Sep 1, 2026",
+    "details": "Israeli forces killed 6 Hezbollah fighters",
+    "casualties": "6 killed, unknown injured",
+    "killed": 6,
+    "injured": 0
   }
 ]

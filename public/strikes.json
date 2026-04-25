@@ -4453,5 +4453,16 @@
     "casualties": "8 Palestinians killed",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli strike near mosque",
+    "casualties": "3 children, 2 adults killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

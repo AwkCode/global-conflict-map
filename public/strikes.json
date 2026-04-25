@@ -4398,5 +4398,27 @@
     "casualties": "4 killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.4833,
+    "attacker": "Israel",
+    "date": "Sep 14, 2026",
+    "details": "Israeli strike kills 8 Palestinians",
+    "casualties": "8 killed",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Yohmor al-Shaqif",
+    "lat": 33.1167,
+    "lng": 35.3667,
+    "attacker": "Israel",
+    "date": "Sep 14, 2026",
+    "details": "Israeli raids kill 4 people",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

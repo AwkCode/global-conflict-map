@@ -4343,5 +4343,27 @@
     "casualties": "12 killed, including 6 police officers",
     "killed": 12,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 7, 2026",
+    "details": "Multiple attacks across Gaza",
+    "casualties": "12 killed, including 6 police officers",
+    "killed": 12,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Near a mosque in Beit Lahia",
+    "lat": 31.55,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 7, 2026",
+    "details": "Strike near a mosque",
+    "casualties": "3 children and 2 adults killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

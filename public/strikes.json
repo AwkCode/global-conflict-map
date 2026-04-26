@@ -4486,5 +4486,27 @@
     "casualties": "8 Palestinians killed",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon",
+    "lat": 33.1667,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israel destroys solar panels",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli attacks in western Gaza",
+    "casualties": "At least 4 people killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

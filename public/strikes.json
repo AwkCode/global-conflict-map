@@ -4574,5 +4574,27 @@
     "casualties": "at least 14 killed",
     "killed": 14,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Oct 6, 2026",
+    "details": "Israeli strikes amid ceasefire",
+    "casualties": "14 killed",
+    "killed": 14,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.12,
+    "lng": 35.22,
+    "attacker": "Israel",
+    "date": "Oct 6, 2026",
+    "details": "Israeli strikes on Hezbollah",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

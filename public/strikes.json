@@ -4563,5 +4563,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.12,
+    "lng": 35.22,
+    "attacker": "Israel",
+    "date": "Oct 5, 2026",
+    "details": "Israeli airstrikes hit southern Lebanon",
+    "casualties": "at least 14 killed",
+    "killed": 14,
+    "injured": 0
   }
 ]

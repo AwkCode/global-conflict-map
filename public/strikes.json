@@ -4827,5 +4827,27 @@
     "casualties": "14 people killed",
     "killed": 14,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Nov 9, 2026",
+    "details": "Israeli strike kills 9 in Lebanon",
+    "casualties": "9 killed, including 3 rescue workers",
+    "killed": 9,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Palestinian group",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Nov 10, 2026",
+    "details": "Israeli strike targets Palestinians",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

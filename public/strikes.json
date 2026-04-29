@@ -4805,5 +4805,27 @@
     "casualties": "14 killed",
     "killed": 14,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Nov 7, 2026",
+    "details": "Double-tap strike",
+    "casualties": "9 people killed",
+    "killed": 9,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Nov 8, 2026",
+    "details": "Strike amid ongoing ceasefire",
+    "casualties": "14 people killed",
+    "killed": 14,
+    "injured": 0
   }
 ]

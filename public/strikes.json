@@ -4750,5 +4750,27 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "Oct 27, 2026",
+    "details": "Israeli strikes amid ceasefire",
+    "casualties": "14 killed",
+    "killed": 14,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "Oct 28, 2026",
+    "details": "Attack on rescue workers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

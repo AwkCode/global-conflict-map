@@ -4860,5 +4860,27 @@
     "casualties": "3 rescue workers killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Nov 15, 2026",
+    "details": "Double-tap strike",
+    "casualties": "9 people killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "International waters — Global Sumud Flotilla boats",
+    "lat": 35.52,
+    "lng": 24.03,
+    "attacker": "Israel",
+    "date": "Nov 15, 2026",
+    "details": "Interception of aid boats",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

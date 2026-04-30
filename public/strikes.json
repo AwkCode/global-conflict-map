@@ -4849,5 +4849,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Nov 14, 2026",
+    "details": "Double-tap strike",
+    "casualties": "3 rescue workers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

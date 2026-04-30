@@ -4937,5 +4937,27 @@
     "casualties": "3 rescue workers killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Dec 5, 2026",
+    "details": "Double-tap strike",
+    "casualties": "3 rescue workers killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "International waters — Gaza flotilla",
+    "lat": 36.45,
+    "lng": 23.55,
+    "attacker": "Israel",
+    "date": "Dec 5, 2026",
+    "details": "Interception of aid flotilla",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

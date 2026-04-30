@@ -4981,5 +4981,27 @@
     "casualties": "9 people killed in total",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "International waters — Gaza flotilla",
+    "lat": 35.516,
+    "lng": 24.016,
+    "attacker": "Israel",
+    "date": "Dec 8, 2026",
+    "details": "Intercepted aid flotilla near Crete",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.866,
+    "lng": 35.513,
+    "attacker": "Israel",
+    "date": "Dec 7, 2026",
+    "details": "Double-tap strike killed 3 rescue workers",
+    "casualties": "3 killed, 6 injured",
+    "killed": 3,
+    "injured": 6
   }
 ]

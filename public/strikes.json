@@ -5003,5 +5003,38 @@
     "casualties": "3 killed, 6 injured",
     "killed": 3,
     "injured": 6
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Dec 11, 2026",
+    "details": "Israeli strikes on southern Lebanon",
+    "casualties": "At least 9 people killed",
+    "killed": 9,
+    "injured": 0
+  },
+  {
+    "name": "International waters — Gaza flotilla",
+    "lat": 35.42,
+    "lng": 24.93,
+    "attacker": "Israel",
+    "date": "Dec 11, 2026",
+    "details": "Israel intercepts Gaza flotilla near Crete",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Dec 11, 2026",
+    "details": "Israeli 'double-tap' strike kills rescue workers",
+    "casualties": "3 rescue workers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

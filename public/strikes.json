@@ -5146,5 +5146,27 @@
     "casualties": "1 woman killed, children injured",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 7, 2026",
+    "details": "Deadly Israeli strikes on southern Lebanon",
+    "casualties": "17 killed, including 2 children",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 7, 2026",
+    "details": "Israeli 'double-tap' strike",
+    "casualties": "3 rescue workers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

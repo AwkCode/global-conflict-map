@@ -5069,5 +5069,27 @@
     "casualties": "Three rescue workers killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "Seventeen people killed, including two children",
+    "casualties": "17 killed, including 2 children",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "International waters — Gaza flotilla",
+    "lat": 35.55,
+    "lng": 24.93,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "22 boats carrying aid for Gaza intercepted",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

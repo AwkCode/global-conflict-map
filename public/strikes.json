@@ -5333,5 +5333,27 @@
     "casualties": "41 people killed in 24 hours",
     "killed": 41,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "Thirteen killed in Israeli strikes",
+    "casualties": "Four women and a child among dead",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "At least 41 people killed in 50 airstrikes",
+    "casualties": "Multiple casualties reported",
+    "killed": 41,
+    "injured": 0
   }
 ]

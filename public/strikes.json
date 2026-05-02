@@ -5201,5 +5201,27 @@
     "casualties": "3 rescue workers killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 10, 2026",
+    "details": "Seventeen people killed, including two children",
+    "casualties": "17 killed, including 2 children",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 10, 2026",
+    "details": "Three rescue workers killed",
+    "casualties": "3 rescue workers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

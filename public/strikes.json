@@ -5245,5 +5245,27 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 23, 2026",
+    "details": "Thirteen killed in Israeli strikes",
+    "casualties": "Four women and a child among dead",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Rescue workers",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 23, 2026",
+    "details": "Israeli 'double-tap' strike",
+    "casualties": "Three rescue workers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

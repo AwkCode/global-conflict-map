@@ -5311,5 +5311,27 @@
     "casualties": "Several towns hit despite 'ceasefire'",
     "killed": 10,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 31, 2026",
+    "details": "Thirteen killed in Israeli strikes",
+    "casualties": "Thirteen killed, including four women and a child",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 31, 2026",
+    "details": "Israeli air strikes on Lebanon",
+    "casualties": "41 people killed in 24 hours",
+    "killed": 41,
+    "injured": 0
   }
 ]

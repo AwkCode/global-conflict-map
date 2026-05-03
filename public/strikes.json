@@ -5410,5 +5410,16 @@
     "casualties": "Four women and a child among the dead",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Jun 7, 2026",
+    "details": "Thirteen killed in Israeli strikes",
+    "casualties": "Four women and a child among the dead",
+    "killed": 13,
+    "injured": 0
   }
 ]

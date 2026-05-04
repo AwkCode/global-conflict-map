@@ -5564,5 +5564,38 @@
     "casualties": "No immediate reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "UAE — Territory",
+    "lat": 24,
+    "lng": 54,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Missile and drone strikes",
+    "casualties": "No immediate reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oman — Territory",
+    "lat": 21,
+    "lng": 57,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Missile and drone strikes",
+    "casualties": "No immediate reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Airstrikes",
+    "casualties": "77 people killed since Thursday",
+    "killed": 77,
+    "injured": 0
   }
 ]

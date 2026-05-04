@@ -5553,5 +5553,16 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "UAE — Territory",
+    "lat": 24,
+    "lng": 54,
+    "attacker": "Iran",
+    "date": "Jun 19, 2026",
+    "details": "Four cruise missiles fired",
+    "casualties": "No immediate reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

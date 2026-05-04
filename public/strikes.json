@@ -5531,5 +5531,27 @@
     "casualties": "4 women, 1 child among dead",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 16, 2026",
+    "details": "Thirteen killed in Israeli strikes",
+    "casualties": "Four women and a child among the dead",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz",
+    "lat": 26.6,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jun 16, 2026",
+    "details": "Iran fired missiles at US warship",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

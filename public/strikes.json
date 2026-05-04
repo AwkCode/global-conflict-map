@@ -5597,5 +5597,27 @@
     "casualties": "77 people killed since Thursday",
     "killed": 77,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 22, 2026",
+    "details": "US shot down Iranian missiles and drones",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jun 22, 2026",
+    "details": "Iran claims its navy forced a US warship to turn back",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

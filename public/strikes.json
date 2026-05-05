@@ -5652,5 +5652,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Israeli strikes on southern Lebanon",
+    "casualties": "110 people killed since Thursday",
+    "killed": 110,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Civilian area",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 26, 2026",
+    "details": "Israeli strike sparks fire in northern Gaza City",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Vessels",
+    "lat": 26.6,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 26, 2026",
+    "details": "US shot down Iranian missiles and drones",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

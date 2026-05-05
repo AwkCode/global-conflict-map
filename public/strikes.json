@@ -5729,5 +5729,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "UAE — Oil facility",
+    "lat": 24,
+    "lng": 54,
+    "attacker": "Iran",
+    "date": "Jun 29, 2026",
+    "details": "Iran attacks UAE oil facility",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Vessels",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 29, 2026",
+    "details": "US shot down Iranian missiles and drones",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli strikes kill dozens",
+    "casualties": "110 killed",
+    "killed": 110,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Southern region",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli strikes kill 13",
+    "casualties": "13 killed",
+    "killed": 13,
+    "injured": 0
   }
 ]

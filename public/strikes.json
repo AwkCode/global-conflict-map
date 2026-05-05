@@ -5817,5 +5817,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Vessels",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jul 3, 2026",
+    "details": "US shot down Iranian missiles and drones",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "UAE — Oil facility",
+    "lat": 24,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Jul 3, 2026",
+    "details": "Iran attacks UAE oil facility",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

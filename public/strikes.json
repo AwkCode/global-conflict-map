@@ -5641,5 +5641,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Civilian area",
+    "lat": 31.5333,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Israeli strike sparks fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -5872,5 +5872,38 @@
     "casualties": "1 boy killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Vessels",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jul 5, 2026",
+    "details": "US shot down Iranian missiles and drones",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "UAE — Oil facility",
+    "lat": 24,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Jul 5, 2026",
+    "details": "Iran attacked UAE oil facility",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza police station",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jul 5, 2026",
+    "details": "Israel struck Gaza police station",
+    "casualties": "1 boy killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

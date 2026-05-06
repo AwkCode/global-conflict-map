@@ -5993,5 +5993,27 @@
     "casualties": "At least six killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "UAE — Oil facility",
+    "lat": 24,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Jul 10, 2026",
+    "details": "Iran attacks UAE oil facility",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian fast boats",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jul 10, 2026",
+    "details": "US strikes Iranian fast boats",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

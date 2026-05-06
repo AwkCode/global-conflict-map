@@ -6015,5 +6015,16 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut's southern suburb — Hezbollah commander",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jul 11, 2026",
+    "details": "Israel bombs Beirut's southern suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

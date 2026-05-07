@@ -6103,5 +6103,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jul 20, 2026",
+    "details": "First strike since mid-April",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beirut's southern suburbs",
+    "lat": 33.8563,
+    "lng": 35.5137,
+    "attacker": "Israel",
+    "date": "Jul 20, 2026",
+    "details": "Airstrike despite ceasefire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

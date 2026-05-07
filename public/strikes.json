@@ -6070,5 +6070,27 @@
     "casualties": "5 Palestinians killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jul 15, 2026",
+    "details": "First strike since mid-April",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City",
+    "lat": 31.5122,
+    "lng": 34.4414,
+    "attacker": "Israel",
+    "date": "Jul 15, 2026",
+    "details": "Deadly attack on Gaza City",
+    "casualties": "1 killed, 1 seriously wounded",
+    "killed": 1,
+    "injured": 1
   }
 ]

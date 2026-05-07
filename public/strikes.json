@@ -6092,5 +6092,16 @@
     "casualties": "1 killed, 1 seriously wounded",
     "killed": 1,
     "injured": 1
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jul 16, 2026",
+    "details": "First strike since Hezbollah ceasefire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -6026,5 +6026,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut's southern suburbs",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jul 12, 2026",
+    "details": "First bombing since ceasefire",
+    "casualties": "Not specified",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jul 12, 2026",
+    "details": "Five Palestinians killed",
+    "casualties": "Five killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

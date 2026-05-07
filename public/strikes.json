@@ -6048,5 +6048,27 @@
     "casualties": "Five killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Beirut",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jul 14, 2026",
+    "details": "Israeli strikes",
+    "casualties": "Not specified",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5122,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Jul 14, 2026",
+    "details": "Israeli strikes",
+    "casualties": "5 Palestinians killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

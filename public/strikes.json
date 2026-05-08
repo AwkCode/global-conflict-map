@@ -6169,5 +6169,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US vessels",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 27, 2026",
+    "details": "Iran fired on US vessels",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian coastal areas",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jul 27, 2026",
+    "details": "US targeted Iranian coastal areas",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jul 27, 2026",
+    "details": "Israel targeted a senior Hezbollah figure",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

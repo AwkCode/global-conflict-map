@@ -6246,5 +6246,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 1, 2026",
+    "details": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US vessels",
+    "lat": 26.6122,
+    "lng": 56.3047,
+    "attacker": "Iran",
+    "date": "Jul 30, 2026",
+    "details": "Iran fires on U.S. vessels in the strait",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

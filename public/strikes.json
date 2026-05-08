@@ -6158,5 +6158,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jul 26, 2026",
+    "details": "Targeted a senior Hezbollah figure",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

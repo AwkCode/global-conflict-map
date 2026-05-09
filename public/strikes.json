@@ -6345,5 +6345,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Aug 27, 2026",
+    "details": "First strike since mid-April",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon",
+    "lat": 33.85,
+    "lng": 35.51,
+    "attacker": "Israel",
+    "date": "Aug 27, 2026",
+    "details": "Israeli attacks across Lebanon",
+    "casualties": "At least 19 killed",
+    "killed": 19,
+    "injured": 0
   }
 ]

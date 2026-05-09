@@ -6312,5 +6312,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Senior Hezbollah figure",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 11, 2026",
+    "details": "First strike since mid-April",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

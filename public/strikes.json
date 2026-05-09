@@ -6268,5 +6268,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 4, 2026",
+    "details": "Israel killed 31 people, including a rescue worker",
+    "casualties": "31 killed, unknown injured",
+    "killed": 31,
+    "injured": 0
+  },
+  {
+    "name": "Beirut",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Aug 4, 2026",
+    "details": "Israel targeted a senior Hezbollah figure",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian oil tankers",
+    "lat": 26.6,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Aug 4, 2026",
+    "details": "US strikes on two Iranian oil tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

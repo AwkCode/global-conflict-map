@@ -6367,5 +6367,16 @@
     "casualties": "At least 19 killed",
     "killed": 19,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Sep 1, 2026",
+    "details": "Israeli strikes killed 39",
+    "casualties": "39 killed",
+    "killed": 39,
+    "injured": 0
   }
 ]

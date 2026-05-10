@@ -6389,5 +6389,38 @@
     "casualties": "24 killed",
     "killed": 24,
     "injured": 0
+  },
+  {
+    "name": "Qatar — Commercial vessel",
+    "lat": 25.3548,
+    "lng": 51.1839,
+    "attacker": "Iran",
+    "date": "Sep 4, 2026",
+    "details": "Drone attack on commercial vessel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "UAE — Various targets",
+    "lat": 24.4667,
+    "lng": 54.3667,
+    "attacker": "Iran",
+    "date": "Sep 4, 2026",
+    "details": "Drone attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Various targets",
+    "lat": 29.3753,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Sep 4, 2026",
+    "details": "Drone attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

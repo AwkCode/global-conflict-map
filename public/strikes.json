@@ -6444,5 +6444,27 @@
     "casualties": "At least 39 killed",
     "killed": 39,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Sep 22, 2026",
+    "details": "Israeli strikes killed 51, including medics",
+    "casualties": "51 killed, unknown injured",
+    "killed": 51,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — One family",
+    "lat": 33.12,
+    "lng": 35.21,
+    "attacker": "Israel",
+    "date": "Sep 22, 2026",
+    "details": "Eight family members killed, including a 6-month-old infant",
+    "casualties": "8 killed, unknown injured",
+    "killed": 8,
+    "injured": 0
   }
 ]

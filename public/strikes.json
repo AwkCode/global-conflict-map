@@ -6521,5 +6521,27 @@
     "casualties": "8 killed, including a 6-month-old infant",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 3, 2026",
+    "details": "Israeli strikes follow forced displacement warnings",
+    "casualties": "At least four killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — One family",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Oct 2, 2026",
+    "details": "Eight members of one family killed",
+    "casualties": "Eight killed, including a 6-month-old infant",
+    "killed": 8,
+    "injured": 0
   }
 ]

@@ -6510,5 +6510,16 @@
     "casualties": "8 killed",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — One family",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 1, 2026",
+    "details": "Israeli strike killed 8 family members",
+    "casualties": "8 killed, including a 6-month-old infant",
+    "killed": 8,
+    "injured": 0
   }
 ]

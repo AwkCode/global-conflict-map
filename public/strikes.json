@@ -6466,5 +6466,27 @@
     "casualties": "8 killed, unknown injured",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 4, 2026",
+    "details": "Israeli strikes killed 2 medics",
+    "casualties": "2 medics killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — One family",
+    "lat": 33.12,
+    "lng": 35.21,
+    "attacker": "Israel",
+    "date": "May 6, 2026",
+    "details": "Israeli strike killed 8 family members",
+    "casualties": "8 family members killed, including a 6-month-old infant",
+    "killed": 8,
+    "injured": 0
   }
 ]

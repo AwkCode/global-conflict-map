@@ -6499,5 +6499,16 @@
     "casualties": "8 killed, including a 6-month-old infant",
     "killed": 8,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — One family",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Sep 30, 2026",
+    "details": "Israeli strike killed 8, including 6-month-old infant",
+    "casualties": "8 killed",
+    "killed": 8,
+    "injured": 0
   }
 ]

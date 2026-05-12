@@ -6609,5 +6609,16 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Oct 18, 2026",
+    "details": "Israeli military kills six",
+    "casualties": "Six killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

@@ -6631,5 +6631,16 @@
     "casualties": "39 killed",
     "killed": 39,
     "injured": 0
+  },
+  {
+    "name": "Bubiyan Island — Infiltration attempt",
+    "lat": 29.7,
+    "lng": 48.3,
+    "attacker": "Iran",
+    "date": "May 1, 2026",
+    "details": "Iran's IRGC attempted infiltration",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

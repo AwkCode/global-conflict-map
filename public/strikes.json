@@ -6620,5 +6620,16 @@
     "casualties": "Six killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Oct 20, 2026",
+    "details": "Israeli strikes",
+    "casualties": "39 killed",
+    "killed": 39,
+    "injured": 0
   }
 ]

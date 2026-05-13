@@ -6653,5 +6653,16 @@
     "casualties": "13 killed, including 2 paramedics",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Jiyeh — Highway",
+    "lat": 33.65,
+    "lng": 35.52,
+    "attacker": "Israel",
+    "date": "Oct 25, 2026",
+    "details": "Drone strikes on cars",
+    "casualties": "At least 8 killed, including 2 children",
+    "killed": 8,
+    "injured": 0
   }
 ]

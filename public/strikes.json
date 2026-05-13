@@ -6642,5 +6642,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Nabatieh — Civilian area",
+    "lat": 33.3833,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Oct 21, 2026",
+    "details": "Israeli strike on Nabatieh",
+    "casualties": "13 killed, including 2 paramedics",
+    "killed": 13,
+    "injured": 0
   }
 ]

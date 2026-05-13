@@ -6686,5 +6686,27 @@
     "casualties": "2 paramedics among 13 killed",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Cars",
+    "lat": 33.34,
+    "lng": 35.58,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Israeli strikes on cars",
+    "casualties": "12 killed, including 2 children",
+    "killed": 12,
+    "injured": 0
+  },
+  {
+    "name": "Nabatieh — Rescue mission",
+    "lat": 33.38,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Israeli strikes on paramedics",
+    "casualties": "13 killed, including 2 paramedics",
+    "killed": 13,
+    "injured": 0
   }
 ]

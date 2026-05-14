@@ -6917,5 +6917,16 @@
     "casualties": "2 paramedics among 13 killed",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Air strikes hit south of Beirut",
+    "casualties": "22 killed, including 8 children",
+    "killed": 22,
+    "injured": 0
   }
 ]

@@ -6730,5 +6730,27 @@
     "casualties": "2 paramedics killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "Nov 16, 2026",
+    "details": "Israeli strikes in southern Lebanon",
+    "casualties": "22 people killed, including 8 children",
+    "killed": 22,
+    "injured": 0
+  },
+  {
+    "name": "Nabatieh — Rescue mission",
+    "lat": 33.38,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Nov 16, 2026",
+    "details": "Israeli strike on paramedics",
+    "casualties": "2 paramedics killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

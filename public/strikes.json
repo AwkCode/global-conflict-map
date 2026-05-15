@@ -7005,5 +7005,27 @@
     "casualties": "7 killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Izz ad-Din al-Haddad",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Air strike killed Hamas commander",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Air strikes killed 22 people",
+    "casualties": "22 killed, including 8 children",
+    "killed": 22,
+    "injured": 0
   }
 ]

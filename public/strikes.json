@@ -6972,5 +6972,27 @@
     "casualties": "13 killed, including 2 paramedics",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "May 15, 2026",
+    "details": "Air strikes hit south of Beirut",
+    "casualties": "22 killed, including 8 children",
+    "killed": 22,
+    "injured": 0
+  },
+  {
+    "name": "Nabatieh — Rescue mission",
+    "lat": 33.38,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 15, 2026",
+    "details": "Paramedics killed during rescue mission",
+    "casualties": "13 killed, including 2 paramedics",
+    "killed": 13,
+    "injured": 0
   }
 ]

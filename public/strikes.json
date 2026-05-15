@@ -6994,5 +6994,16 @@
     "casualties": "13 killed, including 2 paramedics",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "May 18, 2026",
+    "details": "Israel kills seven in Lebanon",
+    "casualties": "7 killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

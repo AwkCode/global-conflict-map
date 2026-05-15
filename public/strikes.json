@@ -7027,5 +7027,16 @@
     "casualties": "22 killed, including 8 children",
     "killed": 22,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas member",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Targeted strike on Hamas member",
+    "casualties": "7 killed, including 3 women and a child",
+    "killed": 7,
+    "injured": 0
   }
 ]

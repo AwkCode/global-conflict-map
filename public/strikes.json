@@ -7049,5 +7049,16 @@
     "casualties": "At least 7 Palestinians killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.51,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israeli strike in Lebanon",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

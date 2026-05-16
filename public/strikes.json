@@ -7148,5 +7148,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas top commander",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 28, 2026",
+    "details": "Hamas top commander killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "May 28, 2026",
+    "details": "6 killed in Israeli strike",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

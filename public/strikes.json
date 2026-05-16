@@ -7038,5 +7038,16 @@
     "casualties": "7 killed, including 3 women and a child",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Apartment building",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israeli air strikes hit Gaza City apartment building",
+    "casualties": "At least 7 Palestinians killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

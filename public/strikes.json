@@ -7082,5 +7082,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Izz al-Din al-Haddad",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 23, 2026",
+    "details": "Israeli air strike killed Hamas commander",
+    "casualties": "8 killed",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 23, 2026",
+    "details": "Israeli strike killed 6",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Jenin Camp",
+    "lat": 32.46,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 23, 2026",
+    "details": "Israeli forces killed Palestinian man",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

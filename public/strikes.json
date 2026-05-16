@@ -7115,5 +7115,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Izz al-Din al-Haddad",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "May 26, 2026",
+    "details": "Israeli air strike killed Hamas top commander",
+    "casualties": "8 killed",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "May 26, 2026",
+    "details": "Israeli strike killed 6 people",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Gulf of Oman — Floating armoury ship",
+    "lat": 24.5,
+    "lng": 58,
+    "attacker": "Iran",
+    "date": "May 26, 2026",
+    "details": "Iranian military seized a vessel",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

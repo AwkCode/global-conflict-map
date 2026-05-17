@@ -7203,5 +7203,16 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Community kitchen",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 31, 2026",
+    "details": "Israeli attack on Gaza community kitchen",
+    "casualties": "5 killed, including 3 community kitchen workers",
+    "killed": 5,
+    "injured": 0
   }
 ]

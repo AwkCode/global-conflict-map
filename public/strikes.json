@@ -7258,5 +7258,16 @@
     "casualties": "Three killed, others injured",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 3, 2026",
+    "details": "Israeli air attacks on several locations",
+    "casualties": "At least 5 killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

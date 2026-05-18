@@ -7269,5 +7269,27 @@
     "casualties": "At least 5 killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Abu Dhabi — Nuclear power plant",
+    "lat": 24.0667,
+    "lng": 54.3667,
+    "attacker": "Iran",
+    "date": "Jun 4, 2026",
+    "details": "Drone strike near nuclear plant",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Flotilla",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Jun 4, 2026",
+    "details": "Forces board Gaza-bound flotilla",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

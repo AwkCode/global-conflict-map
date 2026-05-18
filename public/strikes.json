@@ -7236,5 +7236,27 @@
     "casualties": "Three killed, others injured",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Jun 2, 2026",
+    "details": "Israeli air attacks on several locations",
+    "casualties": "At least five killed",
+    "killed": 5,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Aid kitchen",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 2, 2026",
+    "details": "Israel bombed a kitchen for displaced people",
+    "casualties": "Three killed, others injured",
+    "killed": 3,
+    "injured": 0
   }
 ]

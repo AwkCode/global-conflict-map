@@ -7467,5 +7467,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Abu Dhabi — Nuclear power plant",
+    "lat": 24.3142,
+    "lng": 54.3673,
+    "attacker": "Iran",
+    "date": "Jun 22, 2026",
+    "details": "Strike near nuclear power plant",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Flotilla",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 22, 2026",
+    "details": "Israeli forces fire 'rubber bullets' at activists",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

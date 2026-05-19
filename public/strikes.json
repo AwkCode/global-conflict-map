@@ -7434,5 +7434,38 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Abu Dhabi — Nuclear power plant",
+    "lat": 24.3,
+    "lng": 54.4,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Strike near nuclear power plant",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Six killed in Israeli strike",
+    "casualties": "Six killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Flotilla",
+    "lat": 31.5,
+    "lng": 34.4,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "41 boats intercepted",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

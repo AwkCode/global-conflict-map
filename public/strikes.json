@@ -7489,5 +7489,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Abu Dhabi — Nuclear power plant",
+    "lat": 24.3,
+    "lng": 54.4,
+    "attacker": "Iran",
+    "date": "Jun 25, 2026",
+    "details": "Strike near nuclear power plant",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

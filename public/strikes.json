@@ -7390,5 +7390,27 @@
     "casualties": "One killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Abu Dhabi — Nuclear power plant",
+    "lat": 24.3433,
+    "lng": 54.4128,
+    "attacker": "Iran",
+    "date": "Jun 17, 2026",
+    "details": "Strike near nuclear power plant",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Six killed in Israeli strike",
+    "casualties": "Six killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

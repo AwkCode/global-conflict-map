@@ -7533,5 +7533,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various targets",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "19 killed",
+    "killed": 19,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Flotilla",
+    "lat": 31.52,
+    "lng": 34.43,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli forces board Gaza-bound flotilla",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

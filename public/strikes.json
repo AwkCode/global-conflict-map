@@ -7599,5 +7599,27 @@
     "casualties": "Many injured",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Police post",
+    "lat": 31.55,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jul 5, 2026",
+    "details": "Attack on a police post in northern Gaza",
+    "casualties": "5 police officers and 1 child killed, dozens wounded",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Tyre hospital",
+    "lat": 33.29,
+    "lng": 35.38,
+    "attacker": "Israel",
+    "date": "Jul 4, 2026",
+    "details": "Israeli strikes damaged a main hospital in Tyre",
+    "casualties": "Medics killed, funerals for paramedics held",
+    "killed": 0,
+    "injured": 0
   }
 ]

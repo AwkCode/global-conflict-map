@@ -7577,5 +7577,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Al-Baqbouq area",
+    "lat": 33.2,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jul 3, 2026",
+    "details": "Israeli air strike",
+    "casualties": "Many injured",
+    "killed": 0,
+    "injured": 0
   }
 ]

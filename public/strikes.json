@@ -7621,5 +7621,16 @@
     "casualties": "Medics killed, funerals for paramedics held",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Tyre hospital",
+    "lat": 33.29,
+    "lng": 35.21,
+    "attacker": "Israel",
+    "date": "Jul 6, 2026",
+    "details": "Israeli strikes damaged a main hospital",
+    "casualties": "Medics killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

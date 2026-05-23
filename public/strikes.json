@@ -7555,5 +7555,16 @@
     "casualties": "None reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Central Gaza — Nuseirat and Bureij refugee camps",
+    "lat": 31.45,
+    "lng": 34.37,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli forces attack despite ceasefire",
+    "casualties": "Dozens injured",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -19,9 +19,9 @@
     "symbol": "BZ=F",
     "name": "Brent Crude",
     "unit": "$/bbl",
-    "price": 103.54,
-    "dayChange": -5.24,
-    "weekChange": -5.24,
+    "price": 100.21,
+    "dayChange": -8.28,
+    "weekChange": -8.28,
     "history": [
       109.26000213623047,
       112.0999984741211,

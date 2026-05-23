@@ -7566,5 +7566,16 @@
     "casualties": "Dozens injured",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jul 1, 2026",
+    "details": "Air attacks despite 'ceasefire'",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

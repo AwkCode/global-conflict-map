@@ -7665,5 +7665,16 @@
     "casualties": "Medics killed",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — Main hospital",
+    "lat": 33.3,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jul 15, 2026",
+    "details": "Israeli strikes damaged hospital",
+    "casualties": "Medics killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -7676,5 +7676,16 @@
     "casualties": "Medics killed",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Nuseirat refugee camp — Family home",
+    "lat": 31.45,
+    "lng": 34.35,
+    "attacker": "Israel",
+    "date": "Jul 16, 2026",
+    "details": "Israeli attack on Gaza kills three family members",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

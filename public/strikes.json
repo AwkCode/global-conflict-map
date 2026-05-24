@@ -7687,5 +7687,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Nuseirat refugee camp — Family home",
+    "lat": 31.4667,
+    "lng": 34.3833,
+    "attacker": "Israel",
+    "date": "Jul 19, 2026",
+    "details": "Israeli attack on family home",
+    "casualties": "3 family members killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

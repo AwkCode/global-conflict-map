@@ -7698,5 +7698,16 @@
     "casualties": "3 family members killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil tanker Skylight",
+    "lat": 25.3833,
+    "lng": 57.2167,
+    "attacker": "Iran",
+    "date": "Jun 1, 2026",
+    "details": "Missile strike on oil tanker",
+    "casualties": "At least 1 missing",
+    "killed": 0,
+    "injured": 0
   }
 ]

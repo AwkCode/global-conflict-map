@@ -7709,5 +7709,16 @@
     "casualties": "At least 1 missing",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.17,
+    "lng": 35.33,
+    "attacker": "Israel",
+    "date": "Jul 20, 2026",
+    "details": "Israeli strikes amid fresh evacuation orders",
+    "casualties": "Six killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

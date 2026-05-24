@@ -7654,5 +7654,16 @@
     "casualties": "Medics killed",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.2,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jul 10, 2026",
+    "details": "Israeli air strikes damaged a main hospital in Tyre",
+    "casualties": "Medics killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

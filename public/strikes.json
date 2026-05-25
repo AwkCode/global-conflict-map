@@ -7731,5 +7731,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Khan Younis — Displacement camp",
+    "lat": 31.35,
+    "lng": 34.33,
+    "attacker": "Israel",
+    "date": "Jul 20, 2026",
+    "details": "Israeli strike on displacement camp",
+    "casualties": "1 child killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

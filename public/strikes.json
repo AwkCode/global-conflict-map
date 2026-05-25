@@ -7764,5 +7764,27 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 33.9,
+    "lng": 36.2,
+    "attacker": "Israel",
+    "date": "Jul 23, 2026",
+    "details": "Israeli military struck over 70 Hezbollah sites",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Khan Younis — Displacement camp",
+    "lat": 31.3,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "Jul 23, 2026",
+    "details": "Israeli strike killed a 6-year-old Palestinian girl",
+    "casualties": "1 child killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

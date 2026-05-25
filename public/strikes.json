@@ -7720,5 +7720,16 @@
     "casualties": "Six killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Multiple villages and towns",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jul 20, 2026",
+    "details": "Attacks on multiple villages and towns",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

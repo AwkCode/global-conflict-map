@@ -7742,5 +7742,27 @@
     "casualties": "1 child killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Targets",
+    "lat": 33.9,
+    "lng": 36.2,
+    "attacker": "Israel",
+    "date": "Jul 22, 2026",
+    "details": "Israeli military hits targets",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Khan Younis — Displacement camp",
+    "lat": 31.35,
+    "lng": 34.33,
+    "attacker": "Israel",
+    "date": "Jul 21, 2026",
+    "details": "Six-year-old girl killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

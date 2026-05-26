@@ -7896,5 +7896,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Missile sites",
+    "lat": 27.1833,
+    "lng": 56.6333,
+    "attacker": "US/Israel",
+    "date": "Jul 29, 2026",
+    "details": "US strikes missile sites near major Iranian port",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 33.8667,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Jul 29, 2026",
+    "details": "Israel strikes over 70 Hezbollah sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

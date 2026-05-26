@@ -7819,5 +7819,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon village — Various targets",
+    "lat": 33.9,
+    "lng": 35.8,
+    "attacker": "Israel",
+    "date": "Jul 25, 2026",
+    "details": "Eleven killed in Lebanon village",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Southern Iran — Missile sites and boats",
+    "lat": 27.2,
+    "lng": 56.3,
+    "attacker": "US/Israel",
+    "date": "Jul 25, 2026",
+    "details": "US launches new strikes on Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 34.4,
+    "lng": 36.1,
+    "attacker": "Israel",
+    "date": "Jul 25, 2026",
+    "details": "Netanyahu says Israel will intensify strikes",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

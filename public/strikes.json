@@ -7786,5 +7786,27 @@
     "casualties": "1 child killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Missile launch sites",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US strikes Iranian missile sites",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 33.8833,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Jul 24, 2026",
+    "details": "Israel strikes Hezbollah sites",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

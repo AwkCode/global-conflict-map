@@ -7808,5 +7808,16 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Missile sites and boats",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US strikes Iranian missile sites and boats",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -7984,5 +7984,38 @@
     "casualties": "At least 31 people killed",
     "killed": 31,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 1, 2026",
+    "details": "Israeli strike kills new head of Hamas's military wing",
+    "casualties": "At least 3 people killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 34.35,
+    "lng": 36,
+    "attacker": "Israel",
+    "date": "Aug 1, 2026",
+    "details": "Israel strikes 100 Hezbollah infrastructure sites and fighters",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Iran — Missile sites and boats",
+    "lat": 27.17,
+    "lng": 56.28,
+    "attacker": "US/Israel",
+    "date": "Aug 1, 2026",
+    "details": "US launches new strikes on Iran, targeting missile sites and boats",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

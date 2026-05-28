@@ -8248,5 +8248,49 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 8, 2026",
+    "details": "Israeli strike on Beirut",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.5122,
+    "lng": 34.4556,
+    "attacker": "Israel",
+    "date": "Aug 8, 2026",
+    "details": "Israeli strike kills new head of Hamas's military wing",
+    "casualties": "4 killed, including Mohammed Odeh and his family",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Hezbollah infrastructure sites",
+    "lat": 33.8667,
+    "lng": 35.5333,
+    "attacker": "Israel",
+    "date": "Aug 8, 2026",
+    "details": "Israeli strikes on 100 Hezbollah infrastructure sites and fighters",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Missile sites and boats",
+    "lat": 32.4279,
+    "lng": 53.688,
+    "attacker": "US/Israel",
+    "date": "Aug 8, 2026",
+    "details": "US launches new strikes on Iran, targeting missile sites and boats",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

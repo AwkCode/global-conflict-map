@@ -8160,5 +8160,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Aug 6, 2026",
+    "details": "Israeli strike kills new head of Hamas's military wing",
+    "casualties": "4 killed, including Mohammed Odeh and his family",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.6333,
+    "attacker": "Israel",
+    "date": "Aug 6, 2026",
+    "details": "Dozens killed in Lebanon as Israel intensifies strikes",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Eastern Lebanon — Hezbollah sites",
+    "lat": 33.85,
+    "lng": 35.85,
+    "attacker": "Israel",
+    "date": "Aug 6, 2026",
+    "details": "Israel hits targets in eastern Lebanon",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

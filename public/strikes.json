@@ -8116,5 +8116,49 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Aug 5, 2026",
+    "details": "Strike on residential building",
+    "casualties": "New head of Hamas's military wing killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Hezbollah infrastructure sites",
+    "lat": 33.8333,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "Aug 5, 2026",
+    "details": "100 sites and fighters struck",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Missile sites and boats",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Aug 5, 2026",
+    "details": "US strikes in self-defence",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Air defences",
+    "lat": 29.3667,
+    "lng": 47.9667,
+    "attacker": "Iran",
+    "date": "Aug 5, 2026",
+    "details": "Missiles and drones targeted",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

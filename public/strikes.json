@@ -8336,5 +8336,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 10, 2026",
+    "details": "Israeli strike in Beirut",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3519,
+    "lng": 35.5133,
+    "attacker": "Israel",
+    "date": "Aug 10, 2026",
+    "details": "Israeli strike in southern Lebanon",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.5128,
+    "lng": 34.4557,
+    "attacker": "Israel",
+    "date": "Aug 10, 2026",
+    "details": "Israeli strike kills new head of Hamas's military wing",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

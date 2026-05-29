@@ -8457,5 +8457,49 @@
     "casualties": "5 killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 13, 2026",
+    "details": "Israeli strike after evacuation orders",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3543,
+    "lng": 35.5133,
+    "attacker": "Israel",
+    "date": "Aug 13, 2026",
+    "details": "Israeli strike after evacuation orders",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential building",
+    "lat": 31.5128,
+    "lng": 34.4557,
+    "attacker": "Israel",
+    "date": "Aug 13, 2026",
+    "details": "Israeli strike kills Hamas military wing head",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Hezbollah infrastructure sites",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 13, 2026",
+    "details": "Israeli strike on 100 sites and fighters",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

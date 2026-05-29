@@ -8402,5 +8402,60 @@
     "casualties": "4 killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Aug 12, 2026",
+    "details": "Israel strikes Beirut after evacuation orders",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.62,
+    "attacker": "Israel",
+    "date": "Aug 12, 2026",
+    "details": "Israel intensifies strikes in Lebanon",
+    "casualties": "Dozens killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas military wing",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Aug 12, 2026",
+    "details": "Israeli strike kills new head of Hamas's military wing",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Gaza's Shati refugee camp — Building",
+    "lat": 31.53,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 12, 2026",
+    "details": "Israel strikes building in Gaza's Shati refugee camp",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Litani River — Various targets",
+    "lat": 33.37,
+    "lng": 35.24,
+    "attacker": "Israel",
+    "date": "Aug 12, 2026",
+    "details": "Israeli forces advance across key Litani River",
+    "casualties": "5 killed",
+    "killed": 5,
+    "injured": 0
   }
 ]

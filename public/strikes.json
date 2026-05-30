@@ -8611,5 +8611,38 @@
     "casualties": "4 killed, including Mohammed Odeh and his family",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Aug 17, 2026",
+    "details": "Israeli strikes after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Aug 17, 2026",
+    "details": "Israeli strikes after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Nabatieh — Various targets",
+    "lat": 33.38,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Aug 17, 2026",
+    "details": "Israeli troops advance beyond Litani River",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

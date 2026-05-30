@@ -8677,5 +8677,16 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Palestinian homes",
+    "lat": 31.5122,
+    "lng": 34.4563,
+    "attacker": "Israel",
+    "date": "Aug 20, 2026",
+    "details": "Israeli settlers attack Palestinian homes",
+    "casualties": "1 killed, 3 injured",
+    "killed": 1,
+    "injured": 3
   }
 ]

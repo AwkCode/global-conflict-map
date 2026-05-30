@@ -8688,5 +8688,27 @@
     "casualties": "1 killed, 3 injured",
     "killed": 1,
     "injured": 3
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Aug 22, 2026",
+    "details": "Israel strikes Beirut after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3543,
+    "lng": 35.5133,
+    "attacker": "Israel",
+    "date": "Aug 22, 2026",
+    "details": "Israel strikes southern Lebanon after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

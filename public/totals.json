@@ -10,22 +10,22 @@
     {
       "flag": "🇱🇧",
       "name": "Lebanon",
-      "killed": "1,500+",
-      "injured": "5,000+",
+      "killed": "1,461+",
+      "injured": "4,430+",
       "color": "#f97316"
     },
     {
       "flag": "🇮🇱",
       "name": "Israel",
-      "killed": "30+",
-      "injured": "7,000+",
+      "killed": "29+",
+      "injured": "6,950+",
       "color": "#3b82f6"
     },
     {
       "flag": "🇺🇸",
       "name": "US Military",
-      "killed": "14",
-      "injured": "303",
+      "killed": "14+",
+      "injured": "303+",
       "color": "#818cf8"
     },
     {
@@ -43,5 +43,5 @@
       "color": "#14b8a6"
     }
   ],
-  "lastUpdated": "2026-05-29T23:39:07.847Z"
+  "lastUpdated": "2026-05-30T07:48:48.200Z"
 }

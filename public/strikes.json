@@ -8798,5 +8798,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beaufort Castle — Medieval castle",
+    "lat": 33.2942,
+    "lng": 35.3628,
+    "attacker": "Israel",
+    "date": "Aug 30, 2026",
+    "details": "Israeli forces crossed Litani River, seized castle",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

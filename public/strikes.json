@@ -8842,5 +8842,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beaufort Castle — Medieval castle",
+    "lat": 33.294,
+    "lng": 35.35,
+    "attacker": "Israel",
+    "date": "Sep 3, 2026",
+    "details": "Israel captures castle",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.58,
+    "attacker": "Israel",
+    "date": "Sep 3, 2026",
+    "details": "Israeli ground forces cross Litani River",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

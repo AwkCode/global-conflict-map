@@ -8710,5 +8710,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Israeli strikes after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.58,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Israeli strikes after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "American base — Unknown targets",
+    "lat": 30.06,
+    "lng": 56.27,
+    "attacker": "Iran",
+    "date": "Aug 24, 2026",
+    "details": "Iran targeted American base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -8809,5 +8809,16 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — Various targets",
+    "lat": 33.29,
+    "lng": 35.38,
+    "attacker": "Israel",
+    "date": "Sep 1, 2026",
+    "details": "Israeli airstrikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

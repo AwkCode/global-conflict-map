@@ -8765,5 +8765,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Various targets",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Aug 29, 2026",
+    "details": "Israel strikes Beirut after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "Aug 29, 2026",
+    "details": "Israel strikes southern Lebanon after evacuation orders",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Nahariya — Beach",
+    "lat": 33,
+    "lng": 35.1,
+    "attacker": "Hezbollah",
+    "date": "Aug 29, 2026",
+    "details": "Hezbollah strikes beach in northern Israel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

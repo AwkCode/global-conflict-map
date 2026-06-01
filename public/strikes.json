@@ -8864,5 +8864,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beaufort Castle — Crusader Castle",
+    "lat": 33.2942,
+    "lng": 35.3628,
+    "attacker": "Israel",
+    "date": "Sep 4, 2026",
+    "details": "Israel captures strategic fortress",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3533,
+    "lng": 35.5133,
+    "attacker": "Israel",
+    "date": "Sep 4, 2026",
+    "details": "Israeli ground forces cross Litani River",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

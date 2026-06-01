@@ -8897,5 +8897,38 @@
     "casualties": "At least 2 killed, around a dozen wounded",
     "killed": 2,
     "injured": 12
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 6, 2026",
+    "details": "Thousands fled after Netanyahu announced strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Iran — Military targets",
+    "lat": 28,
+    "lng": 52,
+    "attacker": "US/Israel",
+    "date": "Sep 6, 2026",
+    "details": "US military carried out strikes over the weekend",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jabal Amel Hospital — Hospital wards",
+    "lat": 33.2,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Sep 6, 2026",
+    "details": "Israeli strike damaged hospital in southern Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

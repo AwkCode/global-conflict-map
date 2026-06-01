@@ -8886,5 +8886,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza port — Crowded cafe",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 5, 2026",
+    "details": "Airstrike hit a crowded cafe",
+    "casualties": "At least 2 killed, around a dozen wounded",
+    "killed": 2,
+    "injured": 12
   }
 ]

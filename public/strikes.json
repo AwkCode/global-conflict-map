@@ -9062,5 +9062,38 @@
     "casualties": "20 US military sites damaged",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 16, 2026",
+    "details": "Thousands flee as Israel targets Hezbollah stronghold",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian radar sites — Radar installations",
+    "lat": 32.43,
+    "lng": 51.67,
+    "attacker": "US/Israel",
+    "date": "Sep 15, 2026",
+    "details": "US strikes Iranian radar sites in response to attacks on American forces",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US military sites in Kuwait — Military bases",
+    "lat": 29.37,
+    "lng": 47.67,
+    "attacker": "Iran",
+    "date": "Sep 15, 2026",
+    "details": "Iran targets US military sites in Kuwait",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

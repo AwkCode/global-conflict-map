@@ -8963,5 +8963,38 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 10, 2026",
+    "details": "Thousands fled after Netanyahu announced widening of military campaign",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Iran — Military targets",
+    "lat": 30,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Sep 9, 2026",
+    "details": "US military carried out strikes over the weekend",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US military sites",
+    "lat": 29.37,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "Sep 9, 2026",
+    "details": "Iranian missile attack on American forces intercepted",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

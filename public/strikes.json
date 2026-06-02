@@ -9095,5 +9095,71 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "Sep 17, 2026",
+    "details": "Israel strikes southern Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 17, 2026",
+    "details": "Israel orders strikes on Beirut suburbs",
+    "casualties": "Thousands flee",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian radar sites — Radar installations",
+    "lat": 32.43,
+    "lng": 53.07,
+    "attacker": "US/Israel",
+    "date": "Sep 17, 2026",
+    "details": "US strikes Iranian radar sites",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US military sites in Kuwait — Military bases",
+    "lat": 29.37,
+    "lng": 47.67,
+    "attacker": "Iran",
+    "date": "Sep 17, 2026",
+    "details": "Iran targets US military sites in Kuwait",
+    "casualties": "20 US military sites damaged",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jabal Amel Hospital — Hospital wards",
+    "lat": 33.23,
+    "lng": 35.37,
+    "attacker": "Israel",
+    "date": "Sep 17, 2026",
+    "details": "Israeli strike damages hospital",
+    "casualties": "Significant damage",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Castle in Lebanon — Strategic fortress",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "Sep 17, 2026",
+    "details": "Israel seizes castle in Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

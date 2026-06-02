@@ -9161,5 +9161,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 20, 2026",
+    "details": "Israel strikes Beirut suburbs",
+    "casualties": "Thousands flee",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US military sites in Kuwait — Military bases",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Sep 20, 2026",
+    "details": "Iran targets US forces in Kuwait",
+    "casualties": "20 US sites damaged",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian radar sites — Radar installations",
+    "lat": 32.42,
+    "lng": 51.67,
+    "attacker": "US/Israel",
+    "date": "Sep 20, 2026",
+    "details": "US strikes Iranian radar sites",
+    "casualties": "Radar installations damaged",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "MSC Ship — Iraqi Port",
+    "lat": 30.53,
+    "lng": 47.79,
+    "attacker": "Maritime",
+    "date": "Sep 20, 2026",
+    "details": "MSC Ship struck by projectiles",
+    "casualties": "Ship damaged",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -9205,5 +9205,16 @@
     "casualties": "Ship damaged",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Sep 20, 2026",
+    "details": "Israel expands ground offensive",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

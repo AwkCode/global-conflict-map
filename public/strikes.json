@@ -9304,5 +9304,49 @@
     "casualties": "1 killed, dozens injured",
     "killed": 1,
     "injured": 20
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Sep 28, 2026",
+    "details": "Iranian drone strikes",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3543,
+    "lng": 35.5135,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli strikes",
+    "casualties": "9 killed",
+    "killed": 9,
+    "injured": 0
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.8547,
+    "lng": 35.4969,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jabal Aamel Hospital — Hospital wards",
+    "lat": 33.1732,
+    "lng": 35.2219,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli strikes near hospital",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

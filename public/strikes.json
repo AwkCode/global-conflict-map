@@ -9216,5 +9216,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Qeshm Island — Iranian targets",
+    "lat": 26.95,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Sep 22, 2026",
+    "details": "US 'self-defence' strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US military sites",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Sep 22, 2026",
+    "details": "Iranian missile strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US military sites",
+    "lat": 26.03,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Sep 22, 2026",
+    "details": "Iranian missile strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraqi Port — MSC Ship",
+    "lat": 30.53,
+    "lng": 47.79,
+    "attacker": "Maritime",
+    "date": "Sep 22, 2026",
+    "details": "Projectile strikes on vessel",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

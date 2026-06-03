@@ -9348,5 +9348,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Sep 29, 2026",
+    "details": "Iranian drone strike",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Beirut suburbs — Residential areas",
+    "lat": 33.8547,
+    "lng": 35.4963,
+    "attacker": "Israel",
+    "date": "Sep 29, 2026",
+    "details": "Israeli strikes",
+    "casualties": "Thousands flee",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -9260,5 +9260,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Sep 24, 2026",
+    "details": "Iranian drones damaged airport",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beaufort Castle — Israeli forces",
+    "lat": 33.2947,
+    "lng": 35.4264,
+    "attacker": "Hezbollah",
+    "date": "Sep 24, 2026",
+    "details": "Hezbollah drone attack on Israeli forces",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "MSC Ship — Iraqi Port",
+    "lat": 30.5333,
+    "lng": 47.8,
+    "attacker": "Maritime",
+    "date": "Sep 24, 2026",
+    "details": "Ship struck by two projectiles",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

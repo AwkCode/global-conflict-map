@@ -9381,5 +9381,27 @@
     "casualties": "1 killed, dozens injured",
     "killed": 1,
     "injured": 20
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Oct 1, 2026",
+    "details": "Iranian drone strikes",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Southern Lebanon — Various targets",
+    "lat": 33.3533,
+    "lng": 35.5139,
+    "attacker": "Israel",
+    "date": "Oct 1, 2026",
+    "details": "Drone attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

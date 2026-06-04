@@ -9458,5 +9458,27 @@
     "casualties": "1 killed, dozens injured",
     "killed": 1,
     "injured": 20
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Oct 6, 2026",
+    "details": "Iranian drone strikes",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Oct 6, 2026",
+    "details": "Israeli strikes",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
   }
 ]

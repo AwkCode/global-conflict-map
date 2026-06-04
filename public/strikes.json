@@ -9480,5 +9480,16 @@
     "casualties": "11 killed",
     "killed": 11,
     "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Oct 8, 2026",
+    "details": "Iranian drone strikes",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
   }
 ]

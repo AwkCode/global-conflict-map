@@ -9612,5 +9612,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 16, 2026",
+    "details": "Israeli strikes on residential buildings",
+    "casualties": "11 killed, including women and children",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.24,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "Oct 16, 2026",
+    "details": "Iranian drone strikes on Kuwait airport",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Gaza — Near Khan Younis",
+    "lat": 31.35,
+    "lng": 34.35,
+    "attacker": "Israel",
+    "date": "Oct 16, 2026",
+    "details": "Drone attack",
+    "casualties": "1 woman killed, 15 injured",
+    "killed": 1,
+    "injured": 15
+  },
+  {
+    "name": "Az-Zawayda, central Gaza — Residential buildings",
+    "lat": 31.38,
+    "lng": 34.43,
+    "attacker": "Israel",
+    "date": "Oct 16, 2026",
+    "details": "Overnight Israeli strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

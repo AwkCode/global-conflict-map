@@ -9656,5 +9656,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Near Khan Younis, Gaza — Civilian area",
+    "lat": 31.35,
+    "lng": 34.3333,
+    "attacker": "Israel",
+    "date": "Oct 16, 2026",
+    "details": "Drone attack killed a young woman and injured 15 others",
+    "casualties": "Young woman killed and 15 others injured",
+    "killed": 1,
+    "injured": 15
   }
 ]

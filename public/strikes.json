@@ -9766,5 +9766,38 @@
     "casualties": "Seven-month-old infant killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Oct 25, 2026",
+    "details": "Israeli strikes on residential buildings",
+    "casualties": "11 killed, including women and children",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9583,
+    "attacker": "Iran",
+    "date": "Oct 25, 2026",
+    "details": "Iranian drone strikes on Kuwait airport",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Near Hebron — Civilian area",
+    "lat": 31.5333,
+    "lng": 35.0667,
+    "attacker": "Israel",
+    "date": "Oct 25, 2026",
+    "details": "Israeli soldier shoots Palestinian baby",
+    "casualties": "1 infant killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

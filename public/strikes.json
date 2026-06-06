@@ -9942,5 +9942,82 @@
     "casualties": "10 killed, 0 injured",
     "killed": 10,
     "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "US/Israel",
+    "date": "Oct 30, 2026",
+    "details": "US strikes Iranian drones and radar sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29,
+    "lng": 48,
+    "attacker": "Iran",
+    "date": "Oct 30, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 30, 2026",
+    "details": "Israeli attack on car kills Lebanese general and soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Civilian area",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 30, 2026",
+    "details": "Israeli gunfire kills Palestinian baby",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 30, 2026",
+    "details": "Israeli strikes kill 11 people",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Tent camp",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 30, 2026",
+    "details": "Israeli attack on tent camp kills at least 6",
+    "casualties": "6+ killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Residential areas",
+    "lat": 29,
+    "lng": 48,
+    "attacker": "Iran",
+    "date": "Oct 30, 2026",
+    "details": "Kuwait intercepts ballistic missiles from Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

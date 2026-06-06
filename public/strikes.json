@@ -9733,5 +9733,38 @@
     "casualties": "Young woman killed and 15 others injured",
     "killed": 1,
     "injured": 15
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Oct 23, 2026",
+    "details": "Israeli strikes on residential buildings",
+    "casualties": "Women and children among those killed",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9583,
+    "attacker": "Iran",
+    "date": "Oct 23, 2026",
+    "details": "Iranian drone strikes on Kuwait airport",
+    "casualties": "One killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Near Hebron — Civilian area",
+    "lat": 31.5333,
+    "lng": 35.0833,
+    "attacker": "Israel",
+    "date": "Oct 23, 2026",
+    "details": "Israeli soldier shoots Palestinian baby",
+    "casualties": "Seven-month-old infant killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

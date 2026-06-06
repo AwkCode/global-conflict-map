@@ -10096,5 +10096,60 @@
     "casualties": "12 killed",
     "killed": 12,
     "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "attacker": "US/Israel",
+    "date": "Nov 3, 2026",
+    "details": "US strikes Iranian drones and radar sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.364738,
+    "lng": 47.965748,
+    "attacker": "Iran",
+    "date": "Nov 3, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.354722,
+    "lng": 35.575556,
+    "attacker": "Israel",
+    "date": "Nov 2, 2026",
+    "details": "Israeli attack on car kills Lebanese soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.512778,
+    "lng": 34.452778,
+    "attacker": "Israel",
+    "date": "Nov 3, 2026",
+    "details": "Israeli strikes kill 11 in Gaza City",
+    "casualties": "11 killed, women and children among them",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Tent camp",
+    "lat": 31.512778,
+    "lng": 34.452778,
+    "attacker": "Israel",
+    "date": "Nov 3, 2026",
+    "details": "Israeli attack on tent camp kills several Palestinians",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

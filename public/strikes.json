@@ -9843,5 +9843,60 @@
     "casualties": "1 infant killed, parents wounded",
     "killed": 1,
     "injured": 2
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 26,
+    "lng": 51,
+    "attacker": "US/Israel",
+    "date": "Oct 29, 2026",
+    "details": "US struck Iranian drones and radar sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29,
+    "lng": 48,
+    "attacker": "Iran",
+    "date": "Oct 29, 2026",
+    "details": "Iran targeted US bases in response to US strike",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 28, 2026",
+    "details": "Israeli attack on car killed 3 Lebanese soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Civilian area",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 28, 2026",
+    "details": "Palestinian baby killed by Israeli gunfire",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 29, 2026",
+    "details": "Israeli strikes killed 11 people",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
   }
 ]

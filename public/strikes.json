@@ -10019,5 +10019,82 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "US/Israel",
+    "date": "Nov 1, 2026",
+    "details": "US strikes Iranian drones and radar sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29,
+    "lng": 48,
+    "attacker": "Iran",
+    "date": "Nov 1, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Nov 1, 2026",
+    "details": "Israeli attack on car kills Lebanese soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Nov 1, 2026",
+    "details": "Israeli strikes kill 11 in Gaza City",
+    "casualties": "11 killed, including women and children",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Tent camp",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Nov 1, 2026",
+    "details": "Israeli attack on tent camp kills several Palestinians",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Car",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Nov 1, 2026",
+    "details": "Israeli gunfire kills baby in West Bank",
+    "casualties": "1 killed, 0 injured",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Khardali-Nabatieh road — Car",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Nov 1, 2026",
+    "details": "Israeli attack on car kills 12, including high-ranking soldiers",
+    "casualties": "12 killed",
+    "killed": 12,
+    "injured": 0
   }
 ]

@@ -9799,5 +9799,49 @@
     "casualties": "1 infant killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2267,
+    "lng": 47.9719,
+    "attacker": "Iran",
+    "date": "Oct 27, 2026",
+    "details": "Iranian drone strike on Kuwait airport",
+    "casualties": "1 killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.3569,
+    "lng": 47.9653,
+    "attacker": "Iran",
+    "date": "Oct 27, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Oct 27, 2026",
+    "details": "Israeli strikes on residential buildings",
+    "casualties": "11 killed, including women and children",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Civilian area",
+    "lat": 31.7833,
+    "lng": 35.2167,
+    "attacker": "Israel",
+    "date": "Oct 27, 2026",
+    "details": "Israeli forces fatally shoot Palestinian infant",
+    "casualties": "1 infant killed, parents wounded",
+    "killed": 1,
+    "injured": 2
   }
 ]

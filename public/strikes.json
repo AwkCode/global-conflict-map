@@ -9898,5 +9898,49 @@
     "casualties": "11 killed",
     "killed": 11,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Civilian area",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 29, 2026",
+    "details": "Palestinian baby killed by Israeli gunfire",
+    "casualties": "1 killed, 0 injured",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Wedding",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 29, 2026",
+    "details": "Israeli strike kills at least six people at wedding in Gaza",
+    "casualties": "6+ killed, 15 injured",
+    "killed": 6,
+    "injured": 15
+  },
+  {
+    "name": "Kuwait International Airport — Airport infrastructure",
+    "lat": 29.2,
+    "lng": 47.9,
+    "attacker": "Iran",
+    "date": "Oct 29, 2026",
+    "details": "Kuwait intercepts ballistic missiles from Iran",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Khardali-Nabatieh road",
+    "lat": 33.4,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Oct 29, 2026",
+    "details": "Israeli attacks in Lebanon kill 10 people",
+    "casualties": "10 killed, 0 injured",
+    "killed": 10,
+    "injured": 0
   }
 ]

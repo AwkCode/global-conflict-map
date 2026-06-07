@@ -10382,5 +10382,60 @@
     "casualties": "1 infant killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "attacker": "US/Israel",
+    "date": "Nov 14, 2026",
+    "details": "US strikes Iranian drones and radar sites",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.065874,
+    "lng": 48.064737,
+    "attacker": "Iran",
+    "date": "Nov 14, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.357778,
+    "lng": 35.394722,
+    "attacker": "Israel",
+    "date": "Nov 14, 2026",
+    "details": "Israeli attack on car kills 3 Lebanese soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.512778,
+    "lng": 34.452778,
+    "attacker": "Israel",
+    "date": "Nov 14, 2026",
+    "details": "Israeli strikes kill 11 people in Gaza City",
+    "casualties": "11 killed",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Car",
+    "lat": 31.955556,
+    "lng": 35.193056,
+    "attacker": "Israel",
+    "date": "Nov 14, 2026",
+    "details": "Israeli military fires on car, killing infant",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

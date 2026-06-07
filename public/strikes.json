@@ -10217,5 +10217,60 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 29,
+    "lng": 50,
+    "attacker": "US/Israel",
+    "date": "Nov 8, 2026",
+    "details": "US strikes Iranian drones and radar sites",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.3,
+    "lng": 48,
+    "attacker": "Iran",
+    "date": "Nov 8, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Nov 8, 2026",
+    "details": "Israeli attack on car kills Lebanese general",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Gaza City — Residential buildings",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Nov 8, 2026",
+    "details": "Israeli strikes kill 11 in Gaza City",
+    "casualties": "11 killed, including women and children",
+    "killed": 11,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Car",
+    "lat": 32,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Nov 8, 2026",
+    "details": "Israeli troops kill infant in West Bank",
+    "casualties": "1 infant killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

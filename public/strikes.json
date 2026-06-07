@@ -10547,5 +10547,60 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Nov 20, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.3543,
+    "lng": 35.5814,
+    "attacker": "Israel",
+    "date": "Nov 20, 2026",
+    "details": "Israeli attack on car kills 3 Lebanese soldiers",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Car",
+    "lat": 32.1053,
+    "lng": 35.2553,
+    "attacker": "Israel",
+    "date": "Nov 20, 2026",
+    "details": "Infant killed as Israeli military fires on car",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Gulf — Iranian drones and radar sites",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "attacker": "US/Israel",
+    "date": "Nov 20, 2026",
+    "details": "US military strikes Iranian drones and radar sites",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.0659,
+    "lng": 48.0773,
+    "attacker": "Iran",
+    "date": "Nov 20, 2026",
+    "details": "Iran targets US bases in Kuwait and Bahrain",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

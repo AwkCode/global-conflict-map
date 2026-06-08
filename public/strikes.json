@@ -10723,5 +10723,38 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Dec 4, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.75,
+    "lng": 35.21,
+    "attacker": "Iran",
+    "date": "Dec 4, 2026",
+    "details": "Iran fires missiles at Israel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Khan Younis, Gaza City, and Deir el-Balah",
+    "lat": 31.52,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Dec 3, 2026",
+    "details": "Israel kills 14 people in Gaza",
+    "casualties": "14 killed",
+    "killed": 14,
+    "injured": 0
   }
 ]

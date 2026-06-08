@@ -10646,5 +10646,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Nov 26, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "At least 2 killed, 20 injured",
+    "killed": 2,
+    "injured": 20
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "attacker": "Iran",
+    "date": "Nov 26, 2026",
+    "details": "Iran fires missiles at Israel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.3543,
+    "lng": 35.5815,
+    "attacker": "Israel",
+    "date": "Nov 26, 2026",
+    "details": "Lebanese general among three soldiers killed",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Car",
+    "lat": 31.9692,
+    "lng": 35.1937,
+    "attacker": "Israel",
+    "date": "Nov 26, 2026",
+    "details": "Infant killed as Israeli military fires on car",
+    "casualties": "1 infant killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

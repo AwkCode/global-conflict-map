@@ -10756,5 +10756,38 @@
     "casualties": "14 killed",
     "killed": 14,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Dec 7, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.1333,
+    "lng": 35.2167,
+    "attacker": "Israel",
+    "date": "Dec 7, 2026",
+    "details": "Lebanese general among three soldiers killed",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "attacker": "Iran",
+    "date": "Dec 7, 2026",
+    "details": "One dead, five injured after shooting",
+    "casualties": "1 dead, 5 injured",
+    "killed": 1,
+    "injured": 5
   }
 ]

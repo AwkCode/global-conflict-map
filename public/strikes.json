@@ -10811,5 +10811,49 @@
     "casualties": "3 dead",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Dec 12, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Car",
+    "lat": 33.3543,
+    "lng": 35.5814,
+    "attacker": "Israel",
+    "date": "Dec 12, 2026",
+    "details": "Lebanese general among three soldiers killed",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "attacker": "Iran",
+    "date": "Dec 12, 2026",
+    "details": "Iran launches missiles at Israel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Kuwait and Bahrain — Military infrastructure",
+    "lat": 29.3404,
+    "lng": 47.7342,
+    "attacker": "Iran",
+    "date": "Dec 12, 2026",
+    "details": "Iran targets US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

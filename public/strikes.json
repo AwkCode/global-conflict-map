@@ -10987,5 +10987,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut suburb — City",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Dec 22, 2026",
+    "details": "Attacks in response to Hezbollah's firing",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US helicopter near Strait of Hormuz",
+    "lat": 25.6522,
+    "lng": 57.0453,
+    "attacker": "Maritime",
+    "date": "Dec 22, 2026",
+    "details": "US helicopter went down",
+    "casualties": "Crew rescued",
+    "killed": 0,
+    "injured": 0
   }
 ]

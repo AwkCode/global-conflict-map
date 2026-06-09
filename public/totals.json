@@ -3,21 +3,21 @@
     {
       "flag": "🇮🇷",
       "name": "Iran",
-      "killed": "3,637+",
-      "injured": "11,188+",
+      "killed": "3,540+",
+      "injured": "26,500+",
       "color": "#ef4444"
     },
     {
       "flag": "🇱🇧",
       "name": "Lebanon",
-      "killed": "1,461+",
-      "injured": "4,430+",
+      "killed": "1,461",
+      "injured": "4,430",
       "color": "#f97316"
     },
     {
       "flag": "🇮🇱",
       "name": "Israel",
-      "killed": "30+",
+      "killed": "33",
       "injured": "6,955+",
       "color": "#3b82f6"
     },
@@ -43,5 +43,5 @@
       "color": "#14b8a6"
     }
   ],
-  "lastUpdated": "2026-06-09T04:20:39.345Z"
+  "lastUpdated": "2026-06-09T08:38:40.425Z"
 }

@@ -10921,5 +10921,49 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Dec 20, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.75,
+    "lng": 35.21,
+    "attacker": "Iran",
+    "date": "Dec 20, 2026",
+    "details": "Iran's strike on Israel",
+    "casualties": "1 dead, 5 injured",
+    "killed": 1,
+    "injured": 5
+  },
+  {
+    "name": "US helicopter near Strait of Hormuz",
+    "lat": 26.63,
+    "lng": 56.33,
+    "attacker": "Maritime",
+    "date": "Dec 20, 2026",
+    "details": "US helicopter goes down",
+    "casualties": "Crew rescued",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Israel — Various locations",
+    "lat": 31.75,
+    "lng": 35.21,
+    "attacker": "Hezbollah",
+    "date": "Dec 20, 2026",
+    "details": "Hezbollah's firing at Israeli territory",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

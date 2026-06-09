@@ -10965,5 +10965,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.2942,
+    "lng": 35.3853,
+    "attacker": "Israel",
+    "date": "Dec 22, 2026",
+    "details": "Israel attacks Tyre, tells residents to leave",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beirut — Suburb",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Dec 22, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

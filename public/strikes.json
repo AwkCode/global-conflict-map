@@ -11053,5 +11053,27 @@
     "casualties": "Crew rescued",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Apache helicopter",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 27, 2026",
+    "details": "Iran shot down US helicopter",
+    "casualties": "2 crew members rescued",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Dec 27, 2026",
+    "details": "Israeli forces kill 9 people",
+    "casualties": "9 killed",
+    "killed": 9,
+    "injured": 0
   }
 ]

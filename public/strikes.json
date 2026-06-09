@@ -11009,5 +11009,49 @@
     "casualties": "Crew rescued",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.2942,
+    "lng": 35.2219,
+    "attacker": "Israel",
+    "date": "Dec 26, 2026",
+    "details": "Israeli air strikes hit Lebanese city of Tyre",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US helicopter near Strait of Hormuz",
+    "lat": 26.6128,
+    "lng": 56.3047,
+    "attacker": "Iran",
+    "date": "Dec 26, 2026",
+    "details": "Iran shot down US helicopter",
+    "casualties": "2 crew members rescued",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Beirut suburb — City",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Dec 26, 2026",
+    "details": "Israel strikes Beirut suburb",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Sanctioned oil tanker near Oman",
+    "lat": 22.5833,
+    "lng": 58.5833,
+    "attacker": "US/Israel",
+    "date": "Dec 26, 2026",
+    "details": "US missile struck a sanctioned oil tanker",
+    "casualties": "Crew rescued",
+    "killed": 0,
+    "injured": 0
   }
 ]

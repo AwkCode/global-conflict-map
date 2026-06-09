@@ -11075,5 +11075,27 @@
     "casualties": "9 killed",
     "killed": 9,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various locations",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 27, 2026",
+    "details": "US strikes Iran in response to downed helicopter",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Sanctioned oil tanker near Oman",
+    "lat": 22.5,
+    "lng": 58.5,
+    "attacker": "US/Israel",
+    "date": "Dec 27, 2026",
+    "details": "US missile strikes sanctioned oil tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

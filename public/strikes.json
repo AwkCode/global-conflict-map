@@ -11207,5 +11207,38 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Tayr Debba — City",
+    "lat": 33.2833,
+    "lng": 35.3667,
+    "attacker": "Israel",
+    "date": "Jan 4, 2026",
+    "details": "Israeli strikes in southern Lebanon",
+    "casualties": "17 killed",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Water facilities",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jan 4, 2026",
+    "details": "US strikes Iran in response to downing of military helicopter",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Sanctioned oil tanker near Oman",
+    "lat": 22.5,
+    "lng": 58.5,
+    "attacker": "US/Israel",
+    "date": "Jan 4, 2026",
+    "details": "US missile strike on sanctioned oil tanker",
+    "casualties": "24 crew members stranded",
+    "killed": 0,
+    "injured": 0
   }
 ]

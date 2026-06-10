@@ -11284,5 +11284,60 @@
     "casualties": "Facilities damaged",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Settebello — Oil Tanker",
+    "lat": 24,
+    "lng": 58,
+    "attacker": "US/Israel",
+    "date": "Jan 11, 2026",
+    "details": "US hit tanker in Gulf of Oman",
+    "casualties": "3 Indian sailors missing, 21 rescued",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tayr Debba — City",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Jan 11, 2026",
+    "details": "Israeli strikes in southern Lebanon",
+    "casualties": "17 killed",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Jan 11, 2026",
+    "details": "Israeli air strikes despite Iranian warning",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Sidon — City",
+    "lat": 33.6,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Jan 11, 2026",
+    "details": "Israeli strike on a car",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Drinking Water Facilities",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jan 11, 2026",
+    "details": "US strikes on drinking water facilities",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

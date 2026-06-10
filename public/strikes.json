@@ -11097,5 +11097,60 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Bahrain — US forces",
+    "lat": 26,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Dec 29, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US forces",
+    "lat": 29.37,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "Dec 29, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US forces",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Dec 29, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.29,
+    "lng": 35.22,
+    "attacker": "Israel",
+    "date": "Dec 29, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — US Apache helicopter",
+    "lat": 26.63,
+    "lng": 56.07,
+    "attacker": "Iran",
+    "date": "Dec 28, 2026",
+    "details": "US patrol helicopter downed",
+    "casualties": "2 rescued",
+    "killed": 0,
+    "injured": 0
   }
 ]

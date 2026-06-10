@@ -11174,5 +11174,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various locations",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jan 2, 2026",
+    "details": "US strikes Iran in response to downing of military helicopter",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Jan 2, 2026",
+    "details": "Israeli air strikes hit Lebanese city of Tyre",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in the Middle East — Various locations",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Jan 2, 2026",
+    "details": "Iran fires missiles at US bases carrying images of killed commanders",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

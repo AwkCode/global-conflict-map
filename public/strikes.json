@@ -11152,5 +11152,27 @@
     "casualties": "2 rescued",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various locations",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 29, 2026",
+    "details": "US strikes Iran in response to downed helicopter",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.2,
+    "lng": 50.6,
+    "attacker": "Iran",
+    "date": "Dec 29, 2026",
+    "details": "Iranian missile strike on US base in Bahrain",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

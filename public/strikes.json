@@ -11526,5 +11526,71 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US base",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Apr 10, 2026",
+    "details": "Iran targeted US assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 10, 2026",
+    "details": "Iran targeted US assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.23,
+    "lng": 50.58,
+    "attacker": "Iran",
+    "date": "Apr 10, 2026",
+    "details": "Iran targeted US assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oil Tanker — Palau-flagged",
+    "lat": 25.38,
+    "lng": 56.33,
+    "attacker": "US/Israel",
+    "date": "Apr 10, 2026",
+    "details": "US strike on oil tanker",
+    "casualties": "3 Indian sailors killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Tayr Debba — City",
+    "lat": 33.25,
+    "lng": 35.37,
+    "attacker": "Israel",
+    "date": "Apr 10, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "17 killed",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.29,
+    "lng": 35.38,
+    "attacker": "Israel",
+    "date": "Apr 10, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

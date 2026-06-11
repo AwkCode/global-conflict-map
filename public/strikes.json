@@ -11460,5 +11460,71 @@
     "casualties": "3 Indian sailors missing",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US base",
+    "lat": 29.37,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "Apr 9, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 9, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.23,
+    "lng": 50.57,
+    "date": "Apr 9, 2026",
+    "attacker": "Iran",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tayr Debba — City",
+    "lat": 33.29,
+    "lng": 35.37,
+    "attacker": "Israel",
+    "date": "Apr 9, 2026",
+    "details": "Israeli air strikes in southern Lebanon",
+    "casualties": "17 killed",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Tyre — City",
+    "lat": 33.29,
+    "lng": 35.37,
+    "attacker": "Israel",
+    "date": "Apr 9, 2026",
+    "details": "Israeli air strikes in southern Lebanon",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Drinking Water Facilities",
+    "lat": 32.43,
+    "lng": 53.88,
+    "attacker": "US/Israel",
+    "date": "Apr 9, 2026",
+    "details": "US strikes on Iranian water facilities",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

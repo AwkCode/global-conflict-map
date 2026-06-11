@@ -11339,5 +11339,60 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Qeshm Island — Various locations",
+    "lat": 26.95,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jan 12, 2026",
+    "details": "US strikes Qeshm Island",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Jan 12, 2026",
+    "details": "Iran claims drone strikes on bases in Bahrain",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US base",
+    "lat": 29.3667,
+    "lng": 47.9667,
+    "attacker": "Iran",
+    "date": "Jan 12, 2026",
+    "details": "Iran claims drone strikes on bases in Kuwait",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Drinking Water Facilities",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jan 12, 2026",
+    "details": "US strikes drinking water facilities in Iran",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Settebello — Oil Tanker",
+    "lat": 24.7,
+    "lng": 58.3,
+    "attacker": "US/Israel",
+    "date": "Jan 12, 2026",
+    "details": "US strikes oil tanker off Oman",
+    "casualties": "3 Indian sailors missing",
+    "killed": 0,
+    "injured": 0
   }
 ]

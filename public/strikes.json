@@ -11592,5 +11592,49 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US base",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Apr 11, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 11, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.23,
+    "lng": 50.57,
+    "attacker": "Iran",
+    "date": "Apr 11, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Iranian Water Facility",
+    "lat": 26.63,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Apr 11, 2026",
+    "details": "Precision US strikes on Iranian water facility",
+    "casualties": "Unclear",
+    "killed": 0,
+    "injured": 0
   }
 ]

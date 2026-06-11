@@ -11394,5 +11394,71 @@
     "casualties": "3 Indian sailors missing",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Military targets",
+    "lat": 30,
+    "lng": 50,
+    "attacker": "US/Israel",
+    "date": "Apr 7, 2026",
+    "details": "US strikes on military targets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US base",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "Apr 7, 2026",
+    "details": "Iranian retaliatory strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.2,
+    "lng": 50.6,
+    "attacker": "Iran",
+    "date": "Apr 7, 2026",
+    "details": "Iranian retaliatory strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Apr 7, 2026",
+    "details": "Iranian retaliatory strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tayr Debba — City",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Apr 7, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "17 killed",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Gulf of Oman — Settebello",
+    "lat": 24.7,
+    "lng": 58.3,
+    "attacker": "US/Israel",
+    "date": "Apr 7, 2026",
+    "details": "US missile strike on oil tanker",
+    "casualties": "3 Indian sailors missing",
+    "killed": 0,
+    "injured": 0
   }
 ]

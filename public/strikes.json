@@ -11724,5 +11724,16 @@
     "casualties": "Unclear if US intentionally struck the facility",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.3759,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Apr 14, 2026",
+    "details": "Iran targeted US assets in response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -11735,5 +11735,16 @@
     "casualties": "Damage reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — City",
+    "lat": 33.1734,
+    "lng": 35.2083,
+    "attacker": "Israel",
+    "date": "Apr 14, 2026",
+    "details": "Air raids and artillery",
+    "casualties": "1 injured",
+    "killed": 0,
+    "injured": 1
   }
 ]

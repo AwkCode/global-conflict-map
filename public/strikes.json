@@ -11757,5 +11757,16 @@
     "casualties": "Damage reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Apr 16, 2026",
+    "details": "Iran targeted American assets in Kuwait",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

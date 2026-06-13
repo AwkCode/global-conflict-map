@@ -11955,5 +11955,49 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — City",
+    "lat": 33.8667,
+    "lng": 35.5333,
+    "attacker": "Israel",
+    "date": "Apr 26, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.3753,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Apr 25, 2026",
+    "details": "Iran targets American assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.9554,
+    "lng": 35.9453,
+    "attacker": "Iran",
+    "date": "Apr 25, 2026",
+    "details": "Iran targets American assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 25, 2026",
+    "details": "Iran targets American assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

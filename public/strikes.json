@@ -11768,5 +11768,38 @@
     "casualties": "Damage reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.3759,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Apr 17, 2026",
+    "details": "Iran targeted American assets in Kuwait",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.9554,
+    "lng": 35.9453,
+    "attacker": "Iran",
+    "date": "Apr 17, 2026",
+    "details": "Iran targeted American assets in Jordan",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 17, 2026",
+    "details": "Iran targeted American assets in Bahrain",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

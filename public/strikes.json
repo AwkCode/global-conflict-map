@@ -11823,5 +11823,49 @@
     "casualties": "3 Indian sailors killed, unknown injured",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Town",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Apr 21, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "Reports of damage",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.23,
+    "lng": 50.57,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -11801,5 +11801,27 @@
     "casualties": "Damage reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Tayr Debba",
+    "lat": 33.3,
+    "lng": 35.35,
+    "attacker": "Israel",
+    "date": "Apr 20, 2026",
+    "details": "Israeli strikes in southern Lebanon",
+    "casualties": "17 killed, unknown injured",
+    "killed": 17,
+    "injured": 0
+  },
+  {
+    "name": "Oil Tanker — Strait of Hormuz",
+    "lat": 26.63,
+    "lng": 56.38,
+    "attacker": "US/Israel",
+    "date": "Apr 19, 2026",
+    "details": "US strike on oil tanker",
+    "casualties": "3 Indian sailors killed, unknown injured",
+    "killed": 3,
+    "injured": 0
   }
 ]

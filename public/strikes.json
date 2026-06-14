@@ -12230,5 +12230,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Outskirts",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 17, 2026",
+    "details": "Israeli strikes on Beirut outskirts",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — City",
+    "lat": 33.33,
+    "lng": 35.33,
+    "attacker": "Israel",
+    "date": "May 17, 2026",
+    "details": "Israeli air strikes on Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

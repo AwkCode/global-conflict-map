@@ -12109,5 +12109,60 @@
     "casualties": "Damage reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — City",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 5, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.37,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "May 4, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "May 4, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US base",
+    "lat": 26.23,
+    "lng": 50.57,
+    "attacker": "Iran",
+    "date": "May 4, 2026",
+    "details": "Iran targeted American assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Southern Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 5, 2026",
+    "details": "Israeli strike on southern Gaza",
+    "casualties": "2 killed, 1 injured",
+    "killed": 2,
+    "injured": 1
   }
 ]

@@ -12274,5 +12274,27 @@
     "casualties": "Four killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Outskirts",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 22, 2026",
+    "details": "Israeli military strikes Hezbollah targets",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 22, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

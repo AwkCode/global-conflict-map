@@ -12164,5 +12164,16 @@
     "casualties": "2 killed, 1 injured",
     "killed": 2,
     "injured": 1
+  },
+  {
+    "name": "Lebanon — City",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 7, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

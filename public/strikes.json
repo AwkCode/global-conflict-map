@@ -12197,5 +12197,16 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Southern Suburbs",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 12, 2026",
+    "details": "Israeli airstrike on Hezbollah infrastructure",
+    "casualties": "At least 3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

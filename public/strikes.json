@@ -12252,5 +12252,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Outskirts",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israel strikes Beirut outskirts",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Jabalia refugee camp",
+    "lat": 31.55,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 19, 2026",
+    "details": "Israeli strike kills four Palestinians",
+    "casualties": "Four killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

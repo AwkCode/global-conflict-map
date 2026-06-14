@@ -12087,5 +12087,27 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — City",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Capital City",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "May 1, 2026",
+    "details": "Response to US strikes",
+    "casualties": "Damage reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

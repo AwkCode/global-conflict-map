@@ -12296,5 +12296,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Outskirts",
+    "lat": 33.85,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "May 25, 2026",
+    "details": "Israel strikes Beirut outskirts",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oil tanker",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "US/Israel",
+    "date": "May 24, 2026",
+    "details": "US strikes oil tanker",
+    "casualties": "3 Indian sailors killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

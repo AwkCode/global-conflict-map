@@ -12373,5 +12373,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Hezbollah targets struck",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon",
+    "lat": 33.3542,
+    "lng": 35.5815,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Air strikes on Lebanon",
+    "casualties": "Journalist hit by shrapnel",
+    "killed": 0,
+    "injured": 1
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5122,
+    "lng": 34.4558,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Strike on Gaza",
+    "casualties": "7-year-old's father and brother killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

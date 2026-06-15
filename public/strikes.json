@@ -12318,5 +12318,27 @@
     "casualties": "3 Indian sailors killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jun 14, 2026",
+    "details": "Israeli military targeted Hezbollah",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Jabalia refugee camp",
+    "lat": 31.5373,
+    "lng": 34.4739,
+    "attacker": "Israel",
+    "date": "Jun 14, 2026",
+    "details": "Israeli drone shot a man",
+    "casualties": "1 killed, unknown injured",
+    "killed": 1,
+    "injured": 0
   }
 ]

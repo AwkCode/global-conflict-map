@@ -12340,5 +12340,16 @@
     "casualties": "1 killed, unknown injured",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.89,
+    "lng": 35.49,
+    "attacker": "Israel",
+    "date": "Jun 15, 2026",
+    "details": "Israel targeted Hezbollah",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

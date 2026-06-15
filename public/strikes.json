@@ -12351,5 +12351,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jun 16, 2026",
+    "details": "Israeli military targeted Hezbollah",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.8547,
+    "lng": 35.8623,
+    "attacker": "Israel",
+    "date": "Jun 16, 2026",
+    "details": "Israeli air strikes on Lebanon",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

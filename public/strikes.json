@@ -12406,5 +12406,16 @@
     "casualties": "7-year-old's father and brother killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jun 18, 2026",
+    "details": "Hezbollah targets struck",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

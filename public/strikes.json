@@ -12417,5 +12417,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Beirut — Hezbollah targets",
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "attacker": "Israel",
+    "date": "Jun 19, 2026",
+    "details": "Israeli military struck Hezbollah targets",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

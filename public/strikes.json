@@ -12439,5 +12439,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Fresh strikes despite Trump criticism",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -12461,5 +12461,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Vehicle",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 18, 2026",
+    "details": "Drone strike on a vehicle",
+    "casualties": "At least 3 Palestinians killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

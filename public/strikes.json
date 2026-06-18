@@ -12472,5 +12472,16 @@
     "casualties": "At least 3 Palestinians killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Jun 21, 2026",
+    "details": "Fresh strikes despite Trump criticism",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -12505,5 +12505,16 @@
     "casualties": "4 Israeli soldiers killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Jun 23, 2026",
+    "details": "Israeli strikes kill 47",
+    "casualties": "47 killed, unknown injured",
+    "killed": 47,
+    "injured": 0
   }
 ]

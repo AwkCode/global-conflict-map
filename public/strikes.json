@@ -12483,5 +12483,16 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 21, 2026",
+    "details": "Fresh strikes on Lebanon",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -12615,5 +12615,16 @@
     "casualties": "1 journalist killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.3,
+    "lng": 35.4,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "At least 20 people killed",
+    "killed": 20,
+    "injured": 0
   }
 ]

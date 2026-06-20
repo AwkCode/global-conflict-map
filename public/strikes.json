@@ -12549,5 +12549,27 @@
     "casualties": "4 killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.12,
+    "lng": 35.23,
+    "attacker": "Israel",
+    "date": "Jun 23, 2026",
+    "details": "Israeli strikes reported",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Nabatieh",
+    "lat": 33.38,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jun 24, 2026",
+    "details": "Israeli attacks on Nabatieh",
+    "casualties": "Conditions resemble a 'death trap'",
+    "killed": 0,
+    "injured": 0
   }
 ]

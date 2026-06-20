@@ -12582,5 +12582,38 @@
     "casualties": "At least 20 people killed",
     "killed": 20,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "At least 20 people killed",
+    "killed": 20,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Israeli strike",
+    "casualties": "Children killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Jun 25, 2026",
+    "details": "Al Jazeera cameraman killed",
+    "casualties": "1 journalist killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

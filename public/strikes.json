@@ -12538,5 +12538,16 @@
     "casualties": "Mona Khalil killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Parents and two daughters killed",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

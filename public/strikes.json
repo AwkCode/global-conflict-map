@@ -12516,5 +12516,27 @@
     "casualties": "47 killed, unknown injured",
     "killed": 47,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Family",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Israeli strikes on Gaza",
+    "casualties": "Family, including two daughters, killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Mona Khalil",
+    "lat": 33.12,
+    "lng": 35.21,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Israeli attack on turtle advocate",
+    "casualties": "Mona Khalil killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

@@ -12659,5 +12659,16 @@
     "casualties": "47 killed",
     "killed": 47,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.8667,
+    "lng": 35.8333,
+    "attacker": "Israel",
+    "date": "Jun 27, 2026",
+    "details": "Israeli strikes kill 47 people",
+    "casualties": "47 killed",
+    "killed": 47,
+    "injured": 0
   }
 ]

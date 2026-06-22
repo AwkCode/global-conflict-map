@@ -12692,5 +12692,16 @@
     "casualties": "20+ killed",
     "killed": 20,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Jun 28, 2026",
+    "details": "Israeli strikes kill six people",
+    "casualties": "6 killed, including Al Jazeera cameraman",
+    "killed": 6,
+    "injured": 0
   }
 ]

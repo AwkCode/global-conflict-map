@@ -12714,5 +12714,16 @@
     "casualties": "20+ killed",
     "killed": 20,
     "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli strike kills Palestinian girl",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

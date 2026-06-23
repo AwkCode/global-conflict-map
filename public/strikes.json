@@ -12758,5 +12758,16 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli strikes kill six",
+    "casualties": "6 killed, dozens injured",
+    "killed": 6,
+    "injured": 0
   }
 ]

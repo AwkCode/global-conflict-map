@@ -12736,5 +12736,27 @@
     "casualties": "6 killed, including Al Jazeera cameraman",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "At least 20 people killed by Israeli air strikes",
+    "casualties": "20 killed",
+    "killed": 20,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli Soldiers Fatally Shoot 2 People",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

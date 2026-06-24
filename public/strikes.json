@@ -12769,5 +12769,16 @@
     "casualties": "6 killed, dozens injured",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Gaza — al-Mawasi",
+    "lat": 31.3,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli attacks kill 2, including child",
+    "casualties": "2 killed, including 1 child",
+    "killed": 2,
+    "injured": 0
   }
 ]

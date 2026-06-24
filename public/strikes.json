@@ -12813,5 +12813,16 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli troops kill 2",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

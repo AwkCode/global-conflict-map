@@ -12780,5 +12780,27 @@
     "casualties": "2 killed, including 1 child",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Khan Younis — Displaced tent",
+    "lat": 31.35,
+    "lng": 34.28,
+    "attacker": "Israel",
+    "date": "Jun 24, 2026",
+    "details": "Israeli drone strike on a tent",
+    "casualties": "2 killed, including a child",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon",
+    "lat": 33.17,
+    "lng": 35.23,
+    "attacker": "Israel",
+    "date": "Jun 24, 2026",
+    "details": "Israeli troops killed 2 Hezbollah operatives",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

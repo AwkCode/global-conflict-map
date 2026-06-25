@@ -12912,5 +12912,27 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo ship",
+    "lat": 25.373,
+    "lng": 56.746,
+    "attacker": "Iran",
+    "date": "Jul 24, 2026",
+    "details": "Cargo ship attacked",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various locations",
+    "lat": 33.354,
+    "lng": 35.513,
+    "attacker": "Israel",
+    "date": "Jul 24, 2026",
+    "details": "Two Hezbollah operatives killed",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

@@ -12879,5 +12879,27 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Nabatieh — Car",
+    "lat": 33.3833,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Jul 4, 2026",
+    "details": "Israeli attack on a car",
+    "casualties": "3 people killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various locations",
+    "lat": 33.1667,
+    "lng": 35.25,
+    "attacker": "Israel",
+    "date": "Jul 4, 2026",
+    "details": "Israeli troops kill 2",
+    "casualties": "2 people killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

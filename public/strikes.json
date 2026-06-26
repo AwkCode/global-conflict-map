@@ -12989,5 +12989,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Maghazi refugee camp — Car",
+    "lat": 31.4,
+    "lng": 34.4,
+    "attacker": "Israel",
+    "date": "Jul 26, 2026",
+    "details": "Car attacked, killing three Palestinians",
+    "casualties": "Three killed, no injured reported",
+    "killed": 3,
+    "injured": 0
   }
 ]

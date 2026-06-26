@@ -13000,5 +13000,27 @@
     "casualties": "Three killed, no injured reported",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Iran — Missile and drone storage facilities",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jul 27, 2026",
+    "details": "US strikes in retaliation for attack on vessel",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Central Gaza — Car",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jul 26, 2026",
+    "details": "Israeli attack on car kills three Palestinians",
+    "casualties": "Three killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

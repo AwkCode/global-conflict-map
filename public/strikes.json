@@ -12978,5 +12978,16 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Jul 27, 2026",
+    "details": "Drone strike on cargo ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

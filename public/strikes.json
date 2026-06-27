@@ -13044,5 +13044,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Container ship",
+    "lat": 25.5,
+    "lng": 57,
+    "attacker": "Iran",
+    "date": "Jul 27, 2026",
+    "details": "Attack on Singapore-flagged ship",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jul 28, 2026",
+    "details": "US strikes Iran after attack on cargo ship",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

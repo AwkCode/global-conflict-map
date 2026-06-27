@@ -13022,5 +13022,27 @@
     "casualties": "Three killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jul 27, 2026",
+    "details": "US strikes Iran in retaliation",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Container ship",
+    "lat": 25.5,
+    "lng": 57,
+    "attacker": "Iran",
+    "date": "Jul 26, 2026",
+    "details": "Iran attacks container ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

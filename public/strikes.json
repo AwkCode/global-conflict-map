@@ -13088,5 +13088,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jul 30, 2026",
+    "details": "Strikes after Lebanon and Israel signed a framework agreement",
+    "casualties": "At least one person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo ship",
+    "lat": 25.8,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Jul 29, 2026",
+    "details": "Cargo ship struck by unknown projectile",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain and Kuwait — Various targets",
+    "lat": 25.9,
+    "lng": 50.5,
+    "attacker": "Iran",
+    "date": "Jul 30, 2026",
+    "details": "Iran attacks Bahrain and Kuwait after US strikes",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

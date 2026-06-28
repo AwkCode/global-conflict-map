@@ -13253,5 +13253,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.35,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "Aug 6, 2026",
+    "details": "Strikes killed at least one person",
+    "casualties": "At least one person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Targets linked to American forces",
+    "lat": 32.43,
+    "lng": 53.06,
+    "attacker": "Iran",
+    "date": "Aug 6, 2026",
+    "details": "Iran struck targets linked to American forces",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

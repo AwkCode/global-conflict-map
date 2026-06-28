@@ -13176,5 +13176,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 3, 2026",
+    "details": "Strikes in response to new deal",
+    "casualties": "At least 1 person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Targets linked to American forces",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "Iran",
+    "date": "Aug 3, 2026",
+    "details": "Response to US strike",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo ship",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Aug 3, 2026",
+    "details": "Attack on cargo ship",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

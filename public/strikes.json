@@ -13319,5 +13319,49 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 8, 2026",
+    "details": "Strikes after Lebanon and Israel signed framework agreement",
+    "casualties": "At least one person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Targets linked to American forces",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "Iran",
+    "date": "Aug 8, 2026",
+    "details": "Response to US strike on cargo ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Cargo ship",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Aug 8, 2026",
+    "details": "Attack on Singapore-flagged ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Targets linked to American forces",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Aug 8, 2026",
+    "details": "US strike after cargo ship attack",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

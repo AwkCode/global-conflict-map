@@ -13605,5 +13605,38 @@
     "casualties": "At least 1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Various locations",
+    "lat": 33.35,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "Aug 18, 2026",
+    "details": "Strike in response to new deal",
+    "casualties": "At least 1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US infrastructure",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Aug 18, 2026",
+    "details": "Retaliatory attack",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US infrastructure",
+    "lat": 26.07,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Aug 18, 2026",
+    "details": "Retaliatory attack",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

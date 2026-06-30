@@ -13737,5 +13737,27 @@
     "casualties": "At least 1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US infrastructure",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "Aug 22, 2026",
+    "details": "Retaliatory attacks on US infrastructure",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US infrastructure",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Aug 22, 2026",
+    "details": "Retaliatory attacks on US infrastructure",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

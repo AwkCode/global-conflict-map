@@ -13759,5 +13759,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 24, 2026",
+    "details": "Drone strike",
+    "casualties": "1 child killed, 1 injured",
+    "killed": 1,
+    "injured": 1
   }
 ]

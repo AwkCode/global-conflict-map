@@ -13770,5 +13770,38 @@
     "casualties": "1 child killed, 1 injured",
     "killed": 1,
     "injured": 1
+  },
+  {
+    "name": "Gaza City — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Israeli attacks on Gaza City and Khan Younis",
+    "casualties": "At least 6 killed, over 20 wounded",
+    "killed": 6,
+    "injured": 20
+  },
+  {
+    "name": "Khan Younis — Various locations",
+    "lat": 31.35,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Israeli attacks on Gaza City and Khan Younis",
+    "casualties": "At least 6 killed, over 20 wounded",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Checkpoint",
+    "lat": 32,
+    "lng": 35.25,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Baby died after family’s attempt to reach hospital was blocked",
+    "casualties": "1 baby died",
+    "killed": 1,
+    "injured": 0
   }
 ]

@@ -13803,5 +13803,16 @@
     "casualties": "1 baby died",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Aug 27, 2026",
+    "details": "Israeli airstrike",
+    "casualties": "1 teacher killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

@@ -13814,5 +13814,16 @@
     "casualties": "1 teacher killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Aug 29, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

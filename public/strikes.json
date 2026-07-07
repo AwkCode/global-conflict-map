@@ -13902,5 +13902,16 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.9,
+    "lng": 35.8,
+    "attacker": "Israel",
+    "date": "Sep 10, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

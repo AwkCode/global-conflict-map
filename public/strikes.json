@@ -13869,5 +13869,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Commercial ships",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Sep 6, 2026",
+    "details": "Iranian missiles struck two commercial ships",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

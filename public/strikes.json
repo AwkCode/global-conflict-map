@@ -13847,5 +13847,27 @@
     "casualties": "4 killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Various locations",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Sep 4, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Oman — Off coast",
+    "lat": 23.62,
+    "lng": 58.38,
+    "attacker": "Iran",
+    "date": "Sep 4, 2026",
+    "details": "Tanker on fire after being hit by projectile",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

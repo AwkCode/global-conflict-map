@@ -13990,5 +13990,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Tankers",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Sep 28, 2026",
+    "details": "Tankers hit in Strait of Hormuz",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Missile sites and command centres",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Sep 28, 2026",
+    "details": "US hit missile sites and command centres",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

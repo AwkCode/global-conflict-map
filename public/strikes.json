@@ -14012,5 +14012,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Bahrain — US bases",
+    "lat": 26,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Sep 28, 2026",
+    "details": "Iran attacked US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US bases",
+    "lat": 29.37,
+    "lng": 47.97,
+    "attacker": "Iran",
+    "date": "Sep 28, 2026",
+    "details": "Iran attacked US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

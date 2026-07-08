@@ -14078,5 +14078,27 @@
     "casualties": "4 killed, including 3 women",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Car",
+    "lat": 33.85,
+    "lng": 35.75,
+    "attacker": "Israel",
+    "date": "Oct 1, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed, including 3 women",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 1, 2026",
+    "details": "Israeli air strikes target civilians and displaced families",
+    "casualties": "8 killed, including 2 children, 12 injured",
+    "killed": 8,
+    "injured": 12
   }
 ]

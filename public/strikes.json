@@ -13968,5 +13968,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Car",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed, including 3 women",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Commercial ships",
+    "lat": 25.7,
+    "lng": 55.4,
+    "attacker": "Iran",
+    "date": "Sep 28, 2026",
+    "details": "Iran's strikes on ships in Strait of Hormuz",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

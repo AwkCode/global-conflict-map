@@ -14254,5 +14254,27 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Bushehr — Fishing piers near nuclear plant",
+    "lat": 28.9667,
+    "lng": 50.8333,
+    "attacker": "US/Israel",
+    "date": "Oct 14, 2026",
+    "details": "US strikes damaged civilian infrastructure",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 14, 2026",
+    "details": "Israeli attacks killed 10 people in 24 hours",
+    "casualties": "10 killed",
+    "killed": 10,
+    "injured": 0
   }
 ]

@@ -14232,5 +14232,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Car",
+    "lat": 33.9,
+    "lng": 35.5,
+    "attacker": "Israel",
+    "date": "Oct 12, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed, including 3 women",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 12, 2026",
+    "details": "Gaza aid worker killed by Israeli strike",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

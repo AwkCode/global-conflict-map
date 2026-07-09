@@ -14320,5 +14320,27 @@
     "casualties": "At least 1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Iranian port cities — Port facilities",
+    "lat": 30,
+    "lng": 49,
+    "attacker": "US/Israel",
+    "date": "Oct 17, 2026",
+    "details": "Overnight strikes on port cities and railway",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Uninvolved civilians",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 17, 2026",
+    "details": "Aid worker Mohammed al-Wahidi killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

@@ -14199,5 +14199,38 @@
     "casualties": "Nine Palestinians killed, including two children",
     "killed": 9,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Car",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Oct 11, 2026",
+    "details": "Deadliest Israeli attack on Lebanon since latest ceasefire",
+    "casualties": "4 killed, including 3 women",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Iran — 90 targets",
+    "lat": 32.43,
+    "lng": 53.68,
+    "attacker": "US/Israel",
+    "date": "Oct 11, 2026",
+    "details": "US strikes on Iran for second night",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gulf states — US-linked sites",
+    "lat": 25.28,
+    "lng": 55.38,
+    "attacker": "Iran",
+    "date": "Oct 11, 2026",
+    "details": "Iranian drone strikes on US-linked sites",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

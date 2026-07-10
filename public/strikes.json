@@ -14606,5 +14606,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Historic sites",
+    "lat": 33.35,
+    "lng": 35.33,
+    "attacker": "Israel",
+    "date": "Nov 3, 2026",
+    "details": "Israeli air strikes",
+    "casualties": "Not specified",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.75,
+    "lng": 35.95,
+    "attacker": "Iran",
+    "date": "Nov 3, 2026",
+    "details": "Iranian missile attack",
+    "casualties": "Not specified",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 25.28,
+    "lng": 51.53,
+    "attacker": "Iran",
+    "date": "Nov 3, 2026",
+    "details": "Iranian missile attack",
+    "casualties": "Not specified",
+    "killed": 0,
+    "injured": 0
   }
 ]

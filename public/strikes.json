@@ -14375,5 +14375,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various locations",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 24, 2026",
+    "details": "Aid worker killed",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
+  },
+  {
+    "name": "Iranian port cities — Port facilities",
+    "lat": 30.07,
+    "lng": 49.65,
+    "attacker": "US/Israel",
+    "date": "Oct 24, 2026",
+    "details": "Overnight strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gulf states — US-linked sites",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "attacker": "Iran",
+    "date": "Oct 24, 2026",
+    "details": "New Iranian attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

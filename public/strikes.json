@@ -14342,5 +14342,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Uninvolved civilians",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 20, 2026",
+    "details": "Aid worker Mohammed al-Wahidi killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Iranian port cities — Port facilities",
+    "lat": 30.0667,
+    "lng": 51.6167,
+    "attacker": "US/Israel",
+    "date": "Oct 20, 2026",
+    "details": "Overnight strikes on port cities and railway",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gulf states — US-linked sites",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "attacker": "Iran",
+    "date": "Oct 20, 2026",
+    "details": "New Iranian attacks on Gulf Arab countries",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

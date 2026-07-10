@@ -14496,5 +14496,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Air defense systems, drone and missile storage sites, and military speedboats",
+    "lat": 32.43,
+    "lng": 53.68,
+    "attacker": "US/Israel",
+    "date": "Oct 30, 2026",
+    "details": "U.S. forces hit over 170 targets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.75,
+    "lng": 35.98,
+    "attacker": "Iran",
+    "date": "Oct 30, 2026",
+    "details": "Iran fires missiles at Jordanian air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 25.28,
+    "lng": 51.53,
+    "attacker": "Iran",
+    "date": "Oct 30, 2026",
+    "details": "Iran fires at US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

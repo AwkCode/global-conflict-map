@@ -14441,5 +14441,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.8333,
+    "lng": 36.0667,
+    "attacker": "Iran",
+    "date": "Oct 27, 2026",
+    "details": "Iran fired missiles at a Jordanian air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian port cities — Port facilities",
+    "lat": 30.0667,
+    "lng": 49.65,
+    "attacker": "US/Israel",
+    "date": "Oct 27, 2026",
+    "details": "US/Israel struck Iranian port cities and a railway overnight",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Aid worker",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Oct 26, 2026",
+    "details": "Israeli strike killed a Gaza aid worker",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

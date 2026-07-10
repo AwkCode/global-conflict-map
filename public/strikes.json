@@ -14474,5 +14474,27 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Iranian port cities — Port facilities",
+    "lat": 35.7,
+    "lng": 51.4,
+    "attacker": "US/Israel",
+    "date": "Oct 29, 2026",
+    "details": "Overnight strike on port facilities",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Oct 28, 2026",
+    "details": "Missile strike on air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

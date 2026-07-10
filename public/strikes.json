@@ -14529,5 +14529,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Tankers",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Maritime",
+    "date": "Nov 1, 2026",
+    "details": "Tankers hit in Strait of Hormuz",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Missile sites and command centers",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Nov 1, 2026",
+    "details": "US hit missile sites and command centers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US bases in Qatar, Bahrain, and Kuwait — US bases",
+    "lat": 25,
+    "lng": 51,
+    "attacker": "Iran",
+    "date": "Nov 1, 2026",
+    "details": "Iran fired at US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31,
+    "lng": 36,
+    "attacker": "Iran",
+    "date": "Nov 1, 2026",
+    "details": "Iran fired missiles at Jordanian air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

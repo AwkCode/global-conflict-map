@@ -14782,5 +14782,49 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.8333,
+    "lng": 36.0333,
+    "attacker": "Iran",
+    "date": "Nov 10, 2026",
+    "details": "Iran fired missiles at a Jordanian air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 25.276987,
+    "lng": 51.534939,
+    "attacker": "Iran",
+    "date": "Nov 10, 2026",
+    "details": "Iran fired at U.S. bases in Qatar, Bahrain and Kuwait",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Steel Facility",
+    "lat": 32.4333,
+    "lng": 51.3833,
+    "attacker": "Israel",
+    "date": "Nov 10, 2026",
+    "details": "Israel struck an Iranian steel facility",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Air defense systems, drone and missile storage sites, and military speedboats",
+    "lat": 35,
+    "lng": 51,
+    "attacker": "US/Israel",
+    "date": "Nov 10, 2026",
+    "details": "U.S. forces hit more than 170 targets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

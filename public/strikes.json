@@ -14969,5 +14969,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.75,
+    "lng": 35.95,
+    "attacker": "Iran",
+    "date": "Nov 22, 2026",
+    "details": "Iran fired missiles at a Jordanian air base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 25.28,
+    "lng": 51.53,
+    "attacker": "Iran",
+    "date": "Nov 22, 2026",
+    "details": "Iran fired at U.S. bases in Qatar, Bahrain and Kuwait",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

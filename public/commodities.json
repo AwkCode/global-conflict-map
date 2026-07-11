@@ -99,9 +99,9 @@
     "symbol": "RB=F",
     "name": "Gasoline",
     "unit": "$/gal",
-    "price": 2.82,
-    "dayChange": -3.33,
-    "weekChange": -3.34,
+    "price": 2.8203,
+    "dayChange": -3.32,
+    "weekChange": -3.32,
     "history": [
       2.91729998588562,
       3.0032999515533447,

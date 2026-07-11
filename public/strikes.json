@@ -14826,5 +14826,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.8333,
+    "lng": 36.0667,
+    "attacker": "Iran",
+    "date": "Nov 12, 2026",
+    "details": "Iran fired missiles at a Jordanian air base",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 29.2667,
+    "lng": 47.9667,
+    "attacker": "Iran",
+    "date": "Nov 12, 2026",
+    "details": "Iran fired at US bases in response to US strikes",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Shipping",
+    "lat": 26.6167,
+    "lng": 56.0667,
+    "attacker": "Iran",
+    "date": "Nov 12, 2026",
+    "details": "Iran responded by firing at maritime traffic",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

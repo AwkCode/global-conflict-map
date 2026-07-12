@@ -15134,5 +15134,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Shipping",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 10, 2026",
+    "details": "Iran attacks a Cyprus-flagged vessel",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gulf states — Various targets",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Dec 10, 2026",
+    "details": "Iran hits five Gulf nations",
+    "casualties": "Three injured in Qatar",
+    "killed": 0,
+    "injured": 3
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 10, 2026",
+    "details": "US completes third round of strikes on Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Dec 10, 2026",
+    "details": "Aid worker Mohammed al-Wahidi killed",
+    "casualties": "One killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

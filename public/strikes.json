@@ -15211,5 +15211,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Shipping",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 15, 2026",
+    "details": "Attack on a Cyprus-flagged vessel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 15, 2026",
+    "details": "US forces hit over 170 targets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Dec 15, 2026",
+    "details": "Aid worker Mohammed al-Wahidi killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

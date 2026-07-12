@@ -15013,5 +15013,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — Air base",
+    "lat": 31.85,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "Dec 1, 2026",
+    "details": "Iran fired missiles",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar, Bahrain, Kuwait — US bases",
+    "lat": 25.276987,
+    "lng": 51.534939,
+    "attacker": "Iran",
+    "date": "Dec 1, 2026",
+    "details": "Iran fired at US bases",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Dec 1, 2026",
+    "details": "Aid worker killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

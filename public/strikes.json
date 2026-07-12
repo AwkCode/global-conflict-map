@@ -15046,5 +15046,49 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Shipping",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 5, 2026",
+    "details": "Iran fires on a container ship",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian cities — Bandar Abbas, Sirik and Chabahar",
+    "lat": 27,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Dec 5, 2026",
+    "details": "US bombs Iranian cities",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan, Bahrain, Kuwait — Various targets",
+    "lat": 30,
+    "lng": 45,
+    "attacker": "Iran",
+    "date": "Dec 5, 2026",
+    "details": "Iran targets Jordan and Gulf states",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian Steel Facility",
+    "lat": 32,
+    "lng": 54,
+    "attacker": "Israel",
+    "date": "Dec 5, 2026",
+    "details": "Israel strikes Iranian steel facility",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

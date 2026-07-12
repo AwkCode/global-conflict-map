@@ -15178,5 +15178,38 @@
     "casualties": "One killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Shipping",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 12, 2026",
+    "details": "Attack on a Cyprus-flagged vessel",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gulf states — Various targets",
+    "lat": 25,
+    "lng": 55,
+    "attacker": "Iran",
+    "date": "Dec 12, 2026",
+    "details": "Missiles and drones fired at Gulf states",
+    "casualties": "3 injured by falling shrapnel in Qatar",
+    "killed": 0,
+    "injured": 3
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 12, 2026",
+    "details": "US CENTCOM completes third round of strikes on Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

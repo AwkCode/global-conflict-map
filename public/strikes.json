@@ -15420,5 +15420,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Container Ship",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Dec 30, 2026",
+    "details": "Iran fires on ship",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Various targets",
+    "lat": 35,
+    "lng": 51,
+    "attacker": "US/Israel",
+    "date": "Dec 30, 2026",
+    "details": "US strikes Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

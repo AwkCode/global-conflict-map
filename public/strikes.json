@@ -15497,5 +15497,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Bahrain — US Military Base",
+    "lat": 26,
+    "lng": 50.5,
+    "attacker": "Iran",
+    "date": "Jan 3, 2027",
+    "details": "Iran launches attack on US military base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military Base",
+    "lat": 29.3,
+    "lng": 47.9,
+    "attacker": "Iran",
+    "date": "Jan 3, 2027",
+    "details": "Iran launches attack on US military base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Military Base",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jan 3, 2027",
+    "details": "Iran launches attack on US military base",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

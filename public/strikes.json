@@ -15662,5 +15662,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military Base",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "Jan 7, 2027",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Military Base",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jan 7, 2027",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US Military Base",
+    "lat": 26.2,
+    "lng": 50.6,
+    "attacker": "Iran",
+    "date": "Jan 7, 2027",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oman — US Military Base",
+    "lat": 23.6,
+    "lng": 58.4,
+    "attacker": "Iran",
+    "date": "Jan 7, 2027",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

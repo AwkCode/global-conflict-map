@@ -15959,5 +15959,82 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Police Post",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 15, 2026",
+    "details": "Israeli strike on police post",
+    "casualties": "7 killed",
+    "killed": 7,
+    "injured": 0
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 17.2272,
+    "lng": 42.6603,
+    "attacker": "Hezbollah",
+    "date": "Apr 15, 2026",
+    "details": "Houthis launch missiles",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iranian Naval Installations — Iran",
+    "lat": 30.0704,
+    "lng": 50.9097,
+    "attacker": "US/Israel",
+    "date": "Apr 15, 2026",
+    "details": "US launches fresh strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "Apr 15, 2026",
+    "details": "Iran strikes US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9554,
+    "lng": 35.9453,
+    "attacker": "Iran",
+    "date": "Apr 15, 2026",
+    "details": "Iran strikes US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 15, 2026",
+    "details": "Iran strikes US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.6167,
+    "lng": 58.5833,
+    "attacker": "Iran",
+    "date": "Apr 15, 2026",
+    "details": "Iran strikes US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

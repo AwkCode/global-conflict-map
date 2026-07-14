@@ -16124,5 +16124,60 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 17.2272,
+    "lng": 42.6603,
+    "attacker": "Hezbollah",
+    "date": "Apr 19, 2026",
+    "details": "Retaliation for Sanaa airport strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "Apr 19, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9454,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "Apr 19, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 19, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.6167,
+    "lng": 58.5833,
+    "attacker": "Iran",
+    "date": "Apr 19, 2026",
+    "details": "Iranian retaliation for US strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

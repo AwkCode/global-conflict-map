@@ -16058,5 +16058,71 @@
     "casualties": "1 Indian sailor killed, dozens injured",
     "killed": 1,
     "injured": 20
+  },
+  {
+    "name": "Sanaa Airport — Yemen",
+    "lat": 15.4778,
+    "lng": 44.2203,
+    "attacker": "US/Israel",
+    "date": "Apr 18, 2026",
+    "details": "US strikes on Sanaa airport",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 18.3156,
+    "lng": 42.6586,
+    "attacker": "Hezbollah",
+    "date": "Apr 18, 2026",
+    "details": "Hezbollah launches missiles at Abha airport",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.6659,
+    "attacker": "Iran",
+    "date": "Apr 18, 2026",
+    "details": "Iran strikes US military assets in Kuwait",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9554,
+    "lng": 35.9453,
+    "attacker": "Iran",
+    "date": "Apr 18, 2026",
+    "details": "Iran strikes US military assets in Jordan",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 18, 2026",
+    "details": "Iran strikes US military assets in Bahrain",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.6167,
+    "lng": 58.5833,
+    "attacker": "Iran",
+    "date": "Apr 18, 2026",
+    "details": "Iran strikes US military assets in Oman",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

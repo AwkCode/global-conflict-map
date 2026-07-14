@@ -15750,5 +15750,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kish — Iranian Naval Base",
+    "lat": 26.5333,
+    "lng": 53.9667,
+    "attacker": "US/Israel",
+    "date": "Apr 9, 2026",
+    "details": "US launches fresh strikes",
+    "casualties": "1 killed in tanker strike",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Qeshm — Iranian Naval Base",
+    "lat": 26.95,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Apr 9, 2026",
+    "details": "US launches fresh strikes",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bandar Abbas — Iranian Naval Base",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Apr 9, 2026",
+    "details": "US launches fresh strikes",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

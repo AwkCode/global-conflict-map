@@ -15915,5 +15915,49 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military Base",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Apr 14, 2026",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Military Base",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 14, 2026",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US Military Base",
+    "lat": 26.23,
+    "lng": 50.57,
+    "attacker": "Iran",
+    "date": "Apr 14, 2026",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oman — US Military Base",
+    "lat": 23.61,
+    "lng": 58.54,
+    "attacker": "Iran",
+    "date": "Apr 14, 2026",
+    "details": "Iran struck US military assets",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

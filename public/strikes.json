@@ -16036,5 +16036,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 18.2883,
+    "lng": 42.6647,
+    "attacker": "Hezbollah",
+    "date": "Apr 16, 2026",
+    "details": "Retaliation for Sanaa airport strike",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Commercial Ship — Strait of Hormuz",
+    "lat": 26.6122,
+    "lng": 56.3047,
+    "attacker": "Iran",
+    "date": "Apr 17, 2026",
+    "details": "Attack on Indian tanker",
+    "casualties": "1 Indian sailor killed, dozens injured",
+    "killed": 1,
+    "injured": 20
   }
 ]

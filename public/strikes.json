@@ -16366,5 +16366,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza Home — Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 27, 2026",
+    "details": "Israeli air attack",
+    "casualties": "3 killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

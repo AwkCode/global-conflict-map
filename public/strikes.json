@@ -16289,5 +16289,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Marine Control Tower — Iran",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Apr 25, 2026",
+    "details": "US strikes marine control tower",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza Apartment — Gaza",
+    "lat": 31.4422,
+    "lng": 34.4503,
+    "attacker": "Israel",
+    "date": "Apr 25, 2026",
+    "details": "Israeli air attack on Gaza apartment",
+    "casualties": "Family of three killed, one child survives",
+    "killed": 3,
+    "injured": 1
   }
 ]

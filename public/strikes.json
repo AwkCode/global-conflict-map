@@ -16311,5 +16311,60 @@
     "casualties": "Family of three killed, one child survives",
     "killed": 3,
     "injured": 1
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 18.2889,
+    "lng": 42.6647,
+    "attacker": "Hezbollah",
+    "date": "Apr 26, 2026",
+    "details": "Retaliatory strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.7343,
+    "attacker": "Iran",
+    "date": "Apr 26, 2026",
+    "details": "Exchange of fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 30.5851,
+    "lng": 36.0833,
+    "attacker": "Iran",
+    "date": "Apr 26, 2026",
+    "details": "Exchange of fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 26, 2026",
+    "details": "Exchange of fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.6167,
+    "lng": 58.5833,
+    "attacker": "Iran",
+    "date": "Apr 26, 2026",
+    "details": "Exchange of fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

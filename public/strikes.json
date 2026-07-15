@@ -16388,5 +16388,38 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Apr 29, 2026",
+    "details": "Iran targeted US military assets",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 29, 2026",
+    "details": "Iran targeted US military assets",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.23,
+    "lng": 50.57,
+    "attacker": "Iran",
+    "date": "Apr 29, 2026",
+    "details": "Iran targeted US military assets",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

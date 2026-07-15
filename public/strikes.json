@@ -16179,5 +16179,82 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Police Post — Gaza",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 20, 2026",
+    "details": "Strike on police post",
+    "casualties": "7 killed",
+    "killed": 7,
+    "injured": 0
+  },
+  {
+    "name": "Tankers — UAE",
+    "lat": 24.47,
+    "lng": 54.37,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Attack on tankers",
+    "casualties": "1 Indian sailor killed, dozens injured",
+    "killed": 1,
+    "injured": 20
+  },
+  {
+    "name": "Abha Airport — Saudi Arabia",
+    "lat": 18.31,
+    "lng": 42.66,
+    "attacker": "Hezbollah",
+    "date": "Apr 20, 2026",
+    "details": "Missile attack",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Strike on US assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Strike on US assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.07,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Strike on US assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.61,
+    "lng": 58.54,
+    "attacker": "Iran",
+    "date": "Apr 20, 2026",
+    "details": "Strike on US assets",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

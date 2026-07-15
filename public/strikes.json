@@ -16377,5 +16377,16 @@
     "casualties": "3 killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Greater Tunb Island — Iranian Cruise Missile Storage",
+    "lat": 26.2333,
+    "lng": 55.3667,
+    "attacker": "US/Israel",
+    "date": "Apr 28, 2026",
+    "details": "US strikes Iranian cruise missile storage",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

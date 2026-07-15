@@ -16421,5 +16421,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Greater Tunb Island — Iranian Cruise Missile Storage",
+    "lat": 26.2333,
+    "lng": 55.3667,
+    "attacker": "US/Israel",
+    "date": "Apr 29, 2026",
+    "details": "US strikes on Iranian cruise missile storage",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Police post — North Gaza",
+    "lat": 31.5333,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 29, 2026",
+    "details": "Israeli strike on police post",
+    "casualties": "7 killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

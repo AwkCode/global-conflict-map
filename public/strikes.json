@@ -16443,5 +16443,71 @@
     "casualties": "7 killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Qeshm Island — Iranian Oil Tanker",
+    "lat": 26.9167,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Apr 30, 2026",
+    "details": "US hits Iranian oil tanker",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bandar Abbas — Iranian Port",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Apr 30, 2026",
+    "details": "US launches fresh strikes on Iran",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Chabahar — Iranian City",
+    "lat": 25.2833,
+    "lng": 60.6333,
+    "attacker": "US/Israel",
+    "date": "Apr 30, 2026",
+    "details": "US strikes Iranian city",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.6583,
+    "attacker": "Iran",
+    "date": "Apr 30, 2026",
+    "details": "Iran strikes US military assets in Kuwait",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9454,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "Apr 30, 2026",
+    "details": "Iran strikes US military assets in Jordan",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "Apr 30, 2026",
+    "details": "Iran strikes US military assets in Bahrain",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

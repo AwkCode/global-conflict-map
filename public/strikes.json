@@ -16564,5 +16564,60 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Greater Tunb Island — Iranian Cruise Missile Storage",
+    "lat": 26.2333,
+    "lng": 55.3667,
+    "attacker": "US/Israel",
+    "date": "May 3, 2026",
+    "details": "US strikes hit Iranian cruise missile storage",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tehran — Various Targets",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "attacker": "US/Israel",
+    "date": "May 3, 2026",
+    "details": "US launches wave of strikes on Iran",
+    "casualties": "At least 35 killed, over 300 injured",
+    "killed": 35,
+    "injured": 300
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "May 3, 2026",
+    "details": "Iran strikes US military assets in Kuwait",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9454,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "May 3, 2026",
+    "details": "Iran strikes US military assets in Jordan",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "May 3, 2026",
+    "details": "Iran strikes US military assets in Bahrain",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

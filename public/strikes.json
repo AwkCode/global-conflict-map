@@ -16762,5 +16762,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kharg Island — Iranian Oil Terminal",
+    "lat": 29.2333,
+    "lng": 50.3167,
+    "attacker": "US/Israel",
+    "date": "May 9, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Tanker",
+    "lat": 26.6167,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "May 9, 2026",
+    "details": "US launches fresh strikes on Iran",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

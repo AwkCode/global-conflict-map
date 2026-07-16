@@ -16509,5 +16509,60 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Greater Tunb Island — Iranian Cruise Missile Storage",
+    "lat": 26.2333,
+    "lng": 55.3667,
+    "attacker": "US/Israel",
+    "date": "May 2, 2026",
+    "details": "US strikes on Iranian cruise missile storage",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Kuwait",
+    "lat": 29.3753,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "May 2, 2026",
+    "details": "Iran strikes on US military assets in Kuwait",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Jordan",
+    "lat": 31.9454,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "May 2, 2026",
+    "details": "Iran strikes on US military assets in Jordan",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Bahrain",
+    "lat": 26.0667,
+    "lng": 50.55,
+    "attacker": "Iran",
+    "date": "May 2, 2026",
+    "details": "Iran strikes on US military assets in Bahrain",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "US Military Assets — Oman",
+    "lat": 23.6167,
+    "lng": 58.5833,
+    "attacker": "Iran",
+    "date": "May 2, 2026",
+    "details": "Iran strikes on US military assets in Oman",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

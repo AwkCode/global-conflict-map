@@ -16927,5 +16927,27 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Key Bridges and Tower",
+    "lat": 27,
+    "lng": 54,
+    "attacker": "US/Israel",
+    "date": "May 18, 2026",
+    "details": "US strikes destroy key bridges, tower",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "May 17, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

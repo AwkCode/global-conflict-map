@@ -16806,5 +16806,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — Border Area",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "May 12, 2026",
+    "details": "Falling debris sparks fires",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "US/Israel",
+    "date": "May 12, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

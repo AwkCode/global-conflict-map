@@ -16949,5 +16949,16 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 25.5,
+    "lng": 57,
+    "attacker": "US/Israel",
+    "date": "May 20, 2026",
+    "details": "US targeted unladen oil tanker",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

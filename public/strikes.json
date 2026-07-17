@@ -16850,5 +16850,82 @@
     "casualties": "No casualties reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Iran — Key Bridges and Tower",
+    "lat": 28,
+    "lng": 52,
+    "attacker": "US/Israel",
+    "date": "May 15, 2026",
+    "details": "US strikes destroy key bridges, tower",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — US Military Assets",
+    "lat": 26,
+    "lng": 50.5,
+    "attacker": "Iran",
+    "date": "May 15, 2026",
+    "details": "Iran targets multiple countries across the region",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qatar — US Military Assets",
+    "lat": 25.3,
+    "lng": 51.5,
+    "attacker": "Iran",
+    "date": "May 15, 2026",
+    "details": "Iran targets multiple countries across the region",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Oman — US Military Assets",
+    "lat": 23.6,
+    "lng": 58.5,
+    "attacker": "Iran",
+    "date": "May 15, 2026",
+    "details": "Iran targets multiple countries across the region",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Military Assets",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "May 15, 2026",
+    "details": "Iran targets multiple countries across the region",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Syria — US Military Assets",
+    "lat": 33.5,
+    "lng": 36.3,
+    "attacker": "Iran",
+    "date": "May 15, 2026",
+    "details": "Iran targets multiple countries across the region",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26.6,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "May 15, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

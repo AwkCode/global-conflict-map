@@ -16828,5 +16828,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Civilian Infrastructure",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "May 14, 2026",
+    "details": "US strikes hit civilian infrastructure",
+    "casualties": "Casualties reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "May 13, 2026",
+    "details": "US targeted an unladen oil tanker",
+    "casualties": "No casualties reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

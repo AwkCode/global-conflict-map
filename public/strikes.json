@@ -16971,5 +16971,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Military Bases",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "May 24, 2026",
+    "details": "US launches wave of strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "May 24, 2026",
+    "details": "US targets unladen oil tanker",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

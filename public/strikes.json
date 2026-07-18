@@ -17400,5 +17400,49 @@
     "casualties": "7 people killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Jun 19, 2026",
+    "details": "Iranian attack on US troops",
+    "casualties": "2 US troops killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Kharg island — Oil Tanker",
+    "lat": 29.23,
+    "lng": 50.31,
+    "attacker": "US/Israel",
+    "date": "Jun 19, 2026",
+    "details": "US strike on unladen oil tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.19,
+    "lng": 55.87,
+    "attacker": "US/Israel",
+    "date": "Jun 19, 2026",
+    "details": "US strikes on tunnel and bridges",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Residential Areas",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Jun 19, 2026",
+    "details": "Israeli strike on residential areas",
+    "casualties": "7 people killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

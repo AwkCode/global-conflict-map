@@ -17235,5 +17235,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Oil Tanker",
+    "lat": 29,
+    "lng": 50,
+    "attacker": "US/Israel",
+    "date": "Jun 10, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Civilian Sites",
+    "lat": 29.3,
+    "lng": 47.9,
+    "attacker": "Iran",
+    "date": "Jun 10, 2026",
+    "details": "Iran targets civilian sites in Kuwait",
+    "casualties": "Fires reported, no casualty numbers given",
+    "killed": 0,
+    "injured": 0
   }
 ]

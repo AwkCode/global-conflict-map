@@ -3,7 +3,7 @@
     {
       "flag": "🇮🇷",
       "name": "Iran",
-      "killed": "3,540+",
+      "killed": "3,542+",
       "injured": "26,500+",
       "color": "#ef4444"
     },
@@ -24,7 +24,7 @@
     {
       "flag": "🇺🇸",
       "name": "US Military",
-      "killed": "14",
+      "killed": "16",
       "injured": "303",
       "color": "#818cf8"
     },
@@ -43,5 +43,5 @@
       "color": "#14b8a6"
     }
   ],
-  "lastUpdated": "2026-07-17T07:27:01.252Z"
+  "lastUpdated": "2026-07-18T19:19:40.391Z"
 }

@@ -17290,5 +17290,60 @@
     "casualties": "No reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jun 13, 2026",
+    "details": "Iranian attack on US troops",
+    "casualties": "2 killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Kharg island — Oil Tanker",
+    "lat": 29.2,
+    "lng": 50.3,
+    "attacker": "US/Israel",
+    "date": "Jun 13, 2026",
+    "details": "US strike on unladen oil tanker",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Residential Areas",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jun 13, 2026",
+    "details": "Israeli attack on residential areas",
+    "casualties": "8 killed",
+    "killed": 8,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.2,
+    "lng": 55.9,
+    "attacker": "US/Israel",
+    "date": "Jun 13, 2026",
+    "details": "US strike on tunnel and bridges",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "Jun 13, 2026",
+    "details": "Iranian attack on power and water plant",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

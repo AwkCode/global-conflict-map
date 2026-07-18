@@ -17081,5 +17081,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Jun 1, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Bridges and Infrastructure",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jun 1, 2026",
+    "details": "US strikes hit Iran for seventh consecutive night",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Militant Group",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "Israeli strike kills seven people",
+    "casualties": "Seven killed, unknown injured",
+    "killed": 7,
+    "injured": 0
   }
 ]

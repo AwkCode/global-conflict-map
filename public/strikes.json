@@ -17191,5 +17191,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Oil Tanker",
+    "lat": 29,
+    "lng": 50,
+    "attacker": "US/Israel",
+    "date": "Jun 7, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Bridges and Infrastructure",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jun 7, 2026",
+    "details": "US strikes hit Iran for seventh consecutive night",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

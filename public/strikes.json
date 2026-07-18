@@ -17257,5 +17257,38 @@
     "casualties": "Fires reported, no casualty numbers given",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Jun 11, 2026",
+    "details": "Overnight strikes damaged a tunnel and three bridges",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Civilian Sites",
+    "lat": 29.3753,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Jun 11, 2026",
+    "details": "Iranian strikes hit multiple locations in Mangaf",
+    "casualties": "Fires reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kharg island — Oil Tanker",
+    "lat": 29.2333,
+    "lng": 50.3167,
+    "attacker": "US/Israel",
+    "date": "Jun 11, 2026",
+    "details": "US military targeted an unladen oil tanker",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
   }
 ]

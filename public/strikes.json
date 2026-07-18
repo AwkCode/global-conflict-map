@@ -17114,5 +17114,27 @@
     "casualties": "Seven killed, unknown injured",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Iran — Bridges and Energy Infrastructure",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Jun 3, 2026",
+    "details": "US bombed bridges and energy infrastructure",
+    "casualties": "Water cut to villages in Iran's south",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Oil Tanker",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "US/Israel",
+    "date": "Jun 2, 2026",
+    "details": "US targeted an unladen oil tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -17642,5 +17642,60 @@
     "casualties": "7 people killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Jun 30, 2026",
+    "details": "Iranian drones target US troops",
+    "casualties": "2 US soldiers killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Jun 30, 2026",
+    "details": "Iranian retaliatory strike",
+    "casualties": "Fires sparked",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kharg island — Oil Tanker",
+    "lat": 29.23,
+    "lng": 50.33,
+    "attacker": "US/Israel",
+    "date": "Jun 30, 2026",
+    "details": "US strikes oil tanker with missiles",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.19,
+    "lng": 55.88,
+    "attacker": "US/Israel",
+    "date": "Jun 30, 2026",
+    "details": "Overnight strikes damage tunnel and bridges",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Residential Areas",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Jun 30, 2026",
+    "details": "Israeli strike targets militant group",
+    "casualties": "7 people killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

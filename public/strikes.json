@@ -17840,5 +17840,38 @@
     "casualties": "7 killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.1833,
+    "lng": 55.8667,
+    "attacker": "US/Israel",
+    "date": "Jul 4, 2026",
+    "details": "Overnight strikes damaged tunnel and bridges",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.95,
+    "lng": 35.9333,
+    "attacker": "Iran",
+    "date": "Jul 4, 2026",
+    "details": "Two US soldiers killed",
+    "casualties": "2 killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.3167,
+    "lng": 47.9667,
+    "attacker": "Iran",
+    "date": "Jul 4, 2026",
+    "details": "Plant on fire after attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

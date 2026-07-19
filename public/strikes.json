@@ -17598,5 +17598,49 @@
     "casualties": "7 killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.3,
+    "lng": 47.9,
+    "attacker": "Iran",
+    "date": "Jun 29, 2026",
+    "details": "Iran targeted civilian sites",
+    "casualties": "Fires reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jun 29, 2026",
+    "details": "Iranian attack killed 2 US soldiers",
+    "casualties": "2 US soldiers killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Kharg island — Oil Tanker",
+    "lat": 29.2,
+    "lng": 50.3,
+    "attacker": "US/Israel",
+    "date": "Jun 29, 2026",
+    "details": "US targeted unladen oil tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Residential Areas",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Israeli strike killed 7 people",
+    "casualties": "7 people killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

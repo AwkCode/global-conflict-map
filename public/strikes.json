@@ -17752,5 +17752,49 @@
     "casualties": "7 killed",
     "killed": 7,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Jul 2, 2026",
+    "details": "Iranian attack on US troops",
+    "casualties": "2 US soldiers killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.19,
+    "lng": 55.87,
+    "attacker": "US/Israel",
+    "date": "Jul 2, 2026",
+    "details": "US strikes on Iranian infrastructure",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.37,
+    "lng": 47.99,
+    "attacker": "Iran",
+    "date": "Jul 2, 2026",
+    "details": "Iranian retaliatory strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Residential Areas",
+    "lat": 31.51,
+    "lng": 34.46,
+    "attacker": "Israel",
+    "date": "Jul 2, 2026",
+    "details": "Israeli strike on militant group",
+    "casualties": "7 killed, unknown injured",
+    "killed": 7,
+    "injured": 0
   }
 ]

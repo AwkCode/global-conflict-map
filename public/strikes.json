@@ -17873,5 +17873,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jul 5, 2026",
+    "details": "Two US soldiers killed",
+    "casualties": "2 US soldiers killed, 1 missing",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.2,
+    "lng": 55.9,
+    "attacker": "US/Israel",
+    "date": "Jul 5, 2026",
+    "details": "Overnight strikes damaged tunnel and bridges",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "Jul 5, 2026",
+    "details": "Plant on fire after second attack in two days",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

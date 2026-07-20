@@ -18038,5 +18038,16 @@
     "casualties": "0 reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jul 20, 2026",
+    "details": "Two US soldiers killed",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

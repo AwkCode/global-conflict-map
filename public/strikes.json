@@ -18005,5 +18005,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iraq — US Troops",
+    "lat": 35,
+    "lng": 43,
+    "attacker": "Iran",
+    "date": "Jul 20, 2026",
+    "details": "US soldier killed during detonation of Iranian drone",
+    "casualties": "1 killed, 0 injured",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Hormozgan Province — Tunnel and Bridges",
+    "lat": 27.2,
+    "lng": 55.9,
+    "attacker": "US/Israel",
+    "date": "Jul 20, 2026",
+    "details": "US strikes hit Iran for ninth consecutive night",
+    "casualties": "0 reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Power and Water Plant",
+    "lat": 29.3,
+    "lng": 47.7,
+    "attacker": "Iran",
+    "date": "Jul 20, 2026",
+    "details": "Iran retaliated against US allies, targeting a power and water plant",
+    "casualties": "0 reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -18093,5 +18093,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iraq — US Troops",
+    "lat": 33.3,
+    "lng": 44.4,
+    "attacker": "Iran",
+    "date": "Jul 23, 2026",
+    "details": "US soldier killed and one injured",
+    "casualties": "1 killed, 1 injured",
+    "killed": 1,
+    "injured": 1
   }
 ]

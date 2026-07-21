@@ -18159,5 +18159,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Apartment",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jul 24, 2026",
+    "details": "Israeli air attack on an apartment",
+    "casualties": "5 killed",
+    "killed": 5,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ships",
+    "lat": 26.6,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Jul 24, 2026",
+    "details": "Iran hit two ships",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — Unknown Target",
+    "lat": 26,
+    "lng": 50.5,
+    "attacker": "Iran",
+    "date": "Jul 24, 2026",
+    "details": "Iran hit targets in Bahrain",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US Troops",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Jul 24, 2026",
+    "details": "Iran hit US base in Jordan",
+    "casualties": "2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

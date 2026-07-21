@@ -18115,5 +18115,49 @@
     "casualties": "1 killed, 1 injured",
     "killed": 1,
     "injured": 1
+  },
+  {
+    "name": "Bandar Abbas — Unknown Target",
+    "lat": 27.1833,
+    "lng": 56.2833,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US launches new wave of attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Qeshm Island — Unknown Target",
+    "lat": 26.7833,
+    "lng": 55.6333,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US launches new wave of attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Chabahar — Unknown Target",
+    "lat": 25.2833,
+    "lng": 60.6333,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US launches new wave of attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Konarak — Unknown Target",
+    "lat": 25.3667,
+    "lng": 60.4,
+    "attacker": "US/Israel",
+    "date": "Jul 24, 2026",
+    "details": "US launches new wave of attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

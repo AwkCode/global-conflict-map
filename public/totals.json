@@ -17,15 +17,15 @@
     {
       "flag": "🇮🇱",
       "name": "Israel",
-      "killed": "29",
+      "killed": "35",
       "injured": "6,950+",
       "color": "#3b82f6"
     },
     {
       "flag": "🇺🇸",
       "name": "US Military",
-      "killed": "20",
-      "injured": "306",
+      "killed": "18",
+      "injured": "305",
       "color": "#818cf8"
     },
     {
@@ -43,5 +43,5 @@
       "color": "#14b8a6"
     }
   ],
-  "lastUpdated": "2026-07-21T11:57:32.626Z"
+  "lastUpdated": "2026-07-21T16:38:19.512Z"
 }

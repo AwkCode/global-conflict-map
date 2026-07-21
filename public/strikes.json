@@ -18236,5 +18236,27 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Family Home",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jul 26, 2026",
+    "details": "Israeli air strike kills family of six",
+    "casualties": "Family of six killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — US Troops",
+    "lat": 33.33,
+    "lng": 44.43,
+    "attacker": "Iran",
+    "date": "Jul 27, 2026",
+    "details": "US soldier killed and one injured",
+    "casualties": "One US soldier killed, one injured",
+    "killed": 1,
+    "injured": 1
   }
 ]

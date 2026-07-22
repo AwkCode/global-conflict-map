@@ -18445,5 +18445,38 @@
     "casualties": "12 killed",
     "killed": 12,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ships",
+    "lat": 26.63,
+    "lng": 56.25,
+    "attacker": "Iran",
+    "date": "Jul 30, 2026",
+    "details": "Iran hits two ships in the Strait of Hormuz",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — Unknown Target",
+    "lat": 26.23,
+    "lng": 50.58,
+    "attacker": "Iran",
+    "date": "Jul 30, 2026",
+    "details": "Iran targets in Bahrain",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Unknown Target",
+    "lat": 31.95,
+    "lng": 35.93,
+    "attacker": "Iran",
+    "date": "Jul 30, 2026",
+    "details": "Iran targets in Jordan",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

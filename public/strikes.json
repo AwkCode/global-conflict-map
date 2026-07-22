@@ -18478,5 +18478,16 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Base",
+    "lat": 31.95,
+    "lng": 35.95,
+    "attacker": "Iran",
+    "date": "Jul 31, 2026",
+    "details": "Iranian missiles hit US base",
+    "casualties": "3 US soldiers killed",
+    "killed": 3,
+    "injured": 0
   }
 ]

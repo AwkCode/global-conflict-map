@@ -18269,5 +18269,27 @@
     "casualties": "12 killed",
     "killed": 12,
     "injured": 0
+  },
+  {
+    "name": "Tabriz — Unknown Target",
+    "lat": 38.08,
+    "lng": 46.29,
+    "attacker": "US/Israel",
+    "date": "Jul 27, 2026",
+    "details": "Explosions reported",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Tehran — Unknown Target",
+    "lat": 35.69,
+    "lng": 51.42,
+    "attacker": "US/Israel",
+    "date": "Jul 27, 2026",
+    "details": "Explosions reported",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -24,7 +24,7 @@
     {
       "flag": "🇺🇸",
       "name": "US Military",
-      "killed": "17",
+      "killed": "16",
       "injured": "304",
       "color": "#818cf8"
     },
@@ -43,5 +43,5 @@
       "color": "#14b8a6"
     }
   ],
-  "lastUpdated": "2026-07-22T12:00:23.368Z"
+  "lastUpdated": "2026-07-22T14:18:09.634Z"
 }

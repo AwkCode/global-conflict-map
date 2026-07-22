@@ -18434,5 +18434,16 @@
     "casualties": "2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Civilian Area",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jul 30, 2026",
+    "details": "Israeli strike kills 12",
+    "casualties": "12 killed",
+    "killed": 12,
+    "injured": 0
   }
 ]

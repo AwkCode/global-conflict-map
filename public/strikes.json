@@ -18489,5 +18489,16 @@
     "casualties": "3 US soldiers killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Family Home",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Jul 31, 2026",
+    "details": "Israeli strikes in Gaza",
+    "casualties": "12 killed, including family of six",
+    "killed": 12,
+    "injured": 0
   }
 ]

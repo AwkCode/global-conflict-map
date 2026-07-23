@@ -18533,5 +18533,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various Targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Aug 2, 2026",
+    "details": "US launches fresh strikes on Iran",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — Ships",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Aug 2, 2026",
+    "details": "Iran hits two ships in the Strait of Hormuz",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Bahrain — Unknown Target",
+    "lat": 26,
+    "lng": 50.5,
+    "attacker": "Iran",
+    "date": "Aug 2, 2026",
+    "details": "Iran hits targets in Bahrain",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — Unknown Target",
+    "lat": 31,
+    "lng": 36,
+    "attacker": "Iran",
+    "date": "Aug 2, 2026",
+    "details": "Iran hits targets in Jordan",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

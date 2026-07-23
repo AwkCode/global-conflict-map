@@ -18654,5 +18654,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tankers",
+    "lat": 22.3059,
+    "lng": 38.6442,
+    "attacker": "Hezbollah",
+    "date": "Aug 10, 2026",
+    "details": "Houthis claim strikes on 2 Saudi oil tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Border Crossings",
+    "lat": 29.5959,
+    "lng": 46.4069,
+    "attacker": "Iran",
+    "date": "Aug 10, 2026",
+    "details": "Chaos breaks out at border crossings",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

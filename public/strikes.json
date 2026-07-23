@@ -18577,5 +18577,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tankers",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Iran",
+    "date": "Aug 3, 2026",
+    "details": "Houthis claim attack on oil tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Civilian Area",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Aug 3, 2026",
+    "details": "Israeli strikes kill 12, including family of six",
+    "casualties": "12 killed",
+    "killed": 12,
+    "injured": 0
   }
 ]

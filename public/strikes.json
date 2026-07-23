@@ -18621,5 +18621,16 @@
     "casualties": "12 killed",
     "killed": 12,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tankers",
+    "lat": 22.3,
+    "lng": 38.5,
+    "attacker": "Hezbollah",
+    "date": "Aug 6, 2026",
+    "details": "Houthis claim strikes on 2 Saudi oil tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

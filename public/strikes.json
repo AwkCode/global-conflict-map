@@ -18698,5 +18698,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22.4333,
+    "lng": 38.0667,
+    "attacker": "Hezbollah",
+    "date": "Aug 12, 2026",
+    "details": "Houthi attack on Saudi vessel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Border Crossings",
+    "lat": 29.9667,
+    "lng": 47.4667,
+    "attacker": "Iran",
+    "date": "Aug 12, 2026",
+    "details": "Chaos at border crossings",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -18753,5 +18753,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various Targets",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Aug 20, 2026",
+    "details": "US attacks Iran for 13th consecutive night",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

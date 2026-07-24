@@ -18731,5 +18731,27 @@
     "casualties": "2 Palestinians killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Aug 20, 2026",
+    "details": "Houthi attack on Saudi vessel",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various Targets",
+    "lat": 33,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Aug 20, 2026",
+    "details": "Israeli attacks despite ceasefire deal",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -18808,5 +18808,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Occupied Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Aug 25, 2026",
+    "details": "Four Palestinians and one Israeli killed",
+    "casualties": "5 killed",
+    "killed": 5,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Aug 25, 2026",
+    "details": "Tanker attacked by Houthi militants",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

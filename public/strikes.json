@@ -18764,5 +18764,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Occupied Town",
+    "lat": 32.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 22, 2026",
+    "details": "Israeli settlers raid",
+    "casualties": "4 Palestinians, 1 Israeli killed",
+    "killed": 5,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22.5,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Aug 22, 2026",
+    "details": "Houthi attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

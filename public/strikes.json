@@ -18720,5 +18720,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Civilian Area",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 19, 2026",
+    "details": "Israeli bombing",
+    "casualties": "2 Palestinians killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

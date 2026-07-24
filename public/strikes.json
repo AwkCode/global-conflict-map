@@ -18885,5 +18885,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Aug 30, 2026",
+    "details": "Settler attack on villagers",
+    "casualties": "4 Palestinians, 2 Israelis killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Refugee Camp",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Aug 30, 2026",
+    "details": "Back-to-back strikes on refugee camp",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Nablus — Hospital",
+    "lat": 32.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 30, 2026",
+    "details": "Hospital raided, wounded Palestinians arrested",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

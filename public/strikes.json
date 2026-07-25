@@ -18973,5 +18973,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Sep 3, 2026",
+    "details": "Four Palestinians and two Israelis killed",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Hodeidah — Houthi-controlled area",
+    "lat": 15.3,
+    "lng": 42.9,
+    "attacker": "Maritime",
+    "date": "Sep 2, 2026",
+    "details": "Saudi-led coalition strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

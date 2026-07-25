@@ -19017,5 +19017,16 @@
     "casualties": "Four Palestinians and two Israelis killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Sep 6, 2026",
+    "details": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "casualties": "Four Palestinians and two Israelis killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

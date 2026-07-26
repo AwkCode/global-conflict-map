@@ -19182,5 +19182,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Sep 22, 2026",
+    "details": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Sep 22, 2026",
+    "details": "Houthi attacks raise fears of wider Middle East conflict",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

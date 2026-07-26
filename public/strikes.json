@@ -19270,5 +19270,38 @@
     "casualties": "Two Hamas security officials killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "casualties": "Four Palestinians and two Israelis killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Vehicle",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Sep 28, 2026",
+    "details": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+    "casualties": "Two Hamas security officials killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Tanker",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Sep 28, 2026",
+    "details": "Yemen's Houthis attack Saudi tanker",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

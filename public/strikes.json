@@ -19303,5 +19303,27 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Sep 29, 2026",
+    "details": "Shooting between settlers and Palestinians",
+    "casualties": "4 Palestinians, 2 Israelis killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Syria — Various",
+    "lat": 33.5,
+    "lng": 36.3,
+    "attacker": "Israel",
+    "date": "Sep 29, 2026",
+    "details": "Military incursion amid UN condemnation",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

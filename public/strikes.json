@@ -19325,5 +19325,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Sep 30, 2026",
+    "details": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "casualties": "6 killed, unknown injured",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Syria — Various",
+    "lat": 33.5,
+    "lng": 36.3,
+    "attacker": "Israel",
+    "date": "Sep 30, 2026",
+    "details": "Israel launches military incursion into Syria",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

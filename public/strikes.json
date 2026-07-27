@@ -19369,5 +19369,16 @@
     "casualties": "6 killed, unknown injured",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village",
+    "lat": 32,
+    "lng": 35,
+    "attacker": "Israel",
+    "date": "Oct 4, 2026",
+    "details": "Four Palestinians and two Israelis killed",
+    "casualties": "6 killed, unknown injured",
+    "killed": 6,
+    "injured": 0
   }
 ]

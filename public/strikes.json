@@ -19413,5 +19413,38 @@
     "casualties": "4 Palestinians and 2 Israelis killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village near Tal",
+    "lat": 32.1042,
+    "lng": 35.2969,
+    "attacker": "Israel",
+    "date": "Oct 8, 2026",
+    "details": "Israeli settlers set fire to mosques, cars, and farm land",
+    "casualties": "4 Palestinians and 2 Israelis killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Qusra",
+    "lat": 32.1042,
+    "lng": 35.2969,
+    "attacker": "Israel",
+    "date": "Oct 8, 2026",
+    "details": "Israeli settlers set fire to a mosque",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "UN Palestinian refugee centre",
+    "lat": 31.9559,
+    "lng": 35.8735,
+    "attacker": "Israel",
+    "date": "Oct 8, 2026",
+    "details": "Israeli raid sparks fire",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

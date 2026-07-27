@@ -19468,5 +19468,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — near village of Tal",
+    "lat": 32.1042,
+    "lng": 35.3053,
+    "attacker": "Israel",
+    "date": "Oct 8, 2026",
+    "details": "Four Palestinians and two Israelis killed",
+    "casualties": "6 killed, unknown injured",
+    "killed": 6,
+    "injured": 0
   }
 ]

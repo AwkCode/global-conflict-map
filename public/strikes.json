@@ -19446,5 +19446,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "West Bank — near Tal",
+    "lat": 32.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Oct 8, 2026",
+    "details": "Settlers set fire to mosques, cars and farm land",
+    "casualties": "4 Palestinians, 2 Israelis killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Saudi Arabia — various",
+    "lat": 24.7,
+    "lng": 46.7,
+    "attacker": "Iran",
+    "date": "Oct 8, 2026",
+    "details": "Drone strikes from Iran-backed groups",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

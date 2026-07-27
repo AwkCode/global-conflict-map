@@ -19391,5 +19391,16 @@
     "casualties": "4 Palestinians, 2 Israelis killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "West Bank — Village near Tal",
+    "lat": 32,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 6, 2026",
+    "details": "Settlers set fire to mosques, cars, and farm land",
+    "casualties": "4 Palestinians and 2 Israelis killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

@@ -19479,5 +19479,27 @@
     "casualties": "6 killed, unknown injured",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tanker",
+    "lat": 22.5,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Oct 9, 2026",
+    "details": "Houthis claim strike on Saudi oil tanker",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "West Bank — Village near Tal",
+    "lat": 32.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Oct 9, 2026",
+    "details": "Israeli settlers set fire to mosques, cars and farm land",
+    "casualties": "4 Palestinians and 2 Israelis dead",
+    "killed": 6,
+    "injured": 0
   }
 ]

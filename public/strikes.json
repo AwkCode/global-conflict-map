@@ -19501,5 +19501,16 @@
     "casualties": "4 Palestinians and 2 Israelis dead",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tanker",
+    "lat": 22.5,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Oct 10, 2026",
+    "details": "Houthis claim strike on Saudi Oil Tanker",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

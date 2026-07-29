@@ -19622,5 +19622,27 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Hezbollah",
+    "date": "Oct 20, 2026",
+    "details": "Explosive drone attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 20, 2026",
+    "details": "New Israeli strikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

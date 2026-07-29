@@ -19589,5 +19589,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-aligned groups",
+    "lat": 33,
+    "lng": 44,
+    "attacker": "US/Israel",
+    "date": "Oct 20, 2026",
+    "details": "US and Saudi Arabia launched joint air strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Jordan — US forces",
+    "lat": 31,
+    "lng": 36,
+    "attacker": "Iran",
+    "date": "Oct 20, 2026",
+    "details": "Iranian surprise attack on US forces",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea — Saudi Oil Tanker",
+    "lat": 22,
+    "lng": 38,
+    "attacker": "Hezbollah",
+    "date": "Oct 20, 2026",
+    "details": "Houthis claimed strike on another Saudi Oil Tanker",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

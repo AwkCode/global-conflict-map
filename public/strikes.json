@@ -19556,5 +19556,38 @@
     "casualties": "1 Palestinian killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-aligned groups",
+    "lat": 33,
+    "lng": 44,
+    "attacker": "US/Israel",
+    "date": "Oct 19, 2026",
+    "details": "US and Saudi Arabia launched joint air strikes",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — ships",
+    "lat": 26,
+    "lng": 56,
+    "attacker": "Iran",
+    "date": "Oct 19, 2026",
+    "details": "Iran struck three ships",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Middle East — US bases",
+    "lat": 32,
+    "lng": 45,
+    "attacker": "Iran",
+    "date": "Oct 19, 2026",
+    "details": "Iran attacked US bases",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

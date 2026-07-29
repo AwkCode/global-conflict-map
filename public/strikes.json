@@ -19655,5 +19655,27 @@
     "casualties": "At least 20 fighters killed",
     "killed": 20,
     "injured": 0
+  },
+  {
+    "name": "Egypt — Port",
+    "lat": 31.2333,
+    "lng": 30.0333,
+    "attacker": "Maritime",
+    "date": "Oct 22, 2026",
+    "details": "Apparent drone strike on two tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.35,
+    "lng": 35.6333,
+    "attacker": "Hezbollah",
+    "date": "Oct 22, 2026",
+    "details": "Explosive drone targeted Israeli vehicle",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -19644,5 +19644,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-backed militias",
+    "lat": 33.3,
+    "lng": 44.4,
+    "attacker": "US/Israel",
+    "date": "Oct 20, 2026",
+    "details": "US and Saudi airstrikes",
+    "casualties": "At least 20 fighters killed",
+    "killed": 20,
+    "injured": 0
   }
 ]

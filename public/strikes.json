@@ -19512,5 +19512,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Jordan — US Forces",
+    "lat": 31.9,
+    "lng": 35.9,
+    "attacker": "Iran",
+    "date": "Oct 12, 2026",
+    "details": "Iran missiles intercepted",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Mosque",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Oct 12, 2026",
+    "details": "Mosque destroyed",
+    "casualties": "1 Palestinian killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

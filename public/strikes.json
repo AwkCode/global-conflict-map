@@ -19776,5 +19776,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Qeshm Island — Various",
+    "lat": 26.9167,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Oct 29, 2026",
+    "details": "US strikes cause extensive damage",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Egypt — Port",
+    "lat": 31.2333,
+    "lng": 32.3167,
+    "attacker": "Maritime",
+    "date": "Oct 29, 2026",
+    "details": "Two tankers hit in apparent drone strike",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Hezbollah",
+    "date": "Oct 29, 2026",
+    "details": "Hezbollah attacks strategic area with explosive drone",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

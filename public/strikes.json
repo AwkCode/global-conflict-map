@@ -19831,5 +19831,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4,
+    "lng": 31.8,
+    "attacker": "Iran",
+    "date": "Nov 1, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-backed militias",
+    "lat": 33.3,
+    "lng": 44.4,
+    "attacker": "US/Israel",
+    "date": "Nov 1, 2026",
+    "details": "US and Saudi airstrikes",
+    "casualties": "20 fighters killed",
+    "killed": 20,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Hezbollah",
+    "date": "Nov 1, 2026",
+    "details": "Explosive drone attack",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

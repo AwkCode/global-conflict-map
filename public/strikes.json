@@ -19710,5 +19710,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Shati Refugee Camp",
+    "lat": 31.5,
+    "lng": 34.4,
+    "attacker": "Israel",
+    "date": "Oct 27, 2026",
+    "details": "Israeli strikes leave buildings burning",
+    "casualties": "Dozens displaced",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Egypt — Port",
+    "lat": 31.2,
+    "lng": 32.3,
+    "details": "Two tankers hit in apparent drone strike",
+    "attacker": "Iran",
+    "date": "Oct 25, 2026",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

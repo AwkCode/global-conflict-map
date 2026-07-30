@@ -19677,5 +19677,38 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Egypt — Port",
+    "lat": 31.2333,
+    "lng": 30.0333,
+    "attacker": "Maritime",
+    "date": "Oct 24, 2026",
+    "details": "Drone strike on two tankers",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-backed militias",
+    "lat": 33.2333,
+    "lng": 44.2333,
+    "attacker": "US/Israel",
+    "date": "Oct 24, 2026",
+    "details": "US and Saudi airstrikes",
+    "casualties": "20 fighters killed",
+    "killed": 20,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Hezbollah",
+    "date": "Oct 24, 2026",
+    "details": "Explosive drone attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

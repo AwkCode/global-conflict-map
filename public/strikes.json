@@ -20029,5 +20029,49 @@
     "casualties": "20 fighters killed",
     "killed": 20,
     "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4183,
+    "lng": 31.8153,
+    "attacker": "Iran",
+    "date": "Nov 8, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — Unknown",
+    "lat": 29.3753,
+    "lng": 47.9774,
+    "attacker": "Iran",
+    "date": "Nov 8, 2026",
+    "details": "Retaliatory attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-backed militias",
+    "lat": 33.3128,
+    "lng": 44.4353,
+    "attacker": "US/Israel",
+    "date": "Nov 8, 2026",
+    "details": "Airstrikes on militias",
+    "casualties": "20 fighters killed",
+    "killed": 20,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.0589,
+    "lng": 35.2147,
+    "attacker": "Hezbollah",
+    "date": "Nov 8, 2026",
+    "details": "Explosive drone attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

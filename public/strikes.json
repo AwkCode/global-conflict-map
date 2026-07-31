@@ -19985,5 +19985,49 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Nov 6, 2026",
+    "details": "US launches 'heavy' strikes on Iran",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4,
+    "lng": 31.8,
+    "attacker": "Iran",
+    "date": "Nov 6, 2026",
+    "details": "Drone attack on gas ships at Mediterranean port",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Strategic Area",
+    "lat": 33.1,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Nov 6, 2026",
+    "details": "Israeli strikes hit Hezbollah tunnel network",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iraq — Iran-backed militias",
+    "lat": 33.3,
+    "lng": 44.4,
+    "attacker": "US/Israel",
+    "date": "Nov 6, 2026",
+    "details": "US and Saudi airstrikes target Iran-backed militias",
+    "casualties": "20 fighters killed",
+    "killed": 20,
+    "injured": 0
   }
 ]

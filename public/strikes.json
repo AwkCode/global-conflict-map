@@ -20106,5 +20106,27 @@
     "casualties": "No reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Nov 10, 2026",
+    "details": "Drone attack",
+    "casualties": "No major impact",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.42,
+    "lng": 31.81,
+    "attacker": "Iran",
+    "date": "Nov 10, 2026",
+    "details": "Drone attack on US-owned regasification vessel and Greek-owned tanker",
+    "casualties": "Fire on ships",
+    "killed": 0,
+    "injured": 0
   }
 ]

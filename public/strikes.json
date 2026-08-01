@@ -20359,5 +20359,27 @@
     "casualties": "At least 2 Palestinians killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4183,
+    "lng": 31.8153,
+    "attacker": "Iran",
+    "date": "Nov 29, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "None reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "Nov 29, 2026",
+    "details": "Drone attack on US military",
+    "casualties": "No major impact",
+    "killed": 0,
+    "injured": 0
   }
 ]

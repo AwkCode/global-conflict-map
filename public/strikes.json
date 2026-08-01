@@ -20425,5 +20425,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Iran — Various",
+    "lat": 32,
+    "lng": 53,
+    "attacker": "US/Israel",
+    "date": "Dec 4, 2026",
+    "details": "US launches 'heavy' strikes on Iran",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4,
+    "lng": 31.8,
+    "attacker": "Iran",
+    "date": "Dec 3, 2026",
+    "details": "Drone attack caused fire on gas ships",
+    "casualties": "No reports",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Dec 3, 2026",
+    "details": "Israel bombards Gaza",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

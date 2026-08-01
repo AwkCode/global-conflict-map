@@ -20381,5 +20381,27 @@
     "casualties": "No major impact",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military",
+    "lat": 29.37,
+    "lng": 47.98,
+    "attacker": "Iran",
+    "date": "Dec 1, 2026",
+    "details": "Iran targeted US military in Kuwait with drones",
+    "casualties": "No major impact reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.42,
+    "lng": 31.81,
+    "attacker": "Iran",
+    "date": "Nov 30, 2026",
+    "details": "Drone attack caused fire on gas ships at Mediterranean port",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

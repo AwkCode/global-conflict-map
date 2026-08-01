@@ -20249,5 +20249,38 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4183,
+    "lng": 31.8153,
+    "attacker": "Iran",
+    "date": "Nov 20, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military",
+    "lat": 29.3697,
+    "lng": 47.9658,
+    "attacker": "Iran",
+    "date": "Nov 20, 2026",
+    "details": "Drone attack on US military",
+    "casualties": "No major impact",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Iran — Various",
+    "lat": 32.4279,
+    "lng": 53.688,
+    "attacker": "US/Israel",
+    "date": "Nov 20, 2026",
+    "details": "New strikes on Iran",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -20458,5 +20458,49 @@
     "casualties": "At least 2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Iran — Residential Area",
+    "lat": 32.4279,
+    "lng": 51.6544,
+    "attacker": "US/Israel",
+    "date": "Dec 5, 2026",
+    "details": "US dropped bomb on residential area",
+    "casualties": "3 civilians killed",
+    "killed": 3,
+    "injured": 0
+  },
+  {
+    "name": "Kuwait — US Military",
+    "lat": 29.3697,
+    "lng": 47.9783,
+    "attacker": "Iran",
+    "date": "Dec 5, 2026",
+    "details": "Iran targeted US military with drones",
+    "casualties": "No major impact",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4181,
+    "lng": 31.8153,
+    "attacker": "Iran",
+    "date": "Dec 5, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "Fire on ships",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5128,
+    "lng": 34.4558,
+    "attacker": "Israel",
+    "date": "Dec 5, 2026",
+    "details": "Israel bombarded Gaza",
+    "casualties": "At least 2 people killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

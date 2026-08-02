@@ -20799,5 +20799,27 @@
     "casualties": "3 civilians killed",
     "killed": 3,
     "injured": 0
+  },
+  {
+    "name": "Lebanon Hilltop — Hezbollah",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Dec 26, 2026",
+    "details": "Israel killed several Hezbollah members",
+    "casualties": "Several killed",
+    "killed": 5,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Dec 26, 2026",
+    "details": "Israel bombarded Gaza",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

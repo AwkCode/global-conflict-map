@@ -20700,5 +20700,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Damietta — Gas Ships",
+    "lat": 31.4183,
+    "lng": 31.8133,
+    "attacker": "Iran",
+    "date": "Dec 19, 2026",
+    "details": "Drone attack on gas ships",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon Hilltop — Hezbollah",
+    "lat": 33.1167,
+    "lng": 35.2167,
+    "attacker": "Israel",
+    "date": "Dec 19, 2026",
+    "details": "Confrontation with Hezbollah",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Dec 19, 2026",
+    "details": "Bombardment of Gaza",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

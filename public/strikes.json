@@ -20986,5 +20986,27 @@
     "casualties": "At least 2 killed",
     "killed": 2,
     "injured": 0
+  },
+  {
+    "name": "Lebanon Hilltop — Hezbollah",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Jan 22, 2026",
+    "details": "Confrontation over strategic ridge",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jan 22, 2026",
+    "details": "Bombardment after cease-fire announcement",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

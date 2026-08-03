@@ -20931,5 +20931,27 @@
     "casualties": "Several killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Various",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Jan 16, 2026",
+    "details": "Israeli strikes on Gaza",
+    "casualties": "At least 13 killed",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon Hilltop — Hezbollah",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Jan 16, 2026",
+    "details": "Israel killed several Hezbollah members",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
   }
 ]

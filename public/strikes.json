@@ -21151,5 +21151,60 @@
     "casualties": "Several killed",
     "killed": 5,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Various",
+    "lat": 31.5,
+    "lng": 34.4667,
+    "attacker": "Israel",
+    "date": "Apr 13, 2026",
+    "details": "Israeli strikes on Gaza",
+    "casualties": "At least 13 killed",
+    "killed": 13,
+    "injured": 0
+  },
+  {
+    "name": "Khan Younis — Various",
+    "lat": 31.35,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "Apr 13, 2026",
+    "details": "Israeli strikes on Khan Younis",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Deir el-Balah — Various",
+    "lat": 31.4167,
+    "lng": 34.35,
+    "attacker": "Israel",
+    "date": "Apr 13, 2026",
+    "details": "Israeli strikes on Deir el-Balah",
+    "casualties": "At least 2 killed",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Lebanon Hilltop — Hezbollah",
+    "lat": 33.35,
+    "lng": 35.65,
+    "attacker": "Israel",
+    "date": "Apr 12, 2026",
+    "details": "Israel killed several Hezbollah members",
+    "casualties": "Several killed",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Apr 13, 2026",
+    "details": "Israel bombards Gaza",
+    "casualties": "At least 2 people killed",
+    "killed": 2,
+    "injured": 0
   }
 ]

@@ -21459,5 +21459,16 @@
     "casualties": "At least 13 killed",
     "killed": 13,
     "injured": 0
+  },
+  {
+    "name": "Gaza City — Hamas Operatives",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "May 2, 2026",
+    "details": "Israeli strikes on Gaza",
+    "casualties": "At least 13 killed",
+    "killed": 13,
+    "injured": 0
   }
 ]

@@ -21635,5 +21635,16 @@
     "casualties": "Not reported",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Hezbollah",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 20, 2026",
+    "details": "Israeli strike after accusing Hezbollah of cease-fire violation",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

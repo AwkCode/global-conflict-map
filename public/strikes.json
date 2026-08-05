@@ -21613,5 +21613,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Hezbollah",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "May 16, 2026",
+    "details": "Strike after cease-fire violation",
+    "casualties": "Not reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -21679,5 +21679,16 @@
     "casualties": "1 person killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.17,
+    "lng": 35.23,
+    "attacker": "Israel",
+    "date": "Jun 1, 2026",
+    "details": "Strike in response to Hezbollah ceasefire violation",
+    "casualties": "1 person killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

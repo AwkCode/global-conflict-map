@@ -21811,5 +21811,16 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.58,
+    "attacker": "Israel",
+    "date": "Jun 24, 2026",
+    "details": "Strike after two soldiers killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

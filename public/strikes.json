@@ -21734,5 +21734,27 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Strike after 2 soldiers killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Qalandiya — Various",
+    "lat": 31.9,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Jun 17, 2026",
+    "details": "Raid injures 51 Palestinians",
+    "casualties": "51 injured",
+    "killed": 0,
+    "injured": 51
   }
 ]

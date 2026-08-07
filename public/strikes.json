@@ -21976,5 +21976,49 @@
     "casualties": "At least 30 killed",
     "killed": 30,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.35,
+    "lng": 35.45,
+    "attacker": "Israel",
+    "date": "Jul 17, 2026",
+    "details": "Strike after 2 soldiers killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Yemen coast — Indian-flagged ship",
+    "lat": 12.77,
+    "lng": 45.02,
+    "attacker": "Maritime",
+    "date": "Jul 17, 2026",
+    "details": "Projectile sank ship",
+    "casualties": "None",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.43,
+    "lng": 45.33,
+    "attacker": "Iran",
+    "date": "Jul 17, 2026",
+    "details": "Houthi attacks",
+    "casualties": "30 killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.93,
+    "lng": 49.02,
+    "attacker": "Iran",
+    "date": "Jul 17, 2026",
+    "details": "Houthi attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

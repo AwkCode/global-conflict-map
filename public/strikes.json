@@ -21943,5 +21943,38 @@
     "casualties": "30 killed",
     "killed": 30,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.59,
+    "attacker": "Israel",
+    "date": "Jul 14, 2026",
+    "details": "Retaliation for explosion killing 2 soldiers",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Yemen coast — Indian-flagged ship",
+    "lat": 12.77,
+    "lng": 45.02,
+    "attacker": "Maritime",
+    "date": "Jul 13, 2026",
+    "details": "Projectile sank ship",
+    "casualties": "None, all rescued",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.43,
+    "lng": 45.31,
+    "attacker": "Iran",
+    "date": "Jul 12, 2026",
+    "details": "Houthi attacks with missiles and drones",
+    "casualties": "At least 30 killed",
+    "killed": 30,
+    "injured": 0
   }
 ]

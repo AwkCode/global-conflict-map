@@ -21756,5 +21756,38 @@
     "casualties": "51 injured",
     "killed": 0,
     "injured": 51
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.58,
+    "attacker": "Israel",
+    "date": "Jun 20, 2026",
+    "details": "Israeli strikes in response to explosion",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Saudi military build-ups",
+    "lat": 15.47,
+    "lng": 45.31,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Houthi missile and drone attacks",
+    "casualties": "30+ killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.88,
+    "lng": 49.02,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Houthi missile and drone attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

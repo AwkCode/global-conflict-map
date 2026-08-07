@@ -21833,5 +21833,27 @@
     "casualties": "1 person killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.37,
+    "attacker": "Israel",
+    "date": "Jun 29, 2026",
+    "details": "Retaliation for explosion killing 2 soldiers",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.43,
+    "lng": 45.31,
+    "attacker": "Iran",
+    "date": "Jun 28, 2026",
+    "details": "Houthi missile and drone attacks",
+    "casualties": "30 killed",
+    "killed": 30,
+    "injured": 0
   }
 ]

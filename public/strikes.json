@@ -21789,5 +21789,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.4333,
+    "lng": 45.3167,
+    "attacker": "Iran",
+    "date": "Jun 20, 2026",
+    "details": "Houthi missiles and drones",
+    "casualties": "30 Yemeni government forces killed",
+    "killed": 30,
+    "injured": 0
   }
 ]

@@ -21800,5 +21800,16 @@
     "casualties": "30 Yemeni government forces killed",
     "killed": 30,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.59,
+    "attacker": "Israel",
+    "date": "Jun 22, 2026",
+    "details": "Israeli strikes in response to explosion",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

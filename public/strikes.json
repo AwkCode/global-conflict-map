@@ -22416,5 +22416,16 @@
     "casualties": "1 killed, unknown injured",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.1667,
+    "lng": 35.25,
+    "attacker": "Israel",
+    "date": "Aug 14, 2026",
+    "details": "Israel strikes south Lebanon after two soldiers killed by explosion",
+    "casualties": "One person killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

@@ -22119,5 +22119,38 @@
     "casualties": "No reported casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.34,
+    "lng": 35.38,
+    "attacker": "Israel",
+    "date": "Jul 27, 2026",
+    "details": "Israel strikes south Lebanon after two soldiers killed by explosion",
+    "casualties": "1 person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.43,
+    "lng": 45.31,
+    "attacker": "Iran",
+    "date": "Jul 26, 2026",
+    "details": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+    "casualties": "30 Yemeni government forces killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.93,
+    "lng": 48.65,
+    "attacker": "Iran",
+    "date": "Jul 26, 2026",
+    "details": "Houthi attacks reportedly target Saudi military build-ups",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

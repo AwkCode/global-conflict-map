@@ -22328,5 +22328,16 @@
     "casualties": "no reports",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — ADNOC tanker",
+    "lat": 25.8,
+    "lng": 56.3,
+    "attacker": "Iran",
+    "date": "Aug 8, 2026",
+    "details": "Missile strike on Emirati tanker",
+    "casualties": "No casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

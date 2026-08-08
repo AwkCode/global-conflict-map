@@ -22339,5 +22339,38 @@
     "casualties": "No casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.45,
+    "lng": 45.33,
+    "attacker": "Hezbollah",
+    "date": "Aug 9, 2026",
+    "details": "Houthi attacks on Yemeni military",
+    "casualties": "30 killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.95,
+    "lng": 48.65,
+    "attacker": "Hezbollah",
+    "date": "Aug 9, 2026",
+    "details": "Houthi attacks on Saudi military",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — ADNOC tanker",
+    "lat": 26.63,
+    "lng": 56.38,
+    "attacker": "Iran",
+    "date": "Aug 9, 2026",
+    "details": "Missile strike on Emirati tanker",
+    "casualties": "No casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

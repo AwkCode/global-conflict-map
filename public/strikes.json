@@ -22372,5 +22372,27 @@
     "casualties": "No casualties",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.35,
+    "lng": 35.55,
+    "attacker": "Israel",
+    "date": "Aug 10, 2026",
+    "details": "Retaliation for explosion killing 2 soldiers",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Strait of Hormuz — ADNOC tanker",
+    "lat": 25.83,
+    "lng": 56.45,
+    "attacker": "Iran",
+    "date": "Aug 10, 2026",
+    "details": "Missile strike",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -22229,5 +22229,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.2,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Aug 5, 2026",
+    "details": "Israel strikes after accusing Hezbollah of cease-fire violation",
+    "casualties": "1 person killed",
+    "killed": 1,
+    "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.4,
+    "lng": 45.3,
+    "attacker": "Iran",
+    "date": "Aug 4, 2026",
+    "details": "Houthis launch missiles and drones at Yemeni government forces",
+    "casualties": "At least 30 killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.9,
+    "lng": 48.6,
+    "attacker": "Iran",
+    "date": "Aug 4, 2026",
+    "details": "Houthis launch missiles and drones at Saudi military build-ups",
+    "casualties": "No reported casualties",
+    "killed": 0,
+    "injured": 0
   }
 ]

@@ -22493,5 +22493,38 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Marib — Yemeni government forces",
+    "lat": 15.4333,
+    "lng": 45.2833,
+    "attacker": "Iran",
+    "date": "Aug 20, 2026",
+    "details": "Houthi attacks kill 30 Yemeni forces",
+    "casualties": "30 killed",
+    "killed": 30,
+    "injured": 0
+  },
+  {
+    "name": "Hadramawt — Saudi military build-ups",
+    "lat": 15.8667,
+    "lng": 48.65,
+    "attacker": "Iran",
+    "date": "Aug 20, 2026",
+    "details": "Houthi attacks on Saudi build-ups",
+    "casualties": "No reported",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Various",
+    "lat": 33.1667,
+    "lng": 35.25,
+    "attacker": "Israel",
+    "date": "Aug 20, 2026",
+    "details": "Israel strikes after 2 soldiers killed",
+    "casualties": "1 killed",
+    "killed": 1,
+    "injured": 0
   }
 ]

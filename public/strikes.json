@@ -22592,5 +22592,27 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Yemeni Military Camp — Yemeni military",
+    "lat": 15,
+    "lng": 44,
+    "attacker": "Hezbollah",
+    "date": "Aug 24, 2026",
+    "details": "Houthis claim attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Southern Iran — Various",
+    "lat": 27,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Aug 24, 2026",
+    "details": "Near-constant U.S. airstrikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

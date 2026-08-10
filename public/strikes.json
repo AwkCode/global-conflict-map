@@ -22559,5 +22559,16 @@
     "casualties": "One killed, one body recovered from rubble",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "Qeshm island — Various",
+    "lat": 26.82,
+    "lng": 55.59,
+    "attacker": "US/Israel",
+    "date": "Aug 20, 2026",
+    "details": "Near-constant U.S. airstrikes in Qeshm island",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

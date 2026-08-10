@@ -22548,5 +22548,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Various",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Aug 20, 2026",
+    "details": "Israeli forces kill one in Gaza",
+    "casualties": "One killed, one body recovered from rubble",
+    "killed": 1,
+    "injured": 0
   }
 ]

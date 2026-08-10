@@ -22581,5 +22581,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Yemeni Military Camp — Yemeni military",
+    "lat": 15,
+    "lng": 44,
+    "attacker": "Hezbollah",
+    "date": "Aug 23, 2026",
+    "details": "Houthis claim attack",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

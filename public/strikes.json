@@ -22526,5 +22526,27 @@
     "casualties": "1 killed",
     "killed": 1,
     "injured": 0
+  },
+  {
+    "name": "al-Makha port — Yemeni port",
+    "lat": 13.3333,
+    "lng": 43.2833,
+    "attacker": "Iran",
+    "date": "Aug 20, 2026",
+    "details": "Houthis launch ballistic missile and drone attacks",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
+  },
+  {
+    "name": "Yemeni Military Camp — Yemeni military",
+    "lat": 15.3556,
+    "lng": 44.2083,
+    "attacker": "Iran",
+    "date": "Aug 20, 2026",
+    "details": "Houthis claim attack on Yemeni military camp",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

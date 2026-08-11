@@ -22614,5 +22614,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Qeshm island — Various",
+    "lat": 26.95,
+    "lng": 56,
+    "attacker": "US/Israel",
+    "date": "Aug 25, 2026",
+    "details": "Near-constant U.S. airstrikes",
+    "casualties": "Unknown",
+    "killed": 0,
+    "injured": 0
   }
 ]

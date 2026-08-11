@@ -22625,5 +22625,16 @@
     "casualties": "Unknown",
     "killed": 0,
     "injured": 0
+  },
+  {
+    "name": "Red Sea Ship — Cargo Ship",
+    "lat": 15,
+    "lng": 42,
+    "attacker": "Iran",
+    "date": "Aug 26, 2026",
+    "details": "Houthi strike on cargo ship",
+    "casualties": "4 killed",
+    "killed": 4,
+    "injured": 0
   }
 ]

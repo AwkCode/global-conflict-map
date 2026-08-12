@@ -22757,5 +22757,38 @@
     "casualties": "1 injured",
     "killed": 0,
     "injured": 1
+  },
+  {
+    "name": "Red Sea Ship — Cargo Ship",
+    "lat": 16,
+    "lng": 42,
+    "attacker": "Hezbollah",
+    "date": "Sep 3, 2026",
+    "details": "Houthi strike on ship carrying food supplies",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
+  },
+  {
+    "name": "Northern Gaza — Tuk-tuk",
+    "lat": 31.55,
+    "lng": 34.5,
+    "attacker": "Israel",
+    "date": "Sep 3, 2026",
+    "details": "Israeli air strike on tuk-tuk",
+    "casualties": "1 killed, 5 injured",
+    "killed": 1,
+    "injured": 5
+  },
+  {
+    "name": "Khan Younis — Civilian area",
+    "lat": 31.35,
+    "lng": 34.3,
+    "attacker": "Israel",
+    "date": "Sep 3, 2026",
+    "details": "Israeli forces shot 11-year-old boy",
+    "casualties": "1 injured",
+    "killed": 0,
+    "injured": 1
   }
 ]

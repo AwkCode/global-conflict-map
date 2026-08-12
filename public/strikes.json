@@ -22647,5 +22647,16 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Bab al-Mandeb ship — Tihamah",
+    "lat": 12.65,
+    "lng": 43.45,
+    "attacker": "Hezbollah",
+    "date": "Aug 28, 2026",
+    "details": "Houthi attack on ship",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

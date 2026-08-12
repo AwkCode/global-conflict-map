@@ -22702,5 +22702,16 @@
     "casualties": "Four killed",
     "killed": 4,
     "injured": 0
+  },
+  {
+    "name": "Red Sea Ship — Cargo Ship",
+    "lat": 16,
+    "lng": 42,
+    "attacker": "Hezbollah",
+    "date": "Aug 31, 2026",
+    "details": "Houthi strike on ship with Saudi military equipment",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

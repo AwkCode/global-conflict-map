@@ -22944,5 +22944,27 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Gaza — Unknown Location",
+    "lat": 31.5,
+    "lng": 34.45,
+    "attacker": "Israel",
+    "date": "Sep 21, 2026",
+    "details": "Israeli drone strikes",
+    "casualties": "2 killed, several injured",
+    "killed": 2,
+    "injured": 0
+  },
+  {
+    "name": "Red Sea Ship — Cargo Ship",
+    "lat": 15,
+    "lng": 42,
+    "attacker": "Hezbollah",
+    "date": "Sep 21, 2026",
+    "details": "Houthi strike on ship",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

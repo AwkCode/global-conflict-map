@@ -23109,5 +23109,16 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Unknown Location",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 14, 2026",
+    "details": "Deadliest Israeli attack in Lebanon",
+    "casualties": "7 killed",
+    "killed": 7,
+    "injured": 0
   }
 ]

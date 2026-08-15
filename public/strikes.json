@@ -23142,5 +23142,27 @@
     "casualties": "9 killed, several children",
     "killed": 9,
     "injured": 0
+  },
+  {
+    "name": "South Lebanon — Unknown Location",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 18, 2026",
+    "details": "Israeli strike kills seven",
+    "casualties": "7 killed, including children",
+    "killed": 7,
+    "injured": 0
+  },
+  {
+    "name": "South Lebanon — Unknown Location",
+    "lat": 33.1,
+    "lng": 35.2,
+    "attacker": "Israel",
+    "date": "Oct 18, 2026",
+    "details": "Israeli strike kills 9",
+    "casualties": "9 killed, including children",
+    "killed": 9,
+    "injured": 0
   }
 ]

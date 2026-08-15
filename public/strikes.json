@@ -23054,5 +23054,16 @@
     "casualties": "6 killed",
     "killed": 6,
     "injured": 0
+  },
+  {
+    "name": "Red Sea Ship — Cargo Ship",
+    "lat": 13.95,
+    "lng": 42.73,
+    "attacker": "Hezbollah",
+    "date": "Oct 5, 2026",
+    "details": "Houthi strike on ship carrying food",
+    "casualties": "6 killed",
+    "killed": 6,
+    "injured": 0
   }
 ]

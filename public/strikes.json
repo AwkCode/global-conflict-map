@@ -23175,5 +23175,16 @@
     "casualties": "Several children killed",
     "killed": 9,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Unknown Location",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Oct 21, 2026",
+    "details": "Israeli strikes in Lebanon",
+    "casualties": "Several children killed",
+    "killed": 9,
+    "injured": 0
   }
 ]

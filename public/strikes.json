@@ -23197,5 +23197,16 @@
     "casualties": "11 killed, including children",
     "killed": 11,
     "injured": 0
+  },
+  {
+    "name": "Lebanon — Unknown Location",
+    "lat": 33.85,
+    "lng": 35.86,
+    "attacker": "Israel",
+    "date": "Oct 24, 2026",
+    "details": "Israeli strikes in response to Hezbollah",
+    "casualties": "11 killed, including children",
+    "killed": 11,
+    "injured": 0
   }
 ]

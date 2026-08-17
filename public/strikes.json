@@ -23428,5 +23428,16 @@
     "casualties": "Children among those killed",
     "killed": 11,
     "injured": 0
+  },
+  {
+    "name": "Southern Lebanon — Unknown Location",
+    "lat": 33.3,
+    "lng": 35.3,
+    "attacker": "Israel",
+    "date": "Nov 29, 2026",
+    "details": "Israeli strikes on Hezbollah terror infrastructure",
+    "casualties": "Children among those killed",
+    "killed": 11,
+    "injured": 0
   }
 ]

@@ -3,105 +3,105 @@
     "symbol": "CL=F",
     "name": "WTI Crude",
     "unit": "$/bbl",
-    "price": 102.23,
-    "dayChange": 9.89,
-    "weekChange": 9.89,
+    "price": 104,
+    "dayChange": 11.79,
+    "weekChange": 11.79,
     "history": [
       93.02999877929688,
       96.05000305175781,
       102.4800033569336,
       100.05000305175781,
-      102.2300033569336
+      104
     ]
   },
   {
     "symbol": "BZ=F",
     "name": "Brent Crude",
     "unit": "$/bbl",
-    "price": 106.82,
-    "dayChange": 9.09,
-    "weekChange": 9.09,
+    "price": 109.13,
+    "dayChange": 11.45,
+    "weekChange": 11.45,
     "history": [
       97.91999816894531,
       101.20999908447266,
       107.62999725341797,
       104.61000061035156,
-      106.81999969482422
+      109.12999725341797
     ]
   },
   {
     "symbol": "NG=F",
     "name": "Natural Gas",
     "unit": "$/MMBtu",
-    "price": 2.89,
-    "dayChange": -0.89,
-    "weekChange": -0.89,
+    "price": 2.869,
+    "dayChange": -1.61,
+    "weekChange": -1.61,
     "history": [
       2.9159998893737793,
       2.822000026702881,
       2.8340001106262207,
       2.8310000896453857,
-      2.890000104904175
+      2.86899995803833
     ]
   },
   {
     "symbol": "GC=F",
     "name": "Gold",
     "unit": "$/oz",
-    "price": 4378,
-    "dayChange": -0.36,
-    "weekChange": -0.36,
+    "price": 4311.9,
+    "dayChange": -1.87,
+    "weekChange": -1.87,
     "history": [
       4393.89990234375,
       4416,
       4364.5,
       4366.2001953125,
-      4378
+      4311.89990234375
     ]
   },
   {
     "symbol": "SI=F",
     "name": "Silver",
     "unit": "$/oz",
-    "price": 64.515,
-    "dayChange": -2.69,
-    "weekChange": -2.69,
+    "price": 63.385,
+    "dayChange": -4.39,
+    "weekChange": -4.39,
     "history": [
       66.2969970703125,
       67.94200134277344,
       64.28399658203125,
       64.55400085449219,
-      64.51499938964844
+      63.3849983215332
     ]
   },
   {
     "symbol": "HO=F",
     "name": "Heating Oil",
     "unit": "$/gal",
-    "price": 4.8465,
-    "dayChange": 6.1,
-    "weekChange": 6.1,
+    "price": 4.904,
+    "dayChange": 7.36,
+    "weekChange": 7.36,
     "history": [
       4.567800045013428,
       4.801000118255615,
       5.057499885559082,
       4.9593000411987305,
-      4.846499919891357
+      4.9039998054504395
     ]
   },
   {
     "symbol": "RB=F",
     "name": "Gasoline",
     "unit": "$/gal",
-    "price": 3.1717,
-    "dayChange": -2.48,
-    "weekChange": -2.48,
+    "price": 3.2413,
+    "dayChange": -0.34,
+    "weekChange": -0.34,
     "history": [
       3.252500057220459,
       3.210599899291992,
       3.393199920654297,
       3.3071999549865723,
-      3.1717000007629395
+      3.241300106048584
     ]
   }
 ]

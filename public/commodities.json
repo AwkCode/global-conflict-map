@@ -78,8 +78,8 @@
     "symbol": "HO=F",
     "name": "Heating Oil",
     "unit": "$/gal",
-    "price": 4.462,
-    "dayChange": -8.75,
+    "price": 4.4621,
+    "dayChange": -8.74,
     "weekChange": -8.74,
     "history": [
       4.889500141143799,
@@ -93,9 +93,9 @@
     "symbol": "RB=F",
     "name": "Gasoline",
     "unit": "$/gal",
-    "price": 3.188,
-    "dayChange": -8.13,
-    "weekChange": -8.12,
+    "price": 3.1875,
+    "dayChange": -8.14,
+    "weekChange": -8.14,
     "history": [
       3.469899892807007,
       3.487499952316284,

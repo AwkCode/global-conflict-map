@@ -78,8 +78,8 @@
     "symbol": "HO=F",
     "name": "Heating Oil",
     "unit": "$/gal",
-    "price": 4.501,
-    "dayChange": -5.34,
+    "price": 4.5011,
+    "dayChange": -5.35,
     "weekChange": -5.35,
     "history": [
       4.755300045013428,

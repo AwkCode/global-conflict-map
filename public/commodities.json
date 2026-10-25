@@ -79,7 +79,7 @@
     "name": "Heating Oil",
     "unit": "$/gal",
     "price": 4.787,
-    "dayChange": -2.71,
+    "dayChange": -2.7,
     "weekChange": -2.71,
     "history": [
       4.920100212097168,
